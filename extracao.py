@@ -1,4 +1,5 @@
 import re
+import os
 import concurrent.futures
 from pathlib import Path
 import pandas as pd
@@ -7,7 +8,16 @@ from pypdf import PdfReader
 # --- CONFIGURAÇÃO ---
 INPUT_DIR = Path(__file__).parent
 OUTPUT_CSV_FILE = 'relatorio_consolidado_extraido.csv'
+MAX_CPU_WORKERS = os.cpu_count()  # Usar todos os núcleos de CPU disponíveis
 # --- FIM DA CONFIGURAÇÃO ---
+
+# --- PADRÕES DE REGEX PRÉ-COMPILADOS ---
+NOME_CURSO_PATTERN = re.compile(r"Curso\(s\)\s*/\s*Habilitação\(ões\)[^\n]*?:\s*([^\n]+)", re.IGNORECASE)
+CODIGO_MEC_PATTERN = re.compile(r"C[oó]digo (?:(?:e-MEC )?do Curso|MEC)\s*:\s*(\d+)", re.IGNORECASE)
+CONCEITOS_PATTERN = re.compile(r"CONCEITO\s+FINAL\s+CONTÍNUO\s+CONCEITO\s+FINAL\s+FAIXA\s+([\d,.]+)\s+(\d)", re.IGNORECASE)
+AVALIADORES_PATTERN = re.compile(r'Avaliadores\s*"ad-hoc":\s*(.*?)(?:\n\n|\Z)', re.DOTALL)
+INDICADORES_PATTERN = re.compile(r"^\s*(\d+\.\d+)\..*?Justificativa para conceito\s*(.*?)\s*:", re.MULTILINE | re.DOTALL | re.IGNORECASE)
+# --- FIM DOS PADRÕES ---
 
 
 def extrair_texto_do_pdf(pdf_path: Path) -> str:
@@ -30,29 +40,28 @@ def extrair_texto_do_pdf(pdf_path: Path) -> str:
 def extrair_informacoes(texto: str, pdf_path: Path) -> dict:
     """
     Usa expressões regulares aprimoradas para extrair dados do texto do relatório.
+    O texto é pré-processado para aumentar a robustez da extração.
     """
     dados = {}
+    
+    # Etapa de limpeza: normaliza múltiplos espaços e quebras de linha para um único espaço
+    # Isso torna a busca por regex mais robusta a variações de espaçamento no PDF.
+    texto_limpo_para_regex = re.sub(r'\s+', ' ', texto).strip()
 
     # --- Extração do Curso e Código ---
-    # Use lookahead to stop before the next section
-    nome_curso_match = re.search(r"Curso\(s\)\s*/\s*Habilitação\(ões\)[^\n]*?:\s*(.*?)(?=\s*Informações da comissão:)", texto, re.DOTALL | re.IGNORECASE)
-    
-    if nome_curso_match and nome_curso_match.group(1).strip():
-        nome_curso = nome_curso_match.group(1).strip()
-    else:
-        # Fallback to filename if course name is not found
-        nome_curso = pdf_path.stem.replace("Ocr_", "").replace("Relatório ", "").strip()
+    nome_curso_match = NOME_CURSO_PATTERN.search(texto) # Usar texto original para preservar quebras de linha
+    nome_curso = nome_curso_match.group(1).strip() if nome_curso_match else 'NÃO ENCONTRADO'
 
-    codigo_match = re.search(r"C[oó]digo (?:(?:e-MEC )?do Curso|MEC)\s*:\s*(\d+)", texto, re.IGNORECASE)
+    codigo_match = CODIGO_MEC_PATTERN.search(texto) # Usar texto original
     codigo_mec = codigo_match.group(1).strip() if codigo_match else None
 
-    if codigo_mec:
+    if codigo_mec and nome_curso != 'NÃO ENCONTRADO':
         dados['CURSO'] = f"{codigo_mec} - {nome_curso}"
     else:
         dados['CURSO'] = nome_curso
 
     # --- Extração de outros dados ---
-    conceitos_match = re.search(r"CONCEITO\s+FINAL\s+CONTÍNUO\s+CONCEITO\s+FINAL\s+FAIXA\s+([\d,.]+)\s+(\d)", texto, re.IGNORECASE)
+    conceitos_match = CONCEITOS_PATTERN.search(texto_limpo_para_regex)
     if conceitos_match:
         dados['CONCEITO FINAL CONTÍNUO'] = conceitos_match.group(1).strip().replace(',', '.')
         dados['CONCEITO FINAL FAIXA'] = conceitos_match.group(2).strip()
@@ -60,14 +69,11 @@ def extrair_informacoes(texto: str, pdf_path: Path) -> dict:
         dados['CONCEITO FINAL CONTÍNUO'] = None
         dados['CONCEITO FINAL FAIXA'] = None
 
-    bloco_avaliadores_match = re.search(r'Avaliadores\s*"ad-hoc":\s*(.*?)(?:\n\n|\Z)', texto, re.DOTALL)
+    bloco_avaliadores_match = AVALIADORES_PATTERN.search(texto) # Usar texto original para estrutura
     if bloco_avaliadores_match:
         bloco_texto = bloco_avaliadores_match.group(1)
-        # Remove role descriptions like "-> coordenador(a) da comissão"
         bloco_limpo = re.sub(r'->.*?comissão', '', bloco_texto)
-        # Split the string by the CPF pattern to get the names
         nomes_brutos = re.split(r'\s*\(\d+\)', bloco_limpo)
-        # Clean up the found names
         nomes_limpos = [nome.strip() for nome in nomes_brutos if len(nome.strip()) > 5]
         dados['Avaliador 1'] = nomes_limpos[0] if len(nomes_limpos) > 0 else ''
         dados['Avaliador 2'] = nomes_limpos[1] if len(nomes_limpos) > 1 else ''
@@ -75,20 +81,14 @@ def extrair_informacoes(texto: str, pdf_path: Path) -> dict:
         dados['Avaliador 1'] = ''
         dados['Avaliador 2'] = ''
 
-    # Notas dos Indicadores
-    # Split the text by a more specific indicator pattern to handle formatting errors
-    blocos = re.split(r'(?=(?:[123])\.\d{1,2}\.)', texto)
-    
-    for bloco in blocos:
-        # Find the indicator and grade within each block
-        match = re.search(r"(\d+\.\d+)\..*?Justificativa para conceito\s*(.*?)\s*:", bloco, re.DOTALL | re.IGNORECASE)
-        if match:
-            indicador, nota = match.groups()
-            nota_limpa = nota.strip()
-            if nota_limpa.upper() == 'NSA':
-                dados[indicador] = 'nsa'
-            elif nota_limpa.isdigit():
-                dados[indicador] = nota_limpa
+    # Notas dos Indicadores (usando o texto original que preserva as quebras de linha)
+    matches = INDICADORES_PATTERN.findall(texto)
+    for indicador, nota in matches:
+        nota_limpa = nota.strip()
+        if nota_limpa.upper() == 'NSA':
+            dados[indicador] = 'nsa'
+        elif nota_limpa.isdigit():
+            dados[indicador] = nota_limpa
 
     return dados
 
@@ -113,10 +113,10 @@ def processar_arquivos_em_paralelo():
         print(f"Nenhum PDF para processar encontrado em '{INPUT_DIR.resolve()}'.")
         return
 
-    print(f"Encontrados {len(pdf_files)} PDFs para processar.")
+    print(f"Encontrados {len(pdf_files)} PDFs para processar. Usando até {MAX_CPU_WORKERS} processos.")
 
     lista_de_dados = []
-    with concurrent.futures.ProcessPoolExecutor(max_workers=5) as executor:
+    with concurrent.futures.ProcessPoolExecutor(max_workers=MAX_CPU_WORKERS) as executor:
         resultados = executor.map(processar_um_arquivo, pdf_files)
         lista_de_dados = [r for r in resultados if r is not None]
 
