@@ -46,19 +46,24 @@ def analyze_content():
     # 2. Reshape (Melt) to Long Format
     
     # Identify Indicator Columns in Grades (1.1, 1.2, ..., 3.17)
-    # We look for columns that match pattern \d+\.\d+
     grade_cols = [c for c in df_grades.columns if re.match(r'^\d+\.\d+$', c)]
     
-    # Reshape Grades
+    # Reshape Grades - Include Metadata
+    # Ensure columns exist before melting
+    meta_cols = ['Id_MEC', 'Curso', 'Modalidade', 'Campus']
+    # Check if they exist, if not, fill with Unknown
+    for c in meta_cols:
+        if c not in df_grades.columns:
+            df_grades[c] = 'Desconhecido'
+
     df_grades_melted = df_grades.melt(
-        id_vars=['Id_MEC'], 
+        id_vars=meta_cols, 
         value_vars=grade_cols, 
         var_name='Indicator', 
         value_name='Grade'
     )
     
     # Identify Indicator Columns in Justifications
-    # Justification file has columns "1.1", "1.2" etc as well
     justif_cols = [c for c in df_justifs.columns if re.match(r'^\d+\.\d+$', c)]
     
     # Reshape Justifications
@@ -71,16 +76,14 @@ def analyze_content():
     
     # 3. Merge
     print("Merging datasets...")
-    # Merge on Id_MEC and Indicator
+    # Merge on Id_MEC and Indicator. Metadata 'Curso', 'Modalidade', 'Campus' comes from output of df_grades_melted
     merged = pd.merge(df_grades_melted, df_justifs_melted, on=['Id_MEC', 'Indicator'], how='inner')
     
     # 4. Filter for Low Grades (< 5)
-    # Grades might be comma separated strings "4,50" or "NSA"
     def parse_grade(val):
         if pd.isna(val): return None
         val_str = str(val).strip().upper()
         if 'NSA' in val_str or 'NAN' in val_str or val_str == '': return None
-        # Remove non-numeric except comma/dot
         clean_val = re.sub(r'[^\d,.]', '', val_str)
         try:
             return float(clean_val.replace(',', '.'))
@@ -100,8 +103,9 @@ def analyze_content():
 
     # 5. Group and Analyze
     output_lines = []
-    output_lines.append(f"ANALYSIS OF INDICATORS WITH GRADE < 5\n")
-    output_lines.append(f"Total instances found: {len(low_grades)}\n")
+    output_lines.append(f"ANÁLISE DE INDICADORES COM NOTA < 5\n")
+    output_lines.append(f"Total de ocorrências encontradas: {len(low_grades)}\n")
+    output_lines.append("Obs: Agrupamento realizado por Campus (como aproximação de Setor)\n")
     output_lines.append("="*80 + "\n")
 
     # Define a helper to extract keywords
@@ -109,13 +113,11 @@ def analyze_content():
         all_words = []
         for text in text_series:
             if not isinstance(text, str): continue
-            # Basic tokenization
             words = re.findall(r'\b\w+\b', text.lower())
             filtered = [w for w in words if w not in STOPWORDS and len(w) > 3]
             all_words.extend(filtered)
         return Counter(all_words).most_common(n)
 
-    # Group by Indicator and sort by extraction number (1.1, 1.2 etc)
     # Helper to sort indicators naturally
     def indicator_key(s):
         try:
@@ -131,27 +133,37 @@ def analyze_content():
         group_df = grouped.get_group(indicator)
         count = len(group_df)
         
-        output_lines.append(f"\nINDICATOR: {indicator}")
-        output_lines.append(f"Count of grades < 5: {count}")
+        output_lines.append(f"\nINDICADOR: {indicator}")
+        output_lines.append(f"Quantidade de notas < 5: {count}")
         
-        # Calculate Average Grade for these low cases
         avg_low_grade = group_df['Grade_Float'].mean()
-        output_lines.append(f"Average of these low grades: {avg_low_grade:.2f}")
+        output_lines.append(f"Média destas notas: {avg_low_grade:.2f}")
         
-        # Keyword Analysis
         keywords = get_top_keywords(group_df['Justification'])
-        output_lines.append(f"Frequent Terms: {', '.join([f'{w}({c})' for w, c in keywords])}")
-        output_lines.append("-" * 40)
+        output_lines.append(f"Termos Frequentes: {', '.join([f'{w}({c})' for w, c in keywords])}")
         
-        # List Justifications
-        for idx, row in group_df.iterrows():
-            output_lines.append(f"  [Grade: {row['Grade']}] (Course ID: {row['Id_MEC']})")
-            justification = str(row['Justification']).strip()
-            # Wrap text for readability
-            # Wrap text for readability (simple approach without dedent)
-            for line in justification.split('\n'):
-                 output_lines.append(f"    {line.strip()}")
-            output_lines.append("") # Empty line between items
+        # Group by Campus within Indicator
+        campus_grouped = group_df.groupby('Campus')
+        sorted_campuses = sorted(campus_grouped.groups.keys(), key=lambda x: str(x))
+
+        for campus in sorted_campuses:
+            campus_df = campus_grouped.get_group(campus)
+            output_lines.append(f"\n  LOCALIZAÇÃO/SETOR: {campus} (Qtd: {len(campus_df)})")
+            output_lines.append("  " + "-" * 30)
+
+            for idx, row in campus_df.iterrows():
+                # Format: [Grade] Course Name (Modality) - ID
+                course_name = str(row['Curso']).strip()
+                modality = str(row['Modalidade']).strip()
+                grade = str(row['Grade']).strip()
+                mec_id = str(row['Id_MEC']).strip()
+                
+                output_lines.append(f"    [Nota: {grade}] {course_name} ({modality}) - ID: {mec_id}")
+                justification = str(row['Justification']).strip()
+                
+                for line in justification.split('\n'):
+                     output_lines.append(f"      {line.strip()}")
+                output_lines.append("") # Empty line between items
             
         output_lines.append("=" * 80 + "\n")
 
