@@ -14,16 +14,111 @@ STOPWORDS = {
     'pelo', 'ser', 'são', 'está', 'curso', 'ufpr', 'ppc', 'institucional', 'ensino', 'aprendizagem',
     'docente', 'discente', 'alunos', 'estudantes', 'coordenação', 'colegiado', 'nde', 'cpa',
     'universidade', 'federal', 'paraná', 'entretanto', 'embora', 'contudo', 'sendo', 'apenas',
-    'assim', 'apesar', 'onde', 'quais', 'além'
+    'assim', 'apesar', 'onde', 'quais', 'além', 'sobre', 'pois', 'cada', 'têm', 'tem'
 }
+
+# --- NLP Setup ---
+try:
+    import nltk
+    from nltk.corpus import stopwords
+    from nltk.stem import RSLPStemmer
+    stemmer = RSLPStemmer()
+    STOPWORDS = set(stopwords.words('portuguese'))
+    # Add custom stopwords relevant to the context
+    STOPWORDS.update({
+        'curso', 'ufpr', 'ppc', 'institucional', 'ensino', 'aprendizagem',
+        'docente', 'discente', 'alunos', 'estudantes', 'coordenação', 
+        'colegiado', 'nde', 'cpa', 'universidade', 'federal', 'paraná', 'entretanto', 
+        'embora', 'contudo', 'sendo', 'apenas', 'assim', 'apesar', 'onde', 'quais', 'além',
+        'ser', 'são', 'está', 'foi', 'pelo', 'pela', 'sobre', 'pois', 'cada', 'têm', 'tem'
+    })
+except ImportError:
+    print("NLTK not found or data missing.")
+    stemmer = None
+
+# --- Helper Functions ---
+
+def parse_grade(val):
+    if pd.isna(val): return None
+    val_str = str(val).strip().upper()
+    if 'NSA' in val_str or 'NAN' in val_str or val_str == '': return None
+    clean_val = re.sub(r'[^\d,.]', '', val_str)
+    try:
+        return float(clean_val.replace(',', '.'))
+    except:
+        return None
+
+def indicator_key(s):
+    try:
+        parts = s.split('.')
+        return (int(parts[0]), int(parts[1]))
+    except:
+        return (99, 99)
+
+def get_top_keywords(text_series, n=15):
+    all_lemmas = []
+    for text in text_series:
+        if not isinstance(text, str): continue
+        
+        # Simple tokenization by regex to avoid punkt issues if not perfect
+        words = re.findall(r'\b[a-zA-ZçãéáíóúâêôãõüÇÃÉÁÍÓÚÂÊÔÃÕÜ]+\b', text.lower())
+        
+        for word in words:
+            if len(word) < 3: continue
+            if word in STOPWORDS: continue
+            
+            # Use stemmer if available to group similar words (e.g. laboratório/laboratórios)
+            if stemmer:
+                # Basic plural check or stemming
+                if word.endswith('s') and word[:-1] in words: 
+                    lemma = word[:-1]
+                else:
+                    lemma = stemmer.stem(word)
+                    
+                if lemma in STOPWORDS: continue
+                all_lemmas.append(lemma)
+            else:
+                all_lemmas.append(word)
+
+    # Count words first 
+    word_counts = Counter()
+    for text in text_series:
+            if not isinstance(text, str): continue
+            words = re.findall(r'\b[a-zA-ZçãéáíóúâêôãõüÇÃÉÁÍÓÚÂÊÔÃÕÜ]+\b', text.lower())
+            filtered = [w for w in words if w not in STOPWORDS and len(w) > 3]
+            word_counts.update(filtered)
+            
+    if not stemmer:
+        return word_counts.most_common(n)
+
+    # Merge by stem
+    stem_groups = {} # stem -> {main_word: count, variations: {word: count}}
+    
+    for word, count in word_counts.items():
+        stem = stemmer.stem(word)
+        if stem not in stem_groups:
+            stem_groups[stem] = {'total': 0, 'words': Counter()}
+        stem_groups[stem]['total'] += count
+        stem_groups[stem]['words'][word] = count
+        
+    # Format output: "main_word (total)"
+    final_list = []
+    for stem, data in stem_groups.items():
+        # Pick the most frequent word as the representative
+        if data['words']:
+            rep_word = data['words'].most_common(1)[0][0]
+            final_list.append((rep_word, data['total']))
+        
+    return sorted(final_list, key=lambda x: x[1], reverse=True)[:n]
+
+
+# --- Main Analysis Logic ---
 
 def analyze_content():
     print("Loading data...")
     try:
         # Load Grades
-        # Using separator ';' as seen in file inspection (though file extension is CSV, content seemed semicolon sep in `relatorio_justificativas.csv`, let's check `Relatórios.CSV`)
-        # Inspecting previous tool output: Relatórios.CSV used semi-colons: "Curso;Id_MEC;..."
-        df_grades = pd.read_csv('Relatórios.CSV', sep=';', encoding='latin1') # 'latin1' guessed from 'GESTO' chars in inspection
+        df_grades = pd.read_csv('Relatórios.CSV', sep=';', encoding='latin1') 
     except UnicodeDecodeError:
         df_grades = pd.read_csv('Relatórios.CSV', sep=';', encoding='utf-8')
     except Exception as e:
@@ -32,7 +127,6 @@ def analyze_content():
 
     try:
         # Load Justifications
-        # Using separator ';' as seen in file inspection
         df_justifs = pd.read_csv('relatorio_justificativas.csv', sep=';', encoding='utf-8-sig')
     except Exception as e:
         print(f"Error loading relatorio_justificativas.csv: {e}")
@@ -44,14 +138,11 @@ def analyze_content():
     df_justifs['Id_MEC'] = df_justifs['Id_MEC'].astype(str).str.replace(r'\.0$', '', regex=True).str.strip()
 
     # 2. Reshape (Melt) to Long Format
-    
-    # Identify Indicator Columns in Grades (1.1, 1.2, ..., 3.17)
+    # Identify Indicator Columns in Grades
     grade_cols = [c for c in df_grades.columns if re.match(r'^\d+\.\d+$', c)]
     
-    # Reshape Grades - Include Metadata
-    # Ensure columns exist before melting
+    # Ensure metadata columns exist
     meta_cols = ['Id_MEC', 'Curso', 'Modalidade', 'Campus']
-    # Check if they exist, if not, fill with Unknown
     for c in meta_cols:
         if c not in df_grades.columns:
             df_grades[c] = 'Desconhecido'
@@ -66,7 +157,6 @@ def analyze_content():
     # Identify Indicator Columns in Justifications
     justif_cols = [c for c in df_justifs.columns if re.match(r'^\d+\.\d+$', c)]
     
-    # Reshape Justifications
     df_justifs_melted = df_justifs.melt(
         id_vars=['Id_MEC'], 
         value_vars=justif_cols, 
@@ -76,23 +166,11 @@ def analyze_content():
     
     # 3. Merge
     print("Merging datasets...")
-    # Merge on Id_MEC and Indicator. Metadata 'Curso', 'Modalidade', 'Campus' comes from output of df_grades_melted
     merged = pd.merge(df_grades_melted, df_justifs_melted, on=['Id_MEC', 'Indicator'], how='inner')
     
     # 4. Filter for Low Grades (< 5)
-    def parse_grade(val):
-        if pd.isna(val): return None
-        val_str = str(val).strip().upper()
-        if 'NSA' in val_str or 'NAN' in val_str or val_str == '': return None
-        clean_val = re.sub(r'[^\d,.]', '', val_str)
-        try:
-            return float(clean_val.replace(',', '.'))
-        except:
-            return None
-
     merged['Grade_Float'] = merged['Grade'].apply(parse_grade)
     
-    # Filter: Grade < 5
     low_grades = merged[merged['Grade_Float'] < 5].copy()
     
     print(f"Found {len(low_grades)} instances of grades < 5.")
@@ -107,24 +185,6 @@ def analyze_content():
     output_lines.append(f"Total de ocorrências encontradas: {len(low_grades)}\n")
     output_lines.append("Obs: Agrupamento realizado por Campus (como aproximação de Setor)\n")
     output_lines.append("="*80 + "\n")
-
-    # Define a helper to extract keywords
-    def get_top_keywords(text_series, n=15):
-        all_words = []
-        for text in text_series:
-            if not isinstance(text, str): continue
-            words = re.findall(r'\b\w+\b', text.lower())
-            filtered = [w for w in words if w not in STOPWORDS and len(w) > 3]
-            all_words.extend(filtered)
-        return Counter(all_words).most_common(n)
-
-    # Helper to sort indicators naturally
-    def indicator_key(s):
-        try:
-            parts = s.split('.')
-            return (int(parts[0]), int(parts[1]))
-        except:
-            return (99, 99)
 
     grouped = low_grades.groupby('Indicator')
     sorted_indicators = sorted(grouped.groups.keys(), key=indicator_key)
@@ -159,11 +219,44 @@ def analyze_content():
                 mec_id = str(row['Id_MEC']).strip()
                 
                 output_lines.append(f"    [Nota: {grade}] {course_name} ({modality}) - ID: {mec_id}")
+                
                 justification = str(row['Justification']).strip()
+                
+                # --- Text Cleaning ---
+                justification = re.sub(r'\b0\b', 'O', justification) 
+                justification = re.sub(r'^0\s', 'O ', justification)
+                justification = re.sub(r'([a-zçãéáíóú])([.,;:])([A-Z])', r'\1\2 \3', justification)
+                justification = re.sub(r'([a-zçãéáíóú])([A-Z])', r'\1 \2', justification)
+
+                # Remove e-MEC URLs and footers
+                justification = re.sub(r'https?://emec\.mec\.gov\.br.*?e-MEC - IES', '', justification, flags=re.DOTALL | re.IGNORECASE)
+                justification = re.sub(r'https?://emec\.mec\.gov\.br\S*', '', justification, flags=re.IGNORECASE)
+
+                # --- Negative Sentiment Extraction ---
+                adversative_conjunctions = [
+                    "no entanto", "contudo", "entretanto", "porém", "todavia", "mas", "apesar de"
+                ]
+                
+                lower_justif = justification.lower()
+                split_index = -1
+                
+                for term in adversative_conjunctions:
+                    pattern = r'\b' + term + r'\b'
+                    match = re.search(pattern, lower_justif)
+                    if match:
+                        start_pos = match.start()
+                        if split_index == -1 or start_pos < split_index:
+                            split_index = start_pos
+                
+                if split_index != -1:
+                    filtered_text = justification[split_index:].strip()
+                    if filtered_text:
+                        filtered_text = filtered_text[0].upper() + filtered_text[1:]
+                    justification = filtered_text
                 
                 for line in justification.split('\n'):
                      output_lines.append(f"      {line.strip()}")
-                output_lines.append("") # Empty line between items
+                output_lines.append("") 
             
         output_lines.append("=" * 80 + "\n")
 
