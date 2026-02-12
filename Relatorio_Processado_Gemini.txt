@@ -1,0 +1,1967 @@
+============================================================
+RELATÓRIO ANALÍTICO AUTOMATIZADO (MEC/INEP)
+============================================================
+
+--- ESTATÍSTICAS GERAIS ---
+Total de Avaliações: 217
+
+TOP 5 CATEGORIAS (BARDIN/IA):
+  - Gestão e Feedback: 53
+  - Infraestrutura e Acessibilidade: 46
+  - Formalização da Inovação e Diferenciação: 45
+  - Projeto Pedagógico e Curricular: 39
+  - Corpo Docente e Tutorial: 20
+  - Desempenho e Avaliação Discente: 7
+  - Gestão e Avaliação da Coordenação: 1
+  - Corpo Docente e Infraestrutura: 1
+  - Gestão de Parcerias e Estágios: 1
+  - Gestão do Estágio e Integração com a Educação Básica: 1
+  - Planejamento e Gestão Institucional: 1
+  - Gestão Pedagógica e Prática Docente: 1
+  - Corpo Docente e Processos de Avaliação da Aprendizagem: 1
+
+TOP 10 TAGS GERAIS:
+  - #ausencia_de_inovacao: 28
+  - #gestao_academica: 8
+  - #melhoria_continua: 8
+  - #ausencia_de_evidencias: 5
+  - #bibliografia_desatualizada: 5
+  - #metodologias_tradicionais: 4
+  - #infraestrutura_administrativa: 3
+  - #gestao_da_coordenacao: 3
+  - #planejamento_estrategico: 3
+  - #ausencia_indicadores_desempenho: 3
+
+============================================================
+
+--- TOP TAGS POR INDICADOR ---
+
+INDICADOR 1.1:
+  #ausencia_de_inovacao: 7
+  #atividades_complementares: 3
+  #falta_de_evidencias_de_exito: 3
+
+INDICADOR 1.11:
+  #ausencia_de_inovacao: 1
+  #gestao_de_atividades: 1
+  #regulamentacao_insuficiente: 1
+
+INDICADOR 1.12:
+  #acessibilidade_pedagogica_falha: 1
+  #gestao_da_producao_academica: 1
+  #indisponibilidade_TCC: 1
+
+INDICADOR 1.13:
+  #ausencia_de_inovacao: 1
+  #autoavaliação_específica: 1
+  #autoavaliação_específica_ausente: 1
+
+INDICADOR 1.14:
+  #apoio_pedagogico_insuficiente: 1
+  #apropriacao_de_resultados: 1
+  #ausencia_de_avaliacao_de_tutoria: 1
+
+INDICADOR 1.15:
+  #ausencia_avaliacao_tutoria: 1
+  #ausencia_mediacao_pedagogica: 1
+  #avaliacao_de_tutores: 1
+
+INDICADOR 1.16:
+  #AVA_inacessivel: 1
+  #acessibilidade_digital: 1
+  #ausencia_de_inovacao: 1
+
+INDICADOR 1.17:
+  #ausencia_de_avaliacao_ava: 1
+  #ausencia_inovacao_pedagogica: 1
+  #falta_de_melhoria_continua: 1
+
+INDICADOR 1.18:
+  #acessibilidade_metodologica: 1
+  #ausencia_evidencias_avaliacao: 1
+  #divergencia_PPC: 1
+
+INDICADOR 1.19:
+  #gestao_da_aprendizagem: 2
+  #acessibilidade_pedagogica: 1
+  #acompanhamento_pedagogico_insuficiente: 1
+
+INDICADOR 1.2:
+  #ausencia_estudos_viabilidade: 2
+  #planejamento_estrategico_falho: 2
+  #PPC_incompleto: 1
+
+INDICADOR 1.21:
+  #ausencia_de_evidencias: 1
+  #ausencia_de_inovacao: 1
+  #dimensionamento_de_vagas: 1
+
+INDICADOR 1.24:
+  #acoes_exitosas_nao_evidenciadas: 1
+  #ausencia_de_inovacao: 1
+  #falta_de_diferencial_metodologico: 1
+
+INDICADOR 1.3:
+  #desconexao_mercado_trabalho: 3
+  #acompanhamento_de_egressos: 1
+  #articulacao_regional_ausente: 1
+
+INDICADOR 1.4:
+  #ausencia_de_inovacao: 3
+  #ausencia_de_inovacao_curricular: 2
+  #articulacao_teoria_pratica: 1
+
+INDICADOR 1.5:
+  #ausencia_de_inovacao: 5
+  #ausencia_de_periodicos: 1
+  #bibliografia_desatualizada: 1
+
+INDICADOR 1.6:
+  #aprendizagem_diferenciada: 1
+  #ausencia_de_evidencias_pedagogicas: 1
+  #ausencia_de_inovacao: 1
+
+INDICADOR 1.7:
+  #gestao_de_estagios: 2
+  #acompanhamento_externo_fragil: 1
+  #aprendizagem_diferenciada: 1
+
+INDICADOR 1.8:
+  #articulacao_ies_escola: 1
+  #ausencia_de_inovacao: 1
+  #ausencia_praticas_inovadoras: 1
+
+INDICADOR 1.9:
+  #ausencia_de_inovacao: 2
+  #ausencia_feedback_formal: 1
+  #diferencial_metodologico_inexistente: 1
+
+INDICADOR 2.1:
+  #articulacao_teoria_pratica: 2
+  #atuacao_nde_insuficiente: 2
+  #desvio_de_modalidade: 2
+
+INDICADOR 2.11:
+  #ausencia_de_evidencias: 1
+  #ausencia_orientacao_academica: 1
+  #avaliacao_diagnostica: 1
+
+INDICADOR 2.12:
+  #gestao_academica: 3
+  #autoavaliacao_colegiado: 2
+  #melhoria_continua: 2
+
+INDICADOR 2.14:
+  #ausencia_de_autoavaliacao: 1
+  #contextualizacao_insuficiente: 1
+  #descumprimento_portaria_2117: 1
+
+INDICADOR 2.15:
+  #articulacao_docente_tutor: 1
+  #ausencia_de_evidencias: 1
+  #ausencia_de_formalizacao: 1
+
+INDICADOR 2.16:
+  #desconformidade_modalidade: 1
+  #inconsistencia_PPC_pratica: 1
+  #inconsistencia_quadro_docente: 1
+
+INDICADOR 2.2:
+  #analise_impacto_avaliacao: 1
+  #atualizacao_pedagogica_deficiente: 1
+  #corpo_de_tutores_inexistente: 1
+
+INDICADOR 2.3:
+  #ausencia_de_especialistas: 1
+  #ausencia_de_relatorios: 1
+  #ausencia_indicadores_desempenho: 1
+
+INDICADOR 2.4:
+  #ausencia_de_dados_objetivos: 1
+  #ausencia_indicadores_desempenho: 1
+  #ausencia_indicadores_gestao: 1
+
+INDICADOR 2.6:
+  #ausencia_de_melhoria_continua: 1
+  #ausencia_indicadores_desempenho: 1
+  #falta_metricas_coordenacao: 1
+
+INDICADOR 2.7:
+  #ausencia_de_justificativa: 1
+  #criterios_de_excelencia_nao_atendidos: 1
+  #falta_de_evidencias: 1
+
+INDICADOR 2.8:
+  #perfil_docente_inadequado: 2
+  #ausencia_de_feedback_pedagogico: 1
+  #experiencia_educacao_basica: 1
+
+INDICADOR 2.9:
+  #dados_incompletos: 1
+  #docencia_educacao_basica: 1
+  #experiencia_docente_insuficiente: 1
+
+INDICADOR 3.1:
+  #atendimento_ao_discente: 3
+  #atendimento_discente_prejudicado: 1
+  #espaco_docente_limitado: 1
+
+INDICADOR 3.14:
+  #acessibilidade_pcd: 1
+  #gestao_de_material_didatico: 1
+  #obsolecencia_tecnologica: 1
+
+INDICADOR 3.16:
+  #comite_de_etica: 2
+  #ausencia_de_evidencias: 1
+  #parcerias_institucionais: 1
+
+INDICADOR 3.2:
+  #infraestrutura_administrativa: 3
+  #privacidade_atendimento: 2
+  #sala_coordenacao_inadequada: 2
+
+INDICADOR 3.3:
+  #infraestrutura_de_apoio: 2
+  #apoio_administrativo_inexistente: 1
+  #ausencia_de_recursos_diferenciados: 1
+
+INDICADOR 3.4:
+  #acessibilidade_arquitetonica: 1
+  #acessibilidade_fisica_incompleta: 1
+  #acessibilidade_física_inadequada: 1
+
+INDICADOR 3.5:
+  #acessibilidade_insuficiente: 1
+  #acessibilidade_tecnologica_inexistente: 1
+  #ausencia_avaliacao_infraestrutura: 1
+
+INDICADOR 3.6:
+  #acervo_insuficiente: 1
+  #acessibilidade_inexistente: 1
+  #atualizacao_de_exemplares: 1
+
+INDICADOR 3.7:
+  #bibliografia_desatualizada: 2
+  #acessibilidade_incompleta: 1
+  #atualizacao_por_demanda: 1
+
+INDICADOR 3.8:
+  #acessibilidade_incompleta: 1
+  #ausencia_de_avaliacao_formal: 1
+  #ausencia_de_evidencias: 1
+
+INDICADOR 3.9:
+  #gestao_academica: 2
+  #ausencia_de_documentacao_comprobatoria: 1
+  #avaliacao_periodica_laboratorios: 1
+
+============================================================
+
+--- TOP TAGS POR SETOR ---
+
+SETOR: Campus  Politécnico
+  #ausencia_de_inovacao: 12
+  #melhoria_continua: 5
+  #gestao_academica: 4
+
+SETOR: Campus  Reitoria
+  #atuacao_nde_burocratica: 1
+  #atuacao_nde_insuficiente: 1
+  #ausencia_de_acoes_corretivas: 1
+
+SETOR: Campus Jandaia Do Sul
+  #ausencia_de_inovacao: 3
+  #ausencia_de_evidencias: 2
+  #gestao_academica: 2
+
+SETOR: Campus Litoral
+  #ausencia_de_inovacao: 3
+  #atividades_complementares: 2
+  #AVA_inacessivel: 1
+
+SETOR: Campus Pontal Do Sul
+  #ausencia_de_inovacao_curricular: 1
+  #baixa_adesao_discente: 1
+  #conectividade_insuficiente: 1
+
+SETOR: Campus Reitoria
+  #acompanhamento_pedagogico_insuficiente: 1
+  #ausencia_de_inovacao: 1
+  #ausencia_de_periodicos: 1
+
+SETOR: Campus Toledo
+  #ausencia_de_diferencial_inovador: 1
+  #conformidade_sem_excelencia: 1
+  #impacto_formativo_generico: 1
+
+SETOR: Centro Politécnico
+  #ausencia_de_inovacao: 2
+  #desvio_de_modalidade: 2
+  #acessibilidade_inexistente: 1
+
+SETOR: Complexo Hospital de Clínicas
+  #ausencia_de_inovacao: 2
+  #analise_de_impacto_pedagogico: 1
+  #aprendizagem_diferenciada: 1
+
+SETOR: Juvevê
+  #ausencia_de_inovacao: 4
+  #ausencia_estudos_viabilidade: 2
+  #falta_de_evidencias_de_exito: 2
+
+============================================================
+
+DETALHAMENTO DOS APONTAMENTOS
+
+
+>>> INDICADOR: 1.1
+----------------------------------------
+LOCALIZAÇÃO: Campus Toledo
+CURSO: MATEMÁTICA INDUSTRIAL (Bacharelado) (Nota: 4,00)
+CATEGORIA: Formalização da Inovação e Diferenciação
+PONTOS NEGATIVOS: A justificativa apresenta uma conformidade protocolar às políticas do PDI, mas falha em demonstrar a excelência ou o diferencial inovador necessário para a nota máxima (5). Nota-se uma descrição genérica das atividades (monitoria, PET, iniciação científica) sem a apresentação de resultados concretos, indicadores de impacto ou como essas ações se articulam de forma única para a especificidade da 'Matemática Industrial', sugerindo que o curso cumpre os requisitos, mas não atinge um patamar de referência ou inovação superior.
+TAGS: #ausencia_de_diferencial_inovador, #conformidade_sem_excelencia, #impacto_formativo_generico
+JUSTIFICATIVA: Conforme documentos disponibilizados pela IES e informações obtidas em reuniões realizadas, foi constatado pela comissão de avaliadores que as políticas institucionais, estabelecidas no PDI da Universidade Federal do Paraná-UFPR (2022-2026), estão implantadas no âmbito do curso de Matemática Industr...
+--------------------
+LOCALIZAÇÃO: Centro Politécnico
+CURSO: ENFERMAGEM (Bacharelado) (Nota: 4,00)
+CATEGORIA: Formalização da Inovação e Diferenciação
+PONTOS NEGATIVOS: A justificativa indica que as ações de inovação e os projetos de ensino, pesquisa e extensão ainda estão no plano do 'discurso' ou da intenção futura ('serão desenvolvidos'), evidenciando a falta de resultados consolidados, indicadores de práticas já exitosas ou a plena materialização das políticas institucionais no cotidiano do curso.
+TAGS: #ausencia_de_evidencias_praticas, #projetos_em_estagio_inicial, #discurso_sem_consolidacao
+JUSTIFICATIVA: As políticas institucionais de ensino, extensão e pesquisa, estão declaradas PDI e alinhadas no PPC vigente. Durante a visita in loco, foi constatado que elas fazem parte do discurso da Coordenação do curso e, claramente voltadas para a promoção de oportunidades de aprendizagem alinhadas ao perfil d...
+--------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: Pedagogia (Licenciatura) (Nota: 4,00)
+CATEGORIA: Formalização da Inovação e Diferenciação
+PONTOS NEGATIVOS: Ausência de evidências documentais de práticas inovadoras ou de sucesso; fragilidade na comprovação e estruturação de atividades formativas, complementares e de extensão; inconformidades na regulação da carga horária de projetos e pesquisa.
+TAGS: #ausencia_inovacao_comprovada, #gestao_atividades_complementares, #fragilidade_documental_extensao
+JUSTIFICATIVA: Contudo não constatou-se atividades comprovadamente exitosas ou inovadoras. Quantidade de notas < 5: 7 Média destas notas: 4.00 Termos Frequentes: atividades(42), formativas(25), complementares(13), extensão(9), projetos(8), carga(8), documentos(8), aproveitamento(8), resolução(7), horas(7), pesquis...
+--------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: GEOLOGIA (Bacharelado) (Nota: 4,00)
+CATEGORIA: Gestão e Feedback
+PONTOS NEGATIVOS: Ausência de mecanismos inovadores e tecnológicos para monitoramento contínuo de atividades, falta de integração sistemática entre resultados práticos e revisão do currículo, e inexistência de fluxos institucionais de retroalimentação pedagógica baseados na experiência do aluno.
+TAGS: #monitoramento_tecnologico, #retroalimentacao_pedagogica, #revisao_curricular_sistematica
+JUSTIFICATIVA: No entanto, não foram identificadas evidências de mecanismos comprovadamente inovadores ou exitosos na regulação, gestão ou  aproveitamento dessas atividades, como a adoção de ferramentas tecnológicas de monitoramento contínuo, a integração sistemática dos resultados à revisão curricular, ou ações i...
+--------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: MATEMÁTICA INDUSTRIAL (Bacharelado) (Nota: 4,00)
+CATEGORIA: Projeto Pedagógico e Curricular
+PONTOS NEGATIVOS: Ausência de menção a ações proativas de fomento e incentivo às atividades por parte da IES; o processo de acompanhamento é puramente reativo, centrando a responsabilidade exclusivamente no aluno; falta de evidências de um sistema de monitoramento contínuo ou suporte pedagógico além da avaliação burocrática de relatórios.
+TAGS: #atividades_complementares, #monitoramento_reativo, #ausencia_de_fomento
+JUSTIFICATIVA: A comissão constatou, a partir de documentos disponibilizados pela IES e informações obtidas em reuniões realizadas, que as atividades complementares estão institucionalizadas. Há resoluções e regulamentos que tratam do assunto. De acordo com essas normas, o discente do curso de Matemática Industria...
+--------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: CIÊNCIA DA COMPUTAÇÃO (Bacharelado) (Nota: 4,00)
+CATEGORIA: Formalização da Inovação e Diferenciação
+PONTOS NEGATIVOS: Ausência de mecanismos ou práticas que possam ser considerados comprovadamente inovadores ou de sucesso diferenciado (exitosos) na regulação, gestão e aproveitamento das atividades complementares, limitando-se ao cumprimento protocolar das normas.
+TAGS: #ausencia_de_inovacao, #gestao_atividades_complementares, #mecanismos_exitosos_inexistentes
+JUSTIFICATIVA: As Atividades Complementares do curso são concebidas na Matriz Curricular como Atividades Formativas, com carga horária de 140 (cento e quarenta)  horas, com sistema de pontuação voltado à participação dos alunos em atividades diversas de ensino, pesquisa e extensão, a serem integralizadas pelos alu...
+--------------------
+LOCALIZAÇÃO: Campus Litoral
+CURSO: EDUCAÇÃO DO CAMPO / CIÊNCIAS DA NATUREZA (Licenciatura) (Nota: 4,00)
+CATEGORIA: Projeto Pedagógico e Curricular
+PONTOS NEGATIVOS: Embora o critério tenha sido atendido (nota 4), a justificativa sugere uma fragilidade na consolidação prática: o PPC é muito recente (2023), o que indica que as atividades complementares estão 'descritas' e 'institucionalizadas' no papel, mas podem carecer de evidências de implementação plena, acompanhamento de longo prazo e impacto efetivo na formação, impedindo o conceito máximo (5).
+TAGS: #maturidade_do_ppc, #atividades_complementares, #consolidacao_da_implementacao
+JUSTIFICATIVA: Por meio da análise das documentações (PDI 2022-2026, PPC 2014, PPC 2023, atas de CPA, atas de reunião de colegiado, atas de reunião de NDE, demais documentos apensado no drive), das reuniões com corpo dirigente, NDE, docentes e discentes, e das conversas realizadas durante a visita as instalações, ...
+--------------------
+LOCALIZAÇÃO: Juvevê
+CURSO: AGROECOLOGIA (Tecnólogo) (Nota: 4,00)
+CATEGORIA: Formalização da Inovação e Diferenciação
+PONTOS NEGATIVOS: Ausência de comprovação documental de práticas inovadoras ou de excelência na gestão do curso; falta de registros que atestem o sucesso ou a eficácia superior dos mecanismos de regulação e aproveitamento institucional adotados.
+TAGS: #ausencia_de_inovacao, #gestao_academica_padronizada, #falta_de_evidencias_de_exito
+JUSTIFICATIVA: Contudo, não foram apresentadas evidências de mecanismos comprovadamente exitosos ou inovadores na sua regulação, gestão e aproveitamento....
+--------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: Pedagogia (Licenciatura) (Nota: 4,00)
+CATEGORIA: Formalização da Inovação e Diferenciação
+PONTOS NEGATIVOS: Ausência de comprovação de práticas pedagógicas inovadoras ou de sucesso; fragilidade na documentação e formalização de atividades complementares, formativas e de extensão; dificuldades no cumprimento ou regulação da carga horária acadêmica.
+TAGS: #ausencia_de_inovacao, #atividades_complementares_insuficientes, #falta_de_comprovacao_institucional
+JUSTIFICATIVA: Contudo não constatou-se atividades comprovadamente exitosas ou inovadoras. Quantidade de notas < 5: 7 Média destas notas: 4.00 Termos Frequentes: atividades(42), formativas(25), complementares(13), extensão(9), projetos(8), carga(8), documentos(8), aproveitamento(8), resolução(7), horas(7), pesquis...
+--------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: GEOLOGIA (Bacharelado) (Nota: 4,00)
+CATEGORIA: Gestão e Feedback
+PONTOS NEGATIVOS: Inexistência de ferramentas tecnológicas para monitoramento contínuo, falta de integração sistemática entre resultados de atividades e revisão curricular, e ausência de mecanismos institucionais de retroalimentação pedagógica baseada na experiência do aluno.
+TAGS: #monitoramento_tecnologico_inexistente, #retroalimentacao_pedagogica_deficiente, #gestao_de_atividades_formativas
+JUSTIFICATIVA: No entanto, não foram identificadas evidências de mecanismos comprovadamente inovadores ou exitosos na regulação, gestão ou  aproveitamento dessas atividades, como a adoção de ferramentas tecnológicas de monitoramento contínuo, a integração sistemática dos resultados à revisão curricular, ou ações i...
+--------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: MATEMÁTICA INDUSTRIAL (Bacharelado) (Nota: 4,00)
+CATEGORIA: Gestão e Feedback
+PONTOS NEGATIVOS: Ausência de um sistema informatizado ou mecanismos de acompanhamento contínuo; o processo é manual e reativo (depende da iniciativa do aluno em entregar o relatório); falta de menção a feedbacks pedagógicos estruturados ou inovação na gestão das atividades para além da validação burocrática.
+TAGS: #gestao_manual_atividades, #ausencia_de_monitoramento_sistematico, #validacao_reativa
+JUSTIFICATIVA: A comissão constatou, a partir de documentos disponibilizados pela IES e informações obtidas em reuniões realizadas, que as atividades complementares estão institucionalizadas. Há resoluções e regulamentos que tratam do assunto. De acordo com essas normas, o discente do curso de Matemática Industria...
+--------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: CIÊNCIA DA COMPUTAÇÃO (Bacharelado) (Nota: 4,00)
+CATEGORIA: Formalização da Inovação e Diferenciação
+PONTOS NEGATIVOS: Ausência de mecanismos inovadores ou de práticas comprovadamente exitosas no que tange à regulação, gestão e aproveitamento das atividades complementares, limitando-se ao cumprimento formal dos requisitos regulamentares sem demonstrar excelência ou diferenciais metodológicos.
+TAGS: #ausencia_de_inovacao, #gestao_de_atividades_complementares, #falta_de_mecanismos_exitosos
+JUSTIFICATIVA: As Atividades Complementares do curso são concebidas na Matriz Curricular como Atividades Formativas, com carga horária de 140 (cento e quarenta)  horas, com sistema de pontuação voltado à participação dos alunos em atividades diversas de ensino, pesquisa e extensão, a serem integralizadas pelos alu...
+--------------------
+LOCALIZAÇÃO: Campus Litoral
+CURSO: GEOGRAFIA (Licenciatura) (Nota: 4,00)
+CATEGORIA: Formalização da Inovação e Diferenciação
+PONTOS NEGATIVOS: Embora a estrutura formal e regulamentar das Atividades Formativas atenda aos requisitos básicos, o curso não apresentou evidências de mecanismos inovadores ou de processos de gestão e aproveitamento que demonstrem resultados comprovadamente exitosos ou diferenciados para a formação.
+TAGS: #ausencia_de_inovacao, #gestao_de_atividades_formativas, #falta_de_evidencias_de_exito
+JUSTIFICATIVA: As Atividades Complementares estão previstas e detalhadas no PPC, encontram-se regulamentadas na UFPR pela Resolução nº 70/04-CEPE com a denominação de Atividades Formativas. Contemplam 200 horas e são reconhecidas e avaliadas pelo Colegiado do Curso mediante documentação comprobatória. Essas ativid...
+--------------------
+LOCALIZAÇÃO: Campus Litoral
+CURSO: EDUCAÇÃO DO CAMPO / CIÊNCIAS DA NATUREZA (Licenciatura) (Nota: 4,00)
+CATEGORIA: Projeto Pedagógico e Curricular
+PONTOS NEGATIVOS: Embora as atividades complementares estejam institucionalizadas e descritas no PPC de 2023, o texto não evidencia elementos de excelência, inovação ou acompanhamento sistemático que justifiquem a nota máxima (5). A fundamentação se limita ao cumprimento formal dos requisitos documentais, sugerindo que a implementação prática das novas diretrizes do PPC 2023 ainda carece de maturação ou resultados consolidados.
+TAGS: #atividades_complementares, #consolidacao_curricular, #ausencia_de_inovacao
+JUSTIFICATIVA: Por meio da análise das documentações (PDI 2022-2026, PPC 2014, PPC 2023, atas de CPA, atas de reunião de colegiado, atas de reunião de NDE, demais documentos apensado no drive), das reuniões com corpo dirigente, NDE, docentes e discentes, e das conversas realizadas durante a visita as instalações, ...
+--------------------
+LOCALIZAÇÃO: Juvevê
+CURSO: AGROECOLOGIA (Tecnólogo) (Nota: 4,00)
+CATEGORIA: Formalização da Inovação e Diferenciação
+PONTOS NEGATIVOS: Ausência de comprovação documental de práticas inovadoras ou mecanismos de gestão e regulação que demonstrem resultados exitosos e diferenciais no aproveitamento do curso.
+TAGS: #ausencia_de_inovacao, #gestao_academica_ineficiente, #falta_de_evidencias_de_exito
+JUSTIFICATIVA: Contudo, não foram apresentadas evidências de mecanismos comprovadamente exitosos ou inovadores na sua regulação, gestão e aproveitamento....
+--------------------
+
+>>> INDICADOR: 1.11
+----------------------------------------
+LOCALIZAÇÃO: Campus Litoral
+CURSO: Produção Cultural (Tecnologia) (Nota: 4,00)
+CATEGORIA: Formalização da Inovação e Diferenciação
+PONTOS NEGATIVOS: Ausência de mecanismos inovadores ou exitosos para a regulação, gestão e aproveitamento das atividades acadêmicas, o que compromete o potencial formativo e a diferenciação do curso.
+TAGS: #gestao_de_atividades, #ausencia_de_inovacao, #regulamentacao_insuficiente
+JUSTIFICATIVA: Contudo, a comissão observou que não foram identificados mecanismos exitosos ou inovadores para a regulação, gestão e aproveitamento dessas atividades, o que limitaseu potencial formativo. Quantidade de notas < 5: 1 Média destas notas: 4.00 Termos Frequentes: documentos(4), atas(3), reunião(3), orie...
+--------------------
+
+>>> INDICADOR: 1.12
+----------------------------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: EDUCAÇÃO DO CAMPO / CIÊNCIAS DA NATUREZA (Licenciatura) (Nota: 4,00)
+CATEGORIA: Gestão e Feedback
+PONTOS NEGATIVOS: Ausência dos Trabalhos de Conclusão de Curso (TCCs) no repositório institucional, indicando falha na organização da produção acadêmica; necessidade de aprimoramento na formalização e evidência das políticas de apoio, monitoria e permanência estudantil.
+TAGS: #indisponibilidade_TCC, #repositorio_institucional_falho, #gestao_da_producao_academica
+JUSTIFICATIVA: Entretanto, foi também apresentado que os TCCs do curso não estão disponíveis nesse repositório. 4 Quantidade de notas < 5: 2 Média destas notas: 4.00 Termos Frequentes: apoio(7), acadêmico(7), ações(6), programas(5), monitoria(5), estudantil(4), participação(4), conta(3), desenvolvimento(3), inclus...
+--------------------
+LOCALIZAÇÃO: Centro Politécnico
+CURSO: GEOLOGIA (Bacharelado) (Nota: 4,00)
+CATEGORIA: Projeto Pedagógico e Curricular
+PONTOS NEGATIVOS: Ausência de programas de nivelamento para conteúdos básicos; falta de adesão e efetividade em programas de intercâmbio/internacionalização; e inexistência de atendimento educacional especializado (AEE) ou adaptações curriculares para estudantes com deficiência.
+TAGS: #nivelamento_inexistente, #internacionalizacao_ineficaz, #acessibilidade_pedagogica_falha
+JUSTIFICATIVA: No entanto, não foram identificadas evidências de ações sistemáticas de nivelamento acadêmico implementadas no curso, como cursos introdutórios ou atividades de reforço voltadas à superação de defasagens em conteúdos fundamentais. Além disso, embora a UFPR mantenha convênios nacionais e internaciona...
+--------------------
+
+>>> INDICADOR: 1.13
+----------------------------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: Pedagogia (Licenciatura) (Nota: 4,00)
+CATEGORIA: Formalização da Inovação e Diferenciação
+PONTOS NEGATIVOS: Ausência de ações inovadoras ou práticas de excelência comprovadas; fragilidade na sistematização e uso dos resultados da autoavaliação para melhoria do curso; processos de gestão e reuniões de comissões que não resultam em ações diferenciadas.
+TAGS: #ausencia_de_inovacao, #gestao_da_autoavaliacao, #melhoria_continua_ineficaz
+JUSTIFICATIVA: Mas não promove outras açõescomprovadamente exitosas ou inovadoras. Quantidade de notas < 5: 5 Média destas notas: 3.80 Termos Frequentes: avaliação(25), resultados(13), processo(13), realizadas(13), periódica(10), autoavaliação(10), reunião(9), forma(9), comissão(8), gestão(7), discentes(7), licenc...
+--------------------
+LOCALIZAÇÃO: Juvevê
+CURSO: AGROECOLOGIA (Tecnólogo) (Nota: 4,00)
+CATEGORIA: Gestão e Feedback
+PONTOS NEGATIVOS: Falta de transparência na divulgação dos resultados das avaliações (CPA), ausência de evidências percebidas pelos alunos sobre melhorias práticas no curso decorrentes desses processos e falta de engajamento/apropriação da comunidade discente em relação ao ciclo avaliativo.
+TAGS: #falha_comunicacao_CPA, #baixa_apropriacao_discente, #feedback_melhoria_inexistente
+JUSTIFICATIVA: Contudo, na reunião que a comissão de avaliadores realizou com os discentes, mencionaram não conhecer as evidências de que os resultados impactaram na melhoria do curso e também não demostram apropriação dos resultados....
+--------------------
+LOCALIZAÇÃO: Campus  Reitoria
+CURSO: GEOGRAFIA (Licenciatura) (Nota: 4,00)
+CATEGORIA: Gestão e Feedback
+PONTOS NEGATIVOS: Ausência de formas objetivas de autoavaliação periódica específicas para o curso; baixa adesão dos discentes aos processos avaliativos institucionais; e falta de evidências que comprovem o acompanhamento continuado do processo de autoavaliação no âmbito da graduação em Geografia.
+TAGS: #autoavaliação_específica, #baixa_adesão_discente, #monitoramento_insuficiente
+JUSTIFICATIVA: Entretanto, ainda não foi implantada no Curso, formas objetivas de auto avaliações periódicas. Há, no curso, evidências da apropriação dos resultados das avaliações institucionais periódicas pela comunidade acadêmica as quais foram relatadas durante as diversas reuniões realizadas. A UFPR tem um pro...
+--------------------
+LOCALIZAÇÃO: Campus Jandaia Do Sul
+CURSO: LETRAS INGLÊS (Licenciatura) (Nota: 4,00)
+CATEGORIA: Gestão e Feedback
+PONTOS NEGATIVOS: Baixa participação discente nos processos avaliativos; falta de clareza dos alunos quanto à sua trajetória de formação e posicionamento na matriz curricular; confusão institucional gerada pelo compartilhamento de disciplinas com outros cursos; e inexistência de mecanismos eficazes de escuta ativa para converter o feedback discente em melhorias na estrutura do curso.
+TAGS: #baixa_adesao_discente, #falha_na_escuta_ativa, #clareza_trajetoria_formativa
+JUSTIFICATIVA: Todavia, destaca-se que a participação de discentes é reduzido na nas avaliações, a gestão reconhece essa limitação e vem implementando ações de sensibilização e ajustes metodológicos para ampliar a representatiidade e a utilidade dos dados. Ademais, registra-se que durante as entrevistas realizadas...
+--------------------
+LOCALIZAÇÃO: Campus Litoral
+CURSO: Ciências Exatas Quimica (Licenciatura) (Nota: 4,00)
+CATEGORIA: Gestão e Feedback
+PONTOS NEGATIVOS: Ausência de um processo de autoavaliação sistemático, periódico e exclusivo para a habilitação em Química; impossibilidade de análise individualizada de dados devido à agregação de informações no modelo de Área Básica de Ingresso (ABI); insuficiência de indicadores de desempenho externo (ENADE) e baixo número de egressos para fundamentar a análise da qualidade do curso.
+TAGS: #autoavaliação_específica_ausente, #dados_agregados_ABI, #indicadores_desempenho_insuficientes
+JUSTIFICATIVA: Entretanto, devido ao arranjo de Área Básica de Ingresso (ABI), os dados disponibilizados pela CPA referem-se de forma agregada à Licenciatura em Ciências Exatas, sem individualização completa para a habilitação em Química. Além disso, o curso ainda possui número reduzido de egressos (seis formados)...
+--------------------
+
+>>> INDICADOR: 1.14
+----------------------------------------
+LOCALIZAÇÃO: Campus Jandaia Do Sul
+CURSO: GEOLOGIA (Bacharelado) (Nota: 3,00)
+CATEGORIA: Gestão e Feedback
+PONTOS NEGATIVOS: Ausência de evidências de avaliação sistemática das atividades de tutoria por parte dos discentes ou da equipe pedagógica, além da inexistência de mecanismos que utilizem os resultados de avaliações para a implementação de ações corretivas ou de aperfeiçoamento planejado dos processos de mediação pedagógica.
+TAGS: #ausencia_de_avaliacao_de_tutoria, #falta_de_melhoria_continua, #gestao_pedagogica_deficiente
+JUSTIFICATIVA: No entanto, em disciplinas optativas com oferta parcial na modalidade Ea D, como Paleobotânica Aplicada e Paleoecologia, foram identificadas atividades de tutoria efetivas exercidas pelos docentes responsáveis, caracterizando ações regulares de mediação pedagógica. Essas atividades de tutoria ocorre...
+--------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: Produção Cultural (Tecnologia) (Nota: 3,00)
+CATEGORIA: Gestão e Feedback
+PONTOS NEGATIVOS: Ausência de indicadores mensuráveis nos planos de ação da coordenação para avaliação de competências; falta de dados concretos para subsidiar a tomada de decisões gestoras; inexistência de evidências da apropriação dos resultados da autoavaliação pela comunidade acadêmica, demonstrando falha no fechamento do ciclo de melhoria contínua.
+TAGS: #indicadores_mensuraveis_ausentes, #gestao_da_coordenacao, #apropriacao_de_resultados
+JUSTIFICATIVA: No entanto, apesar dos planos de ação do coordenador, o fato de não haver descritos nos planos indicadores mensuráveis, vitais para avaliar competências, permitindo quantificar o desempenho, fornecendo dados concretos paratomar decisões, não foi possível localizar evidências claras da apropriação do...
+--------------------
+LOCALIZAÇÃO: Campus Litoral
+CURSO: Ciências Exatas Quimica (Licenciatura) (Nota: 3,00)
+CATEGORIA: Corpo Docente e Tutorial
+PONTOS NEGATIVOS: Ausência de tutores específicos para o acompanhamento de atividades a distância; inexistência de mecanismos formais e documentados de avaliação periódica da tutoria e da comunicação; suporte institucional focado estritamente em tecnologia, negligenciando a tutoria acadêmica pedagógica; sobrecarga dos docentes que assumem a tutoria sem processos formais de acompanhamento continuado.
+TAGS: #ausencia_de_tutoria, #falta_de_avaliacao_formal, #apoio_pedagogico_insuficiente
+JUSTIFICATIVA: Entretanto, não há evidências documentadas avaliações periódicas voltadas à identificação de fragilidades ou ao aprimoramento da comunicação e do acompanhamento entre os interlocutores, para o curso de LCE-química. Os discentes confirmaram que as atividades a distância são acompanhadas diretamente p...
+--------------------
+
+>>> INDICADOR: 1.15
+----------------------------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: AGROECOLOGIA (Tecnólogo) (Nota: 1,00)
+CATEGORIA: Projeto Pedagógico e Curricular
+PONTOS NEGATIVOS: Incoerência entre o Projeto Pedagógico de Curso (PPC) e a execução prática, visto que a carga horária prevista como EaD está sendo cumprida presencialmente; ausência de mediação pedagógica efetiva entre professor, tutor e discente; e inexistência de corpo de tutoria dedicado, sendo a função acumulada pelos docentes de forma irregular em relação ao modelo proposto.
+TAGS: #incoerencia_ppc_execucao, #ausencia_mediacao_pedagogica, #falha_tutoria_ead
+JUSTIFICATIVA: Conforme PPC, existem 3 unidades curriculares com parte da CH na modalidade Ea D: - Ruralidades: Vivências I: CH total 90h — CH Ea D 30h - Instrumentos de interação com comunidades: Vivências II - CH total 90h — CH Ea D 60h - Desenvolvimento Local: Vivências II CH total 90h — CH Ea D 30h Soma da CH ...
+--------------------
+LOCALIZAÇÃO: Campus Jandaia Do Sul
+CURSO: GEOLOGIA (Bacharelado) (Nota: 3,00)
+CATEGORIA: Corpo Docente e Tutorial
+PONTOS NEGATIVOS: Ausência de avaliação periódica do desempenho dos tutores, inexistência de diagnóstico de necessidades formativas e falta de um plano estruturado de capacitação continuada para o corpo tutorial.
+TAGS: #avaliacao_de_tutores, #capacitacao_continuada, #gestao_do_corpo_tutorial
+JUSTIFICATIVA: No entanto, não foram identificadas evidências de avaliação periódica da atuação dos tutores nem de processos sistemáticos de identificação de necessidades formativas ou ações planejadas de capacitação continuada com foco específico na tutoria....
+--------------------
+LOCALIZAÇÃO: Campus Litoral
+CURSO: Ciências Exatas Quimica (Licenciatura) (Nota: 3,00)
+CATEGORIA: Gestão e Feedback
+PONTOS NEGATIVOS: Inexistência de planejamento formalizado para a interação entre docentes-tutores, coordenação e estudantes; ausência de registros de avaliações periódicas das atividades de tutoria; falta de mecanismos para identificação de fragilidades e aprimoramento contínuo dos processos de comunicação e tutoria.
+TAGS: #planejamento_interacao_inexistente, #ausencia_avaliacao_tutoria, #gestao_pedagogica_deficiente
+JUSTIFICATIVA: O curso de Licenciatura em Ciências Exatas — Química possui 3.250 horas totais, sendo 266 horas (8,34%) ofertadas na modalidade Ea D, conforme Portaria nº 2.117/2019 do MEC e Resolução nº 72/10-CEPE da UFPR. O Art. 5º da Resolução nº 72/10-CEPE estabelece que o professor-tutor deve realizar capacita...
+--------------------
+
+>>> INDICADOR: 1.16
+----------------------------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: AGROECOLOGIA (Tecnólogo) (Nota: 1,00)
+CATEGORIA: Projeto Pedagógico e Curricular
+PONTOS NEGATIVOS: Desconformidade entre o Projeto Pedagógico de Curso (PPC) e a prática acadêmica, com carga horária EaD sendo executada de forma presencial; impossibilidade de mensurar o desempenho e o alinhamento da equipe de tutoria conforme as prerrogativas do curso; inconsistência regulatória entre a modalidade aprovada e a modalidade ofertada.
+TAGS: #desconformidade_ppc_pratica, #tutoria_nao_avaliada, #inconsistencia_modalidade
+JUSTIFICATIVA: Contudo, as aulas Ea D no âmbito do CST em Agroecologia não estão sendo realizadas neste formato. Conforme a coordenadora do curso, na prática, a CH definida como Ea D, está sendo executada de forma presencial, atendendo solicitação dos próprios alunos. Ademais, em reunião que a comissão de avaliado...
+--------------------
+LOCALIZAÇÃO: Campus Litoral
+CURSO: EDUCAÇÃO DO CAMPO / CIÊNCIAS DA NATUREZA (Licenciatura) (Nota: 4,00)
+CATEGORIA: Infraestrutura e Acessibilidade
+PONTOS NEGATIVOS: A justificativa descreve uma infraestrutura e recursos tecnológicos que atendem apenas aos requisitos funcionais básicos (disponibilidade de laboratório, acesso offline a livros e consulta de notas). Não há menção a diferenciais inovadores, softwares específicos para a área de Ciências da Natureza, ou adaptações metodológicas tecnológicas que atendam às especificidades da Educação do Campo, o que justifica a nota 4 (muito bom) em vez de 5 (excelência).
+TAGS: #recursos_tecnologicos_convencionais, #ausencia_de_inovacao_pedagogica, #infraestrutura_limitada_ao_basico
+JUSTIFICATIVA: Por meio da análise das documentações (PDI 2022-2026, PPC 2014, PPC 2023, atas de CPA, atas de reunião de colegiado, atas de reunião de NDE, demais documentos apensado no drive), das reuniões com corpo dirigente, NDE, docentes e discentes, e das conversas realizadas durante a visita as instalações e...
+--------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: MATEMÁTICA (Licenciatura) (Nota: 4,00)
+CATEGORIA: Formalização da Inovação e Diferenciação
+PONTOS NEGATIVOS: Incapacidade dos discentes em identificar ações docentes que proporcionem experiências diferenciadas de aprendizagem; limitação de recursos pedagógicos específicos citados a apenas um software (GeoGebra); ausência de evidências práticas de inovação acadêmica além do uso padrão de plataformas de comunicação (Teams) e ambientes virtuais (Moodle).
+TAGS: #ausencia_inovacao_pedagogica, #baixa_percepcao_discente, #limitacao_metodologica
+JUSTIFICATIVA: Conforme o PPC (p.23) Sistema E-MEC - ... quanto às plataformas digitais utilizadas no ensino, são amplamente utilizadas pelas/os docentes do curso, cada uma desempenhando um papel fundamental no apoio às atividades acadêmicas: Microsoft Teams: Esta plataforma é utilizada para a realização de aulas ...
+--------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: GEOGRAFIA (Licenciatura) (Nota: 4,00)
+CATEGORIA: Formalização da Inovação e Diferenciação
+PONTOS NEGATIVOS: O uso das TICs é classificado como moderado e dissociado da execução central do PPC. A utilização tecnológica limita-se a ferramentas administrativas e de suporte (SIGAA, Pergamum, WhatsApp), sem integração pedagógica profunda. Há uma dependência de iniciativas individuais de docentes em vez de uma diretriz institucional, além da ausência explícita de evidências sobre experiências de aprendizagem inovadoras ou metodologias diferenciadas.
+TAGS: #ausencia_de_inovacao, #uso_periferico_TICs, #baixa_integracao_pedagogica
+JUSTIFICATIVA: Como trata-se de curso na modalidade Presencial o uso das TICs adotadas no processo de ensino-aprendizagem é moderada, pois a execução do projeto pedagógico do curso independe do uso do AVA. Desse modo, as TICs utilizadas no curso estão contidas no SIGAA (acadêmico), o Sistema Pergamum (biblioteca) ...
+--------------------
+LOCALIZAÇÃO: Campus Litoral
+CURSO: CIÊNCIAS BIOLÓGICAS (Licenciatura) (Nota: 4,00)
+CATEGORIA: Infraestrutura e Acessibilidade
+PONTOS NEGATIVOS: Ausência de garantia de acessibilidade digital plena nos ambientes virtuais de aprendizagem para estudantes com deficiências visuais, auditivas e motoras, carecendo especificamente de ferramentas para leitores de tela, legendas, tradução em Libras e navegação acessível.
+TAGS: #acessibilidade_digital, #tecnologia_assistiva, #AVA_inacessivel
+JUSTIFICATIVA: A universidade conta com a plataforma UFPR Virtual, ambiente interativo que utiliza o Moodle como base, no qual são disy demais recursos pedagógicos. Em reunião com o corpo docente, foram relatados o uso e a apropriação da plataforma pelos professores. Da mesma forma, « utilização regular do ambient...
+--------------------
+
+>>> INDICADOR: 1.17
+----------------------------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: AGROECOLOGIA (Tecnólogo) (Nota: 4,00)
+CATEGORIA: Formalização da Inovação e Diferenciação
+PONTOS NEGATIVOS: Ausência de evidências de metodologias ou experiências de aprendizagem inovadoras e diferenciadas; uso meramente protocolar de recursos tecnológicos e audiovisuais (AVA, vídeos) sem aproveitamento pedagógico distintivo; falta de comprovação documental sobre a implementação de atividades que transcendam o ensino convencional.
+TAGS: #ausencia_inovacao_pedagogica, #recursos_didaticos_subutilizados, #metodologias_convencionais
+JUSTIFICATIVA: No entanto não há evidências de experiências diferenciadas de aprendizagem baseadas em seu uso. Quantidade de notas < 5: 3 Média destas notas: 3.00 Termos Frequentes: avaliações(8), recursos(7), realização(7), virtual(6), vídeos(5), atividades(5), utiliza(4), forma(4), pedagógico(4), disciplinas(4),...
+--------------------
+LOCALIZAÇÃO: Campus Jandaia Do Sul
+CURSO: GEOLOGIA (Bacharelado) (Nota: 3,00)
+CATEGORIA: Gestão e Feedback
+PONTOS NEGATIVOS: Ausência de avaliações periódicas e documentadas do Ambiente Virtual de Aprendizagem (AVA); inexistência de um ciclo de melhoria contínua baseado em dados; falta de monitoramento de indicadores de desempenho, engajamento discente e usabilidade da plataforma.
+TAGS: #monitoramento_AVA, #melhoria_continua, #indicadores_usabilidade
+JUSTIFICATIVA: No entanto, não há evidências de que o AVA, no âmbito do curso, seja objeto de avaliações periódicas específicas e documentadas que gerem ações de melhoria continua com base em indicadores de desempenho, participação discente ou usabilidade....
+--------------------
+LOCALIZAÇÃO: Campus Litoral
+CURSO: Ciências Exatas Quimica (Licenciatura) (Nota: 3,00)
+CATEGORIA: Gestão e Feedback
+PONTOS NEGATIVOS: Ausência de evidências documentais que comprovem a realização de avaliações periódicas do Ambiente Virtual de Aprendizagem (AVA) específicas para o curso e inexistência de registros de ações de melhoria contínua baseadas em processos avaliativos.
+TAGS: #ausencia_de_avaliacao_ava, #falta_de_melhoria_continua, #gestao_de_recursos_digitais
+JUSTIFICATIVA: Entretanto, não foram localizadas evidências documentais que comprovem a realização de avaliações periódicas específicas do AVA no curso de Licenciatura em Ciências Exatas — Química, tampouco registros de ações de melhoria contínua decorrentes desse processo. Dessa forma, há comprovação de que o AVA...
+--------------------
+
+>>> INDICADOR: 1.18
+----------------------------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: AGROECOLOGIA (Tecnólogo) (Nota: 3,00)
+CATEGORIA: Projeto Pedagógico e Curricular
+PONTOS NEGATIVOS: Incoerência entre a modalidade de ensino prevista no PPC (EaD) e a execução prática (Presencial); falta de comprovação documental de avaliações periódicas; prováveis deficiências na disponibilização e qualidade de materiais didáticos e recursos em ambientes virtuais (Moodle).
+TAGS: #divergencia_PPC, #ausencia_evidencias_avaliacao, #material_didatico_insuficiente
+JUSTIFICATIVA: Contudo, conforme apontado, a CH Ea D prevista em PPC está sendo realizada presencialmente, de modo que não foi verificado documentação referente às avaliações periódicas. 3 Quantidade de notas < 5: 2 Média destas notas: 2.50 Termos Frequentes: didático(7), material(6), virtuais(6), disciplinas(5), ...
+--------------------
+LOCALIZAÇÃO: Campus Litoral
+CURSO: GEOLOGIA (Bacharelado) (Nota: 2,00)
+CATEGORIA: Projeto Pedagógico e Curricular
+PONTOS NEGATIVOS: Ausência de validação do material didático por equipe multidisciplinar; falta de processo sistemático de avaliação de qualidade (rigor conceitual, linguagem inclusiva e acessibilidade); inexistência de política institucional e repositório para gestão e padronização dos materiais no PPC.
+TAGS: #validacao_material_didatico, #acessibilidade_metodologica, #gestao_de_recursos_didaticos
+JUSTIFICATIVA: No entanto, não foram identificadas evidências de que o material didático desenvolvido para essas disciplinas tenha sido submetido a validação por equipe multidisciplinar, nem que exista um processo sistemático de avaliação quanto à abrangência, aprofundamento conceitual, coerência teórica, linguage...
+--------------------
+
+>>> INDICADOR: 1.19
+----------------------------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: AGROECOLOGIA (Tecnólogo) (Nota: 3,00)
+CATEGORIA: Desempenho e Avaliação Discente
+PONTOS NEGATIVOS: Ausência de evidências de linguagem inclusiva e acessível no material didático (físico e virtual) e fragilidades estruturais no sistema de avaliação discente, com foco negativo em procedimentos de avaliação formativa e mecanismos de acompanhamento acadêmico.
+TAGS: #acessibilidade_pedagogica, #sistema_de_avaliacao, #material_didatico
+JUSTIFICATIVA: Contudo, as disciplinas nessa condição estão sendo realizadas totalmente de forma presencial. O material didático apresentado na visita virtual in loco refere-se à biblioteca física, acesso às plataformas virtuais, periódicos da própria UFPR, repositório digital institucional (teses, dissertações, T...
+--------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: GEOLOGIA (Bacharelado) (Nota: 4,00)
+CATEGORIA: Gestão e Feedback
+PONTOS NEGATIVOS: Ausência de processos institucionais sistemáticos que utilizem os resultados das avaliações para melhoria da aprendizagem; falta de evidências documentais sobre planos de melhoria; ciclo de retroalimentação (feedback) pedagógico incompleto ou mal formalizado.
+TAGS: #retroalimentacao_insuficiente, #melhoria_continua_ausente, #gestao_da_aprendizagem
+JUSTIFICATIVA: Contudo, não foram identificadas ações institucionais recorrentes e sistemáticas que demonstrem a utilização dos resultados das avaliações como insumo direto para ações concretas de melhoria contínua da aprendizagem. A natureza formativa da avaliação é respeitada em grande parte dos procedimentos, m...
+--------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: MATEMÁTICA INDUSTRIAL (Bacharelado) (Nota: 4,00)
+CATEGORIA: Formalização da Inovação e Diferenciação
+PONTOS NEGATIVOS: Apesar de o texto descrever práticas positivas, ele indica apenas a conformidade com o PPC (atendimento ao previsto). Para a nota máxima (5), a justificativa falha em demonstrar o caráter inovador das práticas, a existência de mecanismos de retroalimentação (uso dos resultados para melhoria do curso) e a ausência de evidências de que o modelo seja uma referência de excelência ou originalidade.
+TAGS: #ausencia_de_inovacao, #falta_de_retroalimentacao_sistemica, #conformidade_sem_excelencia
+JUSTIFICATIVA: A análise dos documentos disponibilizados e relatos dos docentes e discentes em reuniões realizadas, evidenciou que os procedimentos, técnicas e estratégias utilizadas para o acompanhamento do processo de ensino-aprendizagem e de avaliação dos estudantes, atendem à concepção do curso definida no PPC...
+--------------------
+LOCALIZAÇÃO: Juvevê
+CURSO: LETRAS PORTUGUÊS (Bacharelado) (Nota: 4,00)
+CATEGORIA: Desempenho e Avaliação Discente
+PONTOS NEGATIVOS: Embora a justificativa mencione o desenvolvimento da autonomia e do pensamento crítico, a nota 4.00 (em vez de 5.00) indica que os procedimentos de acompanhamento e avaliação são considerados satisfatórios, mas carecem de caráter inovador, institucionalização plena ou evidências de impacto sistemático. O texto é genérico e não detalha como as experiências extracurriculares são integradas ou como o feedback contínuo é processado para garantir a excelência acadêmica exigida pelo conceito máximo.
+TAGS: #ausencia_de_inovacao_pedagogica, #monitoramento_discente_generico, #integracao_curricular_insuficiente
+JUSTIFICATIVA: 0s procedimentos de acompanhamento e de avaliação permitem o desenvolvimento e a autonomia do aluno de forma contir IES entende ser um mecanismo de desenvolvimento do pensamento crítico, pois permite ao aluno vivenciar experiências curriculares e extracurriculares cc...
+--------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: MATEMÁTICA (Licenciatura) (Nota: 4,00)
+CATEGORIA: Gestão e Feedback
+PONTOS NEGATIVOS: Ausência de evidências documentais (no PPC, PDI ou arquivos complementares) que comprovem a existência de mecanismos de retroalimentação; falta de comprovação de ações concretas e melhorias efetivas no processo de aprendizagem decorrentes dos resultados das avaliações e questionários aplicados.
+TAGS: #ciclo_avaliativo_incompleto, #ausencia_de_melhorias_concretas, #gestao_da_aprendizagem
+JUSTIFICATIVA: Conforme o PPC (p.19) Sistema E-MEC - A avaliação do projeto vigente foi feita por meio de questionários para alunos, ex-alunos e professores. Nestes questionários foram feitas questões sobre a carga horária dedicada às disciplinas específicas de Matemática, áreas afins e processo seletivo. Sobre a ...
+--------------------
+LOCALIZAÇÃO: Campus  Reitoria
+CURSO: GEOGRAFIA (Licenciatura) (Nota: 4,00)
+CATEGORIA: Desempenho e Avaliação Discente
+PONTOS NEGATIVOS: Inexistência de evidências de ações concretas de acompanhamento ou intervenção pedagógica que utilizem os resultados das avaliações para promover a melhoria efetiva da aprendizagem. O processo avaliativo é descrito de forma meramente burocrática e normativa, carecendo de um caráter formativo real que resulte em feedback e aprimoramento do desempenho discente.
+TAGS: #ausencia_de_acoes_corretivas, #feedback_pedagogico_inexistente, #avaliacao_formativa_insuficiente
+JUSTIFICATIVA: A UFPR estabelece normas para a avaliação das atividades didáticas e o Curso de Geografia segue as referidas normas vigentes. Ao longo do período letivo, segundo o plano de ensino, os estudantes realizam em cada disciplina no mínimo, duas avaliações formais, sendo pelo menos uma escrita. A aprovação...
+--------------------
+LOCALIZAÇÃO: Campus Jandaia Do Sul
+CURSO: LETRAS INGLÊS (Licenciatura) (Nota: 4,00)
+CATEGORIA: Gestão e Feedback
+PONTOS NEGATIVOS: Ausência de evidências documentais de ações concretas e planos de intervenção pedagógica formalizados a partir dos resultados das avaliações, resultando em desarticulação do processo de ensino-aprendizagem e dificuldades percebidas pelos discentes.
+TAGS: #ausencia_de_planos_de_intervencao, #feedback_insuficiente, #desarticulacao_pedagogica
+JUSTIFICATIVA: Todavia, apesar da estrutura avaliativa ser efetiva e formativa, não foram identificadas evidências documentais de ações concretas implementadas para a melhoria da aprendizagem em função das avaliações realizadas (por exemplo, planos de intervenção pedagógica formalizados a partir da análise de resu...
+--------------------
+LOCALIZAÇÃO: Campus Reitoria
+CURSO: Ciências Exatas Quimica (Licenciatura) (Nota: 4,00)
+CATEGORIA: Gestão e Feedback
+PONTOS NEGATIVOS: Ausência de evidências robustas quanto ao acompanhamento sistemático do impacto das práticas pedagógicas; falta de relatórios analíticos de desempenho por turma e inexistência de ações corretivas institucionais baseadas em indicadores de avaliação de desempenho discente.
+TAGS: #acompanhamento_pedagogico_insuficiente, #indicadores_de_desempenho, #ausencia_de_relatorios_analiticos
+JUSTIFICATIVA: Mas incorpora devolutivas pedagógicas consistentes, alinhadas ao caráter formativo e regulador do processo de ensino. Portanto, há consistência normativa (Resolução CEPE), sistemas institucionais de registro e transparência (SIGA e UFPR Aberta) e práticas pedagógicas inovadoras (feedbacks digitais n...
+--------------------
+
+>>> INDICADOR: 1.2
+----------------------------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: Pedagogia (Licenciatura) (Nota: 4,00)
+CATEGORIA: Formalização da Inovação e Diferenciação
+PONTOS NEGATIVOS: Ausência de metodologias inovadoras ou práticas pedagógicas de sucesso comprovado no processo de revisão do curso; falta de atualização do Projeto Pedagógico de Curso (PPC) com base em diferenciais competitivos e modernos.
+TAGS: #ausencia_inovacao, #revisao_curricular_fragil, #praticas_pedagogicas_obsoletas
+JUSTIFICATIVA: Porém não constatou-se aadoção de práticas comprovadamente exitosas ou inovadoras para sua a sua revisão. Quantidade de notas < 5: 5 Média destas notas: 3.20 Termos Frequentes: objetivos(14), formar(10), culturais(9), profissionais(8), implementados(6), educação(6), matemática(5), capaz(5), perfil(5...
+--------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: MATEMÁTICA INDUSTRIAL (Bacharelado) (Nota: 4,00)
+CATEGORIA: Formalização da Inovação e Diferenciação
+PONTOS NEGATIVOS: A justificativa apresenta fragmentação textual e falta de clareza sobre como as experiências em 'outros ambientes' e as demandas do mercado são sistematicamente integradas ao currículo. A vagueza na descrição sugere uma fragilidade na formalização documental e na articulação entre a teoria e a prática regional.
+TAGS: #articulacao_teoria_pratica_vaga, #formalizacao_curricular_insuficiente, #contextualizacao_regional_generica
+JUSTIFICATIVA: Mas também incorpora diversas experiências educacionais em outros ambientes) características locais e regionais (principalmente as demandas e exigências do mercado de trabalho)....
+--------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: MATEMÁTICA INDUSTRIAL (Bacharelado) (Nota: 4,00)
+CATEGORIA: Formalização da Inovação e Diferenciação
+PONTOS NEGATIVOS: A justificativa apresenta um caráter meramente descritivo e de conformidade. Embora aponte a demanda regional e a existência de infraestrutura e corpo docente, falha em demonstrar diferenciais competitivos, projetos de inovação pedagógica ou a formalização de convênios específicos com a indústria paranaense. A menção a recursos 'necessários' e número de docentes 'apropriado' indica atendimento aos padrões de qualidade (Nota 4), mas a ausência de elementos de vanguarda ou impacto sistêmico impede a nota máxima.
+TAGS: #ausencia_de_inovacao, #conformidade_regulatoria_basica, #vagas_sem_lastro_de_parceria_formal
+JUSTIFICATIVA: Documentos inseridos pela IES no drive e informações obtidas em reuniões indicam que o número de vagas ofertadas se justifica pelo desempenho econômico do estado do Paraná que tem demandado a formação de profissionais para atuação, principalmente, na indústria. Dados dos documentos analisados asseve...
+--------------------
+LOCALIZAÇÃO: Complexo Hospital de Clínicas
+CURSO: LETRAS PORTUGUÊS (Bacharelado) (Nota: 4,00)
+CATEGORIA: Formalização da Inovação e Diferenciação
+PONTOS NEGATIVOS: A justificativa foca excessivamente em aspectos normativos burocráticos e antigos (Resolução de 1997), falhando em demonstrar a excelência ou inovação necessária para a nota máxima. O texto é fragmentado, interrompido e descreve recursos de forma genérica (ferramentas TIC e apoio discente) sem detalhar sua integração específica com as diretrizes curriculares do Bacharelado em Letras.
+TAGS: #normativas_obsoletas, #justificativa_fragmentada, #falta_de_inovacao_pedagogica
+JUSTIFICATIVA: 4 RESOLUÇÃO nº 37/97-CEPE, aprovou as normas básicas de controle e registro da atividade acadêmica dos cursos de gr noturnas, abertas anualmente por meio do Vestibular e das vagas disponibilizadas pelo SISU. Conforme ofício apresentado pela IES as vagas disponibiliza pela IES, pela visita virtual às...
+--------------------
+LOCALIZAÇÃO: Juvevê
+CURSO: MEDICINA (Bacharelado) (Nota: 2,00)
+CATEGORIA: Gestão e Feedback
+PONTOS NEGATIVOS: Ausência de estudos técnicos periódicos (qualitativos e quantitativos) para fundamentar o número de vagas ofertadas; falta de consulta à comunidade acadêmica sobre a expansão; inexistência de comprovação da compatibilidade entre o quantitativo de 200 vagas anuais e a real capacidade do corpo docente, infraestrutura física e recursos tecnológicos disponíveis para ensino e pesquisa.
+TAGS: #dimensionamento_vagas_irregular, #ausencia_estudos_viabilidade, #incompatibilidade_recursos_vagas
+JUSTIFICATIVA: O número de vagas, 200 vagas anuais, foi estabelecido pela Reitoria da UFPR em 2023 (Oficio nº 675/2023/UFPR/R/GAB), a partir da solicitação da Secretária de Educação Superior (SESu) a partir dos dados relativos aos cursos médicos das Instituições Federais de Educação Superior (IFES), especialmente ...
+--------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: MATEMÁTICA (Licenciatura) (Nota: 3,00)
+CATEGORIA: Projeto Pedagógico e Curricular
+PONTOS NEGATIVOS: Ausência de contextualização regional e local nos objetivos do curso e no perfil do egresso. O PPC falha em demonstrar como a formação do professor-pesquisador se articula com as demandas e especificidades da realidade onde o curso está inserido.
+TAGS: #contextualizacao_regional, #perfil_egresso_generico, #diretrizes_curriculares_inep
+JUSTIFICATIVA: Conforme o PPC (p.7) Sistema E-MEC - O curso tem como objetivo preparar o professor de Matemática para exercício do magistério no Ensino Fundamental e Médio e o de contribuir para a formação do futuro pesquisador em Educação Matemática. Capaz de exercer uma liderança intelectual, social e política e...
+--------------------
+LOCALIZAÇÃO: Campus Jandaia Do Sul
+CURSO: QUÍMICA (Bacharelado) (Nota: 1,00)
+CATEGORIA: Projeto Pedagógico e Curricular
+PONTOS NEGATIVOS: Inexistência dos Objetivos do Curso no Projeto Pedagógico do Curso (PPC) disponibilizado no sistema e-MEC, impossibilitando a análise do indicador e descumprindo a Instrução Normativa Nº 4/2018.
+TAGS: #ausencia_de_objetivos, #PPC_incompleto, #descumprimento_normativo
+JUSTIFICATIVA: Conforme Instrução Normativa Nº 4, de 29 de novembro de 2018, Art. 3º, 8 4º "A comissão avaliadora somente aceitará as versões do PDI/PPC apensados ao sistema, sejam eles os originais da abertura do processo ou os novos anexados." Conforme extrato do emec referente à Cópia do PPC, não foram disponib...
+--------------------
+LOCALIZAÇÃO: Juvevê
+CURSO: Ciências Exatas Quimica (Licenciatura) (Nota: 4,00)
+CATEGORIA: Formalização da Inovação e Diferenciação
+PONTOS NEGATIVOS: Ausência de evidências consistentes quanto à incorporação de novas práticas emergentes e tendências contemporâneas no campo do ensino de Química dentro da proposta pedagógica.
+TAGS: #praticas_emergentes_ausentes, #inovacao_pedagogica_deficitaria, #atualizacao_metodologica_insuficiente
+JUSTIFICATIVA: Mas não compromete a implementação dos objetivos previstos no PPC. A integração com o contexto regional também está evidenciada. Os discentes realizam estágios obrigatórios em escolas do Vale do Ivaí, conforme lista oficial de campos de estágio (drive), garantindo contato direto com a realidade educ...
+--------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: Produção Cultural (Tecnologia) (Nota: 4,00)
+CATEGORIA: Gestão e Feedback
+PONTOS NEGATIVOS: Ausência de evidências sólidas de ações concretas para a melhoria da aprendizagem baseadas em processos avaliativos; omissão de estratégias de melhoria nos planos de ação da coordenação e nos planos individuais dos docentes; falha no fechamento do ciclo de autoavaliação (feedback loop).
+TAGS: #melhoria_continua_inexistente, #planejamento_estrategico_falho, #gestao_da_aprendizagem
+JUSTIFICATIVA: Entretanto, não encontramos evidênciassólidas de que vem sendo adotadas ações concretas para a melhoria da aprendizagem em função das avaliações realizadas, não sendo mencionadas nos planos de ação da coordenação ou nosplanos individuais dos docentes. Quantidade de notas < 5: 8 Média destas notas: 3...
+--------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: MATEMÁTICA INDUSTRIAL (Bacharelado) (Nota: 4,00)
+CATEGORIA: Formalização da Inovação e Diferenciação
+PONTOS NEGATIVOS: A justificativa apresenta fragilidades na comprovação da excelência ao utilizar descrições genéricas para a infraestrutura (apenas como 'necessária' e não como inovadora ou de referência) e ao tratar a inserção dos egressos no mercado apenas como 'potencial' ou possibilidade, sem apresentar dados concretos de monitoramento, parcerias firmadas ou resultados reais de inovação na indústria paranaense.
+TAGS: #infraestrutura_generica, #ausencia_de_dados_de_egressos, #vínculo_industrial_teorico
+JUSTIFICATIVA: Documentos inseridos pela IES no drive e informações obtidas em reuniões indicam que o número de vagas ofertadas se justifica pelo desempenho econômico do estado do Paraná que tem demandado a formação de profissionais para atuação, principalmente, na indústria. Dados dos documentos analisados asseve...
+--------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: QUÍMICA (Bacharelado) (Nota: 1,00)
+CATEGORIA: Gestão e Feedback
+PONTOS NEGATIVOS: Inexistência de documentação oficial comprobatória; ausência de periodicidade nos processos de monitoramento; e falha na utilização de indicadores para o planejamento e dimensionamento de infraestrutura, corpo docente e oferta de vagas.
+TAGS: #ausencia_documental, #falta_de_periodicidade, #gestao_sem_indicadores
+JUSTIFICATIVA: Porém esses dados não puderam ser confirmados por documentação oficial. Não foi demonstrada a existência de periodicidade nem de que tenham sido usadas para dimensionamento do corpo docente, da infraestrutura ou sua relação com o número de vagas ofertadas....
+--------------------
+LOCALIZAÇÃO: Campus  Reitoria
+CURSO: GEOGRAFIA (Licenciatura) (Nota: 4,00)
+CATEGORIA: Projeto Pedagógico e Curricular
+PONTOS NEGATIVOS: Ausência de documentação comprobatória que fundamente e valide a capacidade institucional para o quantitativo de vagas proposto, impossibilitando a verificação da relação entre infraestrutura, corpo docente e demanda discente.
+TAGS: #comprovacao_documental, #dimensionamento_de_vagas, #conformidade_regulatoria
+JUSTIFICATIVA: Mas sem a devida comprovação documental para adequação do número de vagas....
+--------------------
+LOCALIZAÇÃO: Campus Jandaia Do Sul
+CURSO: LETRAS INGLÊS (Licenciatura) (Nota: 4,00)
+CATEGORIA: Projeto Pedagógico e Curricular
+PONTOS NEGATIVOS: Ausência de estudos periódicos, quantitativos e qualitativos, que comprovem a adequação do número de vagas ofertadas; falta de pesquisas junto à comunidade acadêmica para fundamentar a oferta; carência de evidências empíricas que sustentem a justificativa logística e qualitativa apresentada no PPC.
+TAGS: #ausencia_estudos_vagas, #embasamento_metodologico_insuficiente, #planejamento_estrategico_falho
+JUSTIFICATIVA: Conforme o PPC, “A decisão por uma entrada de 20 alunos/as enfatiza a importância da qualidade na formação inicial de professores/as. Desse modo, para o trabalho pedagógico já realizado em cursos de Licenciatura em Letras - línguas estrangeiras, grande parte das disciplinas, obrigatórias e optativas...
+--------------------
+LOCALIZAÇÃO: Campus Reitoria
+CURSO: Ciências Exatas Quimica (Licenciatura) (Nota: 4,00)
+CATEGORIA: Gestão e Feedback
+PONTOS NEGATIVOS: Ausência de pesquisas formais e estruturadas com stakeholders (egressos, docentes da educação básica e gestores escolares) para fundamentar tecnicamente a definição ou alteração do número de vagas ofertadas.
+TAGS: #ausencia_pesquisa_egressos, #planejamento_de_vagas_sem_subsidio, #feedback_comunidade_externa
+JUSTIFICATIVA: Entretanto, não foram identificadas evidências de pesquisas formais com a comunidade acadêmica ou externa, como consultas estruturadas a egressos, professores da Educação Básica ou gestores de redes escolares, que subsidiem a definição ou readequação do número de vagas....
+--------------------
+LOCALIZAÇÃO: Complexo Hospital de Clínicas
+CURSO: LETRAS PORTUGUÊS (Bacharelado) (Nota: 4,00)
+CATEGORIA: Formalização da Inovação e Diferenciação
+PONTOS NEGATIVOS: A justificativa apresenta-se incompleta e truncada ao final ('acervo «'), demonstrando falha na formalização do parecer técnico. Além disso, foca excessivamente em aspectos normativos e burocráticos datados (Resolução de 1997) e processos de ingresso (SISU/Vestibular), falhando em descrever os diferenciais qualitativos, de inovação ou de pesquisa específicos para o Bacharelado em Letras que justificariam a nota máxima (5,00).
+TAGS: #justificativa_incompleta, #excessiva_normatizacao, #ausencia_de_diferenciais_qualitativos
+JUSTIFICATIVA: 4 RESOLUÇÃO nº 37/97-CEPE, aprovou as normas básicas de controle e registro da atividade acadêmica dos cursos de gr noturnas, abertas anualmente por meio do Vestibular e das vagas disponibilizadas pelo SISU. Conforme ofício apresentado pela IES as vagas disponibiliza pela IES, pela visita virtual às...
+--------------------
+LOCALIZAÇÃO: Juvevê
+CURSO: MEDICINA (Bacharelado) (Nota: 2,00)
+CATEGORIA: Planejamento e Gestão Institucional
+PONTOS NEGATIVOS: Ausência de estudos periódicos (qualitativos e quantitativos) que fundamentem o dimensionamento de vagas; falta de consulta à comunidade acadêmica sobre a viabilidade do curso; inexistência de comprovação técnica da adequação entre o número de alunos e a capacidade instalada de infraestrutura física, tecnológica e o contingente docente.
+TAGS: #ausencia_estudos_viabilidade, #dimensionamento_vagas_inadequado, #planejamento_estrategico_deficiente
+JUSTIFICATIVA: O número de vagas, 200 vagas anuais, foi estabelecido pela Reitoria da UFPR em 2023 (Oficio nº 675/2023/UFPR/R/GAB), a partir da solicitação da Secretária de Educação Superior (SESu) a partir dos dados relativos aos cursos médicos das Instituições Federais de Educação Superior (IFES), especialmente ...
+--------------------
+
+>>> INDICADOR: 1.21
+----------------------------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: Produção Cultural (Tecnologia) (Nota: 2,00)
+CATEGORIA: Projeto Pedagógico e Curricular
+PONTOS NEGATIVOS: Ausência de estudos qualitativos e quantitativos que fundamentem o número de vagas ofertadas; falta de análise de demanda profissional regional e de concorrência local; inexistência de relatórios técnicos que comprovem a adequação da infraestrutura e do corpo docente às dimensões do curso.
+TAGS: #estudo_de_demanda_inexistente, #dimensionamento_de_vagas, #inadequacao_infraestrutura_docente
+JUSTIFICATIVA: Mas tais dados não fundamentam estudos qualitativos e quantitativos que comprovem a adequação à dimensão do corpo docente. A única justificativa apresentada pela coordenação do curso para a quantidade de vagas refere-se ao número reduzido de docentes disponíveis. Ou seja, não foram apresentados estu...
+--------------------
+LOCALIZAÇÃO: Campus Jandaia Do Sul
+CURSO: QUÍMICA (Bacharelado) (Nota: 2,00)
+CATEGORIA: Formalização da Inovação e Diferenciação
+PONTOS NEGATIVOS: Ausência de evidências documentais que comprovem a consolidação e a abrangência das ações pedagógicas; falta de comprovação de resultados relevantes para os alunos e para as escolas parceiras; relatórios de estágio com conteúdo informativo insuficiente e limitado.
+TAGS: #ausencia_de_evidencias, #documentacao_insuficiente, #impacto_pedagogico_nao_comprovado
+JUSTIFICATIVA: Os convênios e ações promovem integração com a rede pública de ensino conforme termos de estágio e convênios com a rede pública que foram disponibilizados. A análise dos planos de atividades demonstraram que os estágios permitem o desenvolvimento, a testagem, a execução e a avaliação de estratégias ...
+--------------------
+LOCALIZAÇÃO: Centro Politécnico
+CURSO: Ciências Exatas Quimica (Licenciatura) (Nota: 4,00)
+CATEGORIA: Formalização da Inovação e Diferenciação
+PONTOS NEGATIVOS: Ausência de comprovação documental sobre práticas inovadoras e inexistência de evidências relativas a experiências institucionais exitosas.
+TAGS: #ausencia_de_inovacao, #falta_de_evidencias, #experiencias_exitosas_inexistentes
+JUSTIFICATIVA: Todavia, não foram encontradas evidencias ou experiências (documentadas) que possam ser caracterizadas como inovadoras ou exitosas em nível institucional....
+--------------------
+
+>>> INDICADOR: 1.24
+----------------------------------------
+LOCALIZAÇÃO: Campus Jandaia Do Sul
+CURSO: Pedagogia (Licenciatura) (Nota: 4,00)
+CATEGORIA: Formalização da Inovação e Diferenciação
+PONTOS NEGATIVOS: Ausência de comprovação documental ou prática de ações inovadoras ou diferenciais de sucesso (ações exitosas). O curso atende aos requisitos formais, mas não apresenta elementos que extrapolem a conformidade básica para atingir a excelência (nota 5).
+TAGS: #ausencia_de_inovacao, #acoes_exitosas_nao_evidenciadas, #falta_de_diferencial_metodologico
+JUSTIFICATIVA: Mas não evidenciou-se ações comprovadamente exitosas ouinovadoras. Quantidade de notas < 5: 1 Média destas notas: 4.00 Termos Frequentes: prática(12), formação(5), pedagógica(4), atividades(3), toda(3), formal(3), reflexão(3), articulação(3), conformidade(2), iniciando(2), primeiro(2), período(2), e...
+--------------------
+
+>>> INDICADOR: 1.3
+----------------------------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: Produção Cultural (Tecnologia) (Nota: 4,00)
+CATEGORIA: Projeto Pedagógico e Curricular
+PONTOS NEGATIVOS: Ausência de evidências sobre práticas emergentes e inovações no campo do conhecimento; fragilidade na articulação entre o perfil do egresso, as competências desenvolvidas e as demandas reais do mundo do trabalho e contextos regionais.
+TAGS: #praticas_emergentes_ausentes, #perfil_egresso_desatualizado, #desconexao_mercado_trabalho
+JUSTIFICATIVA: No entanto, os documentos disponibilizados no drive e as falas dos interlocutores não evidenciaram a existência de novas práticas emergentes no campo do conhecimento relacionado ao curso. Quantidade de notas < 5: 7 Média destas notas: 3.71 Termos Frequentes: egresso(19), perfil(17), formação(15), pr...
+--------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: MATEMÁTICA (Licenciatura) (Nota: 3,00)
+CATEGORIA: Projeto Pedagógico e Curricular
+PONTOS NEGATIVOS: O Projeto Pedagógico de Curso (PPC) não apresenta articulação com as necessidades locais e regionais; ausência de comprovação documental sobre a identificação das especificidades socioeconômicas e educacionais de Curitiba e entorno; o relatório de acompanhamento de egressos não contempla a inserção regional da formação.
+TAGS: #articulacao_regional_ausente, #ppc_descontextualizado, #monitoramento_egressos_falho
+JUSTIFICATIVA: Conforme o PPC (p.7) Sistema E-MEC - O perfil profissional do egresso, se baseia no Perfil do futuro professor-pesquisador da educação básica: “o curso de Licenciatura em Matemática tem por objetivo formar um profissional com visão abrangente do papel do educador, capaz de trabalhar em equipes multi...
+--------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: QUÍMICA (Bacharelado) (Nota: 4,00)
+CATEGORIA: Projeto Pedagógico e Curricular
+PONTOS NEGATIVOS: Ausência de evidências documentais que comprovem a atualização do currículo frente às novas demandas do mundo do trabalho e falta de relatórios de análise sobre o mercado de trabalho local e regional.
+TAGS: #desconexao_mercado_trabalho, #atualizacao_curricular_ausente, #ausencia_estudo_regional
+JUSTIFICATIVA: Apesar de ter sido elaborada para a Diretriz de 2015. São expressas 13 competências a serem desenvolvidas pelo discente. A articulação com necessidades locais e regionais se dá pela presença de competências relacionadas à pesquisa sobre a realidade sociocultural e à realidade educacional. Não foram ...
+--------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: GEOGRAFIA (Licenciatura) (Nota: 4,00)
+CATEGORIA: Projeto Pedagógico e Curricular
+PONTOS NEGATIVOS: O perfil do egresso é excessivamente genérico e híbrido, misturando competências de bacharelado e licenciatura sem delimitar claramente as habilidades específicas necessárias para o exercício da docência. Há uma falta de foco nas competências pedagógicas e uma desarticulação entre o perfil proposto e as demandas contemporâneas do mundo do trabalho para professores de Geografia.
+TAGS: #perfil_do_egresso_indefinido, #lacuna_na_formação_docente, #desarticulação_com_mercado_de_trabalho
+JUSTIFICATIVA: Com base na análise do PPC e na reunião com a coordenação do curso e NDE, observou-se que o egresso do Curso de Licenciatura em Geografia, na modalidade PRESENCIAL, deve ser um profissional que tenha uma formação bem ampla. O que evidencia um perfil profissional muito vasto com um rol diversificado ...
+--------------------
+LOCALIZAÇÃO: Campus  Reitoria
+CURSO: CIÊNCIAS BIOLÓGICAS (Licenciatura) (Nota: 4,00)
+CATEGORIA: Projeto Pedagógico e Curricular
+PONTOS NEGATIVOS: A justificativa é puramente descritiva e genérica, limitando-se a declarar que o perfil atende às DCNs sem demonstrar excelência ou diferenciais inovadores. Há uma falha de revisão formal (termo 'desenvolvimen' incompleto) e falta de detalhamento sobre como a matriz curricular articula, na prática, as competências necessárias para as demandas futuras citadas.
+TAGS: #descrição_genérica, #falha_na_revisão_documental, #ausência_de_diferencial_inovador
+JUSTIFICATIVA: O perfil do egresso está inserido no PPC, 08 de acordo com as DCN do curso, relata o campo de atuação do profissional, no futuras demandas no mercado de trabalho. A matriz curricular configura-se como geradora de oportunidades significativas para aquisição e desenvolvimen do egresso (PPC, 13)....
+--------------------
+LOCALIZAÇÃO: Campus Jandaia Do Sul
+CURSO: LETRAS INGLÊS (Licenciatura) (Nota: 4,00)
+CATEGORIA: Projeto Pedagógico e Curricular
+PONTOS NEGATIVOS: Ausência de atualização do perfil do egresso frente às novas demandas do mercado de trabalho; falta de um sistema de acompanhamento sistemático de egressos; insuficiência de dados quantitativos, que se limitam ao fluxo interno (ingressantes/concluintes) e não à trajetória profissional pós-formação.
+TAGS: #acompanhamento_de_egressos, #perfil_do_egresso, #demandas_mundo_do_trabalho
+JUSTIFICATIVA: Entretanto, não há evidências de ampliação do perfil em função de novas demandas do mundo do trabalho, registrando-se que não foram apresentados dados de acompanhamento sistemático dos egressos. O levantamento quantitativo disponibilizado traz apenas dados de fluxo discente (ingressantes, concluinte...
+--------------------
+LOCALIZAÇÃO: Campus Reitoria
+CURSO: Ciências Exatas Quimica (Licenciatura) (Nota: 4,00)
+CATEGORIA: Projeto Pedagógico e Curricular
+PONTOS NEGATIVOS: Ausência de evidências de atualização do perfil do egresso frente às transformações contemporâneas do mercado; falta de alinhamento entre as competências desenvolvidas no PPC e as novas exigências do mundo do trabalho.
+TAGS: #perfil_do_egresso_desatualizado, #desconexao_mercado_trabalho, #ppc_estatico
+JUSTIFICATIVA: Todavia, não foram encontradas evidências de que o perfil do egresso está sendo ampliado em função de novas demandas apresentadas pelo mundo do trabalho....
+--------------------
+
+>>> INDICADOR: 1.4
+----------------------------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: LETRAS PORTUGUÊS (Bacharelado) (Nota: 3,00)
+CATEGORIA: Projeto Pedagógico e Curricular
+PONTOS NEGATIVOS: Falta de formalização de atividades complementares e práticas (como laboratórios e oficinas) no PPC; deficiência na articulação entre teoria e prática; problemas na distribuição da carga horária e estruturação curricular de eixos obrigatórios, como Libras e Extensão.
+TAGS: #ausencia_de_formalizacao_curricular, #articulacao_teoria_pratica, #inadequacao_carga_horaria
+JUSTIFICATIVA: Apesar de constar no PPC (2019) descrição sobre o perfil do egresso pretendido para o Curso de Letras - Português, não há a formaliza Diversos, Semana Acadêmica, Laboratórios de Edição, Clube do Livro, Oficinas de Leitura, desenvolvem as competências requeridas ao futuro profission: Quantidade de no...
+--------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: MATEMÁTICA INDUSTRIAL (Bacharelado) (Nota: 4,00)
+CATEGORIA: Projeto Pedagógico e Curricular
+PONTOS NEGATIVOS: A justificativa apresenta uma descrição meramente formal e burocrática da estrutura curricular, focando em cargas horárias mínimas e cumprimento legal (Libras como optativa). Carece de evidências qualitativas sobre como a interdisciplinaridade e a relação teoria-prática são efetivamente monitoradas e validadas, tratando o desenvolvimento de competências industriais de forma genérica ('busca-se estabelecer') sem demonstrar excelência ou inovação acadêmica que justifique a nota máxima.
+TAGS: #interdisciplinaridade_generica, #ausencia_de_inovacao_curricular, #articulacao_teorico_pratica_insuficiente
+JUSTIFICATIVA: Conforme documentos disponibilizados pela IES, a estrutura curricular do Curso de Matemática Industrial (Bacharelado) apresenta um rol de 49 disciplinas a serem ofertadas de forma optativa (os discentes precisam cursar pelo menos 5), dentre as quais a disciplina “Comunicação em Língua Brasileira de ...
+--------------------
+LOCALIZAÇÃO: Campus Reitoria
+CURSO: CIÊNCIAS EXATAS QUÍMICA (Licenciatura) (Nota: 4,00)
+CATEGORIA: Formalização da Inovação e Diferenciação
+PONTOS NEGATIVOS: Ausência de comprovação documental ou evidências práticas de elementos inovadores na proposta pedagógica, impedindo o curso de atingir o conceito máximo (5) apesar de atender aos requisitos básicos de acessibilidade e interdisciplinaridade.
+TAGS: #ausencia_de_inovacao, #falta_de_evidencias, #diferenciacao_pedagogica_insuficiente
+JUSTIFICATIVA: Mas também para a familiarização dos estudantes com atividades formativas mediadas por tecnologias digitais, fortalecendo a proposta pedagógica do curso. Aliás, a estrutura curricular conta com um elemento a mais para sua integração no campo das ciências exatas, vez que o curso, ora ofertado, articu...
+--------------------
+LOCALIZAÇÃO: Centro Politécnico
+CURSO: LETRAS PORTUGUÊS (Bacharelado) (Nota: 4,00)
+CATEGORIA: Projeto Pedagógico e Curricular
+PONTOS NEGATIVOS: A curricularização da extensão ainda se encontra em trâmite jurídico/administrativo, não estando plenamente implementada ou consolidada no PPC. Além disso, a ausência da disciplina de LIBRAS no Bacharelado (embora legalmente facultativa, é pontuada em avaliações de excelência) e a descrição confusa sobre a oferta sistemática de optativas indicam fragilidades na estrutura curricular.
+TAGS: #curricularizacao_da_extensao_pendente, #ausencia_de_libras, #estruturacao_curricular_incompleta
+JUSTIFICATIVA: A matriz curricular descrita no item 8 do PPC (Edição de 2019), informa que o Curso de Bacharelado em Letras Português t Optativas, refere-se ao conjunto de disciplinas obrigatórias a oferta sistemática de disciplinas optativas, de livre escolha dos alunos, em cujo espaço discipl PPC (2019), do curs...
+--------------------
+LOCALIZAÇÃO: Complexo Hospital de Clínicas
+CURSO: Pedagogia (Licenciatura) (Nota: 4,00)
+CATEGORIA: Formalização da Inovação e Diferenciação
+PONTOS NEGATIVOS: Ausência de comprovação documental ou prática de metodologias, tecnologias ou processos pedagógicos que se destaquem do padrão regulatório; falta de diferenciais competitivos ou disruptivos no projeto do curso.
+TAGS: #ausencia_de_inovacao, #falta_de_diferencial, #evidencias_insuficientes
+JUSTIFICATIVA: Mas não apresenta elementos comprovadamente inovadores....
+--------------------
+LOCALIZAÇÃO: Juvevê
+CURSO: MEDICINA (Bacharelado) (Nota: 3,00)
+CATEGORIA: Projeto Pedagógico e Curricular
+PONTOS NEGATIVOS: Atendimento apenas parcial aos requisitos de flexibilidade e interdisciplinaridade; matriz curricular excessivamente tradicional com fundamentação pedagógica insuficiente no PPC para a integração de conteúdos; articulação incipiente entre teoria e prática profissional; e falta de evidências sobre a integração longitudinal e transversal dos saberes e de elementos inovadores no percurso formativo.
+TAGS: #integracao_curricular_deficiente, #articulacao_teoria_pratica_incipiente, #ausencia_elementos_inovadores
+JUSTIFICATIVA: A estrutura curricular do curso de Medicina da UFPR apresentada no PPC, está implementada desde 2019 e considera parcialmente os requisitos de flexibilidade, interdisciplinaridade, acessibilidade metodológica e compatibilidade de carga horária total (8140 Horas). O curso é organizado em uma matriz t...
+--------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: MATEMÁTICA (Licenciatura) (Nota: 4,00)
+CATEGORIA: Formalização da Inovação e Diferenciação
+PONTOS NEGATIVOS: Ausência de evidências de práticas pedagógicas disruptivas ou metodologias de ensino diferenciadas; falta de comprovação de elementos que superem as exigências básicas de formação e confiram identidade inovadora ao curso.
+TAGS: #ausencia_de_inovacao, #metodologias_tradicionais, #falta_de_diferencial_curricular
+JUSTIFICATIVA: No entanto, não foram apresentados elementos comprovadamente inovadores na formação....
+--------------------
+LOCALIZAÇÃO: Campus Jandaia Do Sul
+CURSO: GEOGRAFIA (Licenciatura) (Nota: 3,00)
+CATEGORIA: Projeto Pedagógico e Curricular
+PONTOS NEGATIVOS: Presença de incongruências no PPC e necessidade de revisão geral na estrutura curricular; falta de detalhamento explícito das cargas horárias (parciais e totais) para disciplinas, extensão, atividades formativas, TCC e estágios; deficiência na articulação entre os componentes curriculares no percurso formativo e ausência de evidências de elementos inovadores.
+TAGS: #incongruencia_ppc, #matriz_curricular_insuficiente, #falta_articulacao_pedagogica
+JUSTIFICATIVA: Contudo, ficou evidente, após a análise do PPC e, durante a reunião realizada com os discentes, que a nova Estrutura Curricular apresenta incongruências, necessitando de uma revisão geral, organizando de forma mais explícita a matriz curricular com o quantitativo das cargas horárias computadas (parc...
+--------------------
+LOCALIZAÇÃO: Campus Pontal Do Sul
+CURSO: Ciências Exatas Quimica (Licenciatura) (Nota: 4,00)
+CATEGORIA: Formalização da Inovação e Diferenciação
+PONTOS NEGATIVOS: Baixa adesão discente às atividades extensionistas e investigativas; ausência de elementos inovadores no currículo (módulos integrados ou temas emergentes como química verde e nanotecnologia); inexistência de internacionalização formalizada para o corpo discente; e aplicação assistemática/pontual de metodologias ativas, contrariando a previsão no PPC.
+TAGS: #ausencia_de_inovacao_curricular, #metodologias_ativas_pontuais, #baixa_adesao_discente
+JUSTIFICATIVA: Entretanto, a adesão discente a tais atividades é limitada, o que reduz o alcance coletivo das experiências extensionistas e investigativas. Apesar do número reduzido de matriculados (16 alunos no total, sendo apenas 2 na ênfase em Química), o corpo docente empenha-se em assegurar oportunidades de e...
+--------------------
+
+>>> INDICADOR: 1.5
+----------------------------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: MATEMÁTICA INDUSTRIAL (Bacharelado) (Nota: 4,00)
+CATEGORIA: Formalização da Inovação e Diferenciação
+PONTOS NEGATIVOS: Embora o texto apresente conformidade, a nota 4,00 indica que não foram atingidos os critérios de excelência para a nota máxima (5). As fragilidades implícitas incluem: a abordagem dos temas transversais de forma compartimentada em uma única disciplina (faltando a integração orgânica em todo o currículo) e a descrição de metodologias de ensino e recursos que, embora adequados, são convencionais e carecem de caráter inovador ou de diferenciais tecnológicos específicos para a área de Matemática Industrial.
+TAGS: #transversalidade_compartimentada, #ausencia_de_inovacao, #metodologias_convencionais
+JUSTIFICATIVA: Os conteúdos curriculares desenvolvidos ao longo do curso, conforme documentos disponibilizados pela TES e informações obtidas em reuniões realizadas, possibilitam o pleno desenvolvimento do perfil profissional de egresso estabelecido no PPC (2020). Esses conteúdos estão adequados a carga horária di...
+--------------------
+LOCALIZAÇÃO: Complexo Hospital de Clínicas
+CURSO: LETRAS PORTUGUÊS (Bacharelado) (Nota: 4,00)
+CATEGORIA: Projeto Pedagógico e Curricular
+PONTOS NEGATIVOS: A justificativa baseia-se em 'relatos testemunhais' em vez de evidências documentais sólidas ou indicadores de desempenho objetivos. Além disso, o texto é genérico e não aponta elementos de inovação ou diferenciação institucional que justifiquem a nota máxima (5), limitando-se a declarar o cumprimento do perfil do egresso e temas transversais obrigatórios.
+TAGS: #evidencias_subjetivas, #ausencia_de_inovacao, #fragilidade_documental
+JUSTIFICATIVA: O currículo promove a realização plena das habilidades necessárias para a implementação do perfil profissional do egresso, Cultura Afro-Brasileira e Indígena) na sociedade contemporânea, a prática pedagógica da formação evidenciadas nos relatos testemunhais....
+--------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: Produção Cultural (Tecnologia) (Nota: 4,00)
+CATEGORIA: Formalização da Inovação e Diferenciação
+PONTOS NEGATIVOS: Ausência de elementos ou informações que comprovem inovação na estrutura curricular, resultando em uma proposta pedagógica convencional. Além disso, a análise dos termos frequentes sugere fragilidades complementares em bibliografia, definição do perfil do egresso e atualização dos componentes curriculares.
+TAGS: #ausencia_de_inovacao, #matriz_curricular_convencional, #fragilidade_bibliografica
+JUSTIFICATIVA: Mas sejam analisados e resignificados a partir de diferentes perspectivas —críticas, políticas e históricas. Por fim, o terceiro eixo, Laboratórios Artístico-Culturais, possibilita que os discentes vivenciem questões práticas da área. Atuando de forma integrada aosconceitos e ferramentas discutidos ...
+--------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: MATEMÁTICA (Licenciatura) (Nota: 4,00)
+CATEGORIA: Formalização da Inovação e Diferenciação
+PONTOS NEGATIVOS: Ausência de práticas pedagógicas disruptivas ou metodologias ativas; falta de atualização do percurso formativo frente às demandas contemporâneas da educação matemática; inexistência de diferenciais competitivos ou elementos de inovação no Projeto Pedagógico do Curso (PPC).
+TAGS: #ausencia_de_inovacao, #metodologias_tradicionais, #defasagem_pedagogica
+JUSTIFICATIVA: No entanto, não foram detectados elementos recentes e inovadores realizados no percurso da formação do curso de Matemática....
+--------------------
+LOCALIZAÇÃO: Campus Jandaia Do Sul
+CURSO: GEOGRAFIA (Licenciatura) (Nota: 4,00)
+CATEGORIA: Formalização da Inovação e Diferenciação
+PONTOS NEGATIVOS: Ausência de evidências documentais ou práticas que demonstrem a integração de avanços científicos contemporâneos e metodologias disruptivas no currículo; falta de mecanismos que estimulem a produção ou o contato com o conhecimento de ponta na área de Geografia.
+TAGS: #ausencia_de_inovacao, #conhecimento_desatualizado, #lacuna_curricular
+JUSTIFICATIVA: Entretanto, não foram observadas evidências que comprovam a indução com o conhecimento recente e inovador....
+--------------------
+LOCALIZAÇÃO: Campus Reitoria
+CURSO: Ciências Exatas Quimica (Licenciatura) (Nota: 4,00)
+CATEGORIA: Projeto Pedagógico e Curricular
+PONTOS NEGATIVOS: Predominância de bibliografia clássica e tradicional em detrimento de obras contemporâneas; ausência de indução sistemática ao contato com conhecimentos recentes e inovadores nas disciplinas nucleares; falta de indicação regular de artigos científicos e obras de fronteira tecnológica no PPC.
+TAGS: #bibliografia_desatualizada, #ausencia_de_periodicos, #inovacao_curricular_insuficiente
+JUSTIFICATIVA: Porém com predominância de livros clássicos. No conjunto, há elementos que diferenciam o curso dentro da área profissional, a exemplo da presença, na própria matriz, de componente extensionista (JCE312 — Cursos e Eventos), cuja ementa descreve concepção, planejamento e execução de ações de difusão e...
+--------------------
+
+>>> INDICADOR: 1.6
+----------------------------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: MEDICINA (Bacharelado) (Nota: 3,00)
+CATEGORIA: Projeto Pedagógico e Curricular
+PONTOS NEGATIVOS: Prevalência de modelo de ensino hospitalocêntrico em oposição à atenção integral; currículo excessivamente tradicional e sem diferenciação competitiva; descumprimento das exigências legais de curricularização da extensão (Resolução CNE/CES nº 7/2018) e das novas Diretrizes Curriculares Nacionais de Medicina (Resolução CNE/CES nº 3/2022).
+TAGS: #descumprimento_DCN, #curricularizacao_da_extensao, #modelo_hospitalocentrico
+JUSTIFICATIVA: No entanto, ainda prevalece ações pautadas pelo modelo hospitalocêntrico. Adicionalmente, os conteúdos curriculares são tradicionais, e apresentam fragilidades em relação à RESOLUÇÃO CNE/CES Nº 7 de 18/12/2018 (Extensão) e RESOLUÇÃO CNE/CES Nº 3, DE 3 DE NOVEMBRO DE 2022 (Alteração das DCNs). No con...
+--------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: MATEMÁTICA INDUSTRIAL (Bacharelado) (Nota: 4,00)
+CATEGORIA: Formalização da Inovação e Diferenciação
+PONTOS NEGATIVOS: Embora o texto descreva uma execução satisfatória, a justificativa revela a predominância de métodos convencionais (aulas expositivas, resolução de exercícios e seminários), carecendo de evidências sobre inovação pedagógica, metodologias ativas disruptivas ou diferenciais tecnológicos específicos que elevem o curso ao conceito máximo (5). A descrição é genérica e não detalha como a 'autonomia' e o 'uso de tecnologias' se traduzem em práticas de vanguarda.
+TAGS: #metodologias_tradicionais, #ausencia_de_inovacao, #baixa_especificidade_tecnologica
+JUSTIFICATIVA: As metodologias, expressas no PPC (2020) estão fundamentadas, principalmente nos princípios de indissociabilidade do ensino, da pesquisa e da extensão, bem como na integração teoria e prática, na interdisciplinaridade e flexibilidade e nos recursos e conhecimentos tecnológicos. Informações disponíve...
+--------------------
+LOCALIZAÇÃO: Juvevê
+CURSO: MEDICINA (Bacharelado) (Nota: 3,00)
+CATEGORIA: Projeto Pedagógico e Curricular
+PONTOS NEGATIVOS: Predomínio de metodologias tradicionais de ensino em detrimento de metodologias ativas; adoção meramente pontual e assistemática de inovações pedagógicas; fragilidade no estímulo ao protagonismo e à ação discente; e integração insuficiente entre teoria e prática no percurso formativo.
+TAGS: #predominio_metodologia_tradicional, #integracao_teoria_pratica_deficiente, #protagonismo_discente_insuficiente
+JUSTIFICATIVA: No entanto, nas reunião com a Coordenação do Curso e com os Docentes, ficou caracterizada a utilização de metodologia tradicional de ensino em grande parte do percurso de formação, e a adoção de metodologias inovadoras no processo de ensino-aprendizagem, em momentos pontuais. Ainda assim, a metodolo...
+--------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: MATEMÁTICA (Licenciatura) (Nota: 4,00)
+CATEGORIA: Formalização da Inovação e Diferenciação
+PONTOS NEGATIVOS: A relação entre teoria e prática está restrita a poucas disciplinas específicas (Práticas de Docência), não sendo transversal ao currículo; falta de evidências documentais e projetos que comprovem o uso de metodologias inovadoras; ausência de registros de aprendizagem diferenciada; abordagem pedagógica baseada na intuição em detrimento da sistematização acadêmica.
+TAGS: #integracao_teoria_pratica_insuficiente, #ausencia_de_evidencias_pedagogicas, #metodologias_inovadoras_nao_comprovadas
+JUSTIFICATIVA: Mas sempre de maneira intuitiva. No depoimento colhido junto aos discentes (02/04/2025 - 17h00/18h00), relataram que apenas algumas disciplinas estimulam a ação discente numa relação teoria-prática -característica da própria disciplina-, como por exemplo: Prática de Docência em Matemática 1, II e II...
+--------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: QUÍMICA (Bacharelado) (Nota: 1,00)
+CATEGORIA: Projeto Pedagógico e Curricular
+PONTOS NEGATIVOS: Ausência da descrição das metodologias de ensino no Projeto Pedagógico do Curso (PPC) inserido no sistema e-MEC, o que impossibilitou a avaliação do indicador pela comissão e resultou em descumprimento documental da Instrução Normativa Nº 4/2018.
+TAGS: #ausencia_de_metodologias, #ppc_incompleto, #inconformidade_documental
+JUSTIFICATIVA: Conforme Instrução Normativa Nº 4, de 29 de novembro de 2018, Art. 3º, 8 4º "A comissão avaliadora somente aceitará as versões do PDI/PPC apensados ao sistema, sejam eles os originais da abertura do processo ou os novos anexados." Conforme a Cópia do Projeto Pedagógico de Curso (PPC) extraído do sis...
+--------------------
+LOCALIZAÇÃO: Complexo Hospital de Clínicas
+CURSO: GEOGRAFIA (Licenciatura) (Nota: 4,00)
+CATEGORIA: Formalização da Inovação e Diferenciação
+PONTOS NEGATIVOS: Ausência de evidências documentais ou práticas de metodologias de ensino inovadoras e falta de recursos didáticos que promovam aprendizagens diferenciadas, resultando em uma abordagem pedagógica convencional.
+TAGS: #metodologias_inovadoras, #aprendizagem_diferenciada, #evidencias_metodologicas
+JUSTIFICATIVA: Mas o docente tem autonomia para utilizar outras estratégias como seminários, relatórios (trabalhos de campo, aulas práticas em laboratórios), elaboração de projetos, trabalhos individuais ou em grupos. Ainda assim, não foram observadas evidências na metodologia claramente inovadoras e embasadas em ...
+--------------------
+
+>>> INDICADOR: 1.7
+----------------------------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: GEOLOGIA (Bacharelado) (Nota: 4,00)
+CATEGORIA: Gestão e Feedback
+PONTOS NEGATIVOS: Ausência de evidências documentais do uso dos resultados de estágios para atualização curricular; falta de fluxos formalizados de retroalimentação entre COE, coordenação e NDE; inexistência de integração crítica e contínua dos inputs do estágio na gestão pedagógica.
+TAGS: #retroalimentacao_curricular, #gestao_de_estagios, #evidencias_NDE_COE
+JUSTIFICATIVA: No entanto, embora o curso demonstre procedimentos consistentes para a operacionalização, controle e acompanhamento do estágio supervisionado, não foram identificadas evidências documentais que demonstrem que os resultados dessas experiências estejam sendo sistematicamente utilizados como insumos pa...
+--------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: MATEMÁTICA INDUSTRIAL (Bacharelado) (Nota: 4,00)
+CATEGORIA: Projeto Pedagógico e Curricular
+PONTOS NEGATIVOS: A justificativa foca excessivamente na formalidade administrativa e burocrática (resoluções e carga horária), mas falha em detalhar a sistemática de acompanhamento e avaliação de desempenho pelo supervisor da empresa (campo de estágio). Além disso, não há menção à participação de profissionais do mercado na banca examinadora ou a existência de mecanismos de feedback contínuos para retroalimentar o PPC a partir das demandas industriais.
+TAGS: #acompanhamento_externo_fragil, #gestao_de_feedbacks, #integracao_teoria_pratica
+JUSTIFICATIVA: O estágio curricular supervisionado está institucionalizado. Há regulamentação própria, manual e resoluções específicas que tratam do assunto, em ambas as modalidades previstas, estágio obrigatório e estágio não obrigatório. No âmbito do curso há uma Comissão Orientadora de Estágios (COE) que coorde...
+--------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: CIÊNCIA DA COMPUTAÇÃO (Bacharelado) (Nota: 4,00)
+CATEGORIA: Gestão e Feedback
+PONTOS NEGATIVOS: Ausência de evidências claras sobre como os resultados e experiências dos estágios (insumos) são processados para promover a atualização e a melhoria contínua das práticas de estágio do curso.
+TAGS: #atualizacao_de_praticas, #feedback_de_estagio, #melhoria_continua
+JUSTIFICATIVA: O Estágio Curricular Supervisionado do Curso de Ciências da Computação da UFPR, consta do PPC e encontra-se institucionalizado, com carga horária total de 220 (duzentos e vinte) horas, alinhado aos preceitos da Resolução CNE/CES n. 05 de 16/11/2016, que institui as Diretrizes Curriculares Nacionais ...
+--------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: Produção Cultural (Tecnologia) (Nota: 4,00)
+CATEGORIA: Formalização da Inovação e Diferenciação
+PONTOS NEGATIVOS: Ausência de evidências de recursos inovadores e estratégias metodológicas que proporcionem aprendizagens diferenciadas e singulares na área de Produção Cultural, resultando em um percurso acadêmico excessivamente tradicional.
+TAGS: #recursos_inovadores_ausentes, #aprendizagem_diferenciada, #metodologias_tradicionais
+JUSTIFICATIVA: Mas não se limita a —: Aulas expositivas; Aulas demonstrativas em laboratórios; Aulas práticas em laboratórios; Aulas de campo; Seminários e debates; Dinâmicas de grupo; Estudosorientados; Execução supervisionada de projetos, simulações e implementações (envolvendo mais de uma disciplina, quando pos...
+--------------------
+LOCALIZAÇÃO: Campus Jandaia Do Sul
+CURSO: GEOGRAFIA (Licenciatura) (Nota: 4,00)
+CATEGORIA: Gestão de Parcerias e Estágios
+PONTOS NEGATIVOS: Falhas na interlocução institucional com as escolas parceiras e dificuldades burocráticas na formalização da documentação relativa aos estágios curriculares obrigatórios.
+TAGS: #gestao_de_estagios, #interlocucao_institucional, #formalizacao_documental
+JUSTIFICATIVA: Contudo, foram verificadas evidências, nas discussões com os discentes do curso, acerca de intercorrências na interlocução institucionalizada da IES com as instituições de ensino para formalização da documentação....
+--------------------
+
+>>> INDICADOR: 1.8
+----------------------------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: Ciências Exatas Quimica (Licenciatura) (Nota: 4,00)
+CATEGORIA: Gestão e Feedback
+PONTOS NEGATIVOS: Ausência de parâmetros objetivos para a relação orientador/estagiário; documentação administrativa e registros da coordenação/COE incompletos (falta de portarias e atas); inexistência de interlocução institucionalizada com escolas-campo para retroalimentação das práticas de estágio.
+TAGS: #gestao_de_estagio, #documentacao_insuficiente, #interlocucao_escola_campo
+JUSTIFICATIVA: Entretanto, não foram localizadas nos documentos: (1) parâmetros objetivos sobre a relação orientador/estagiário, (1i) registros completos da coordenação e /ou COE formal via portarias e atas (um unica ata disponibilizada), e (iii) evidências de interlocução institucionalizada da IES com as escolas-...
+--------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: MATEMÁTICA (Licenciatura) (Nota: 4,00)
+CATEGORIA: Formalização da Inovação e Diferenciação
+PONTOS NEGATIVOS: Inexistência ou falta de percepção discente quanto a práticas inovadoras de gestão na articulação entre a IES e a rede de Educação Básica; fragilidade no relacionamento institucional e na integração teoria-prática com o campo de atuação.
+TAGS: #articulacao_ies_escola, #gestao_inovadora, #integracao_educacao_basica
+JUSTIFICATIVA: No entanto, mesmo instigados pela comissão, os discentes não conseguiram pronunciar/destacar práticas inovadoras de gestão entre a TES e a rede escolar da Educação Básica....
+--------------------
+LOCALIZAÇÃO: Campus  Reitoria
+CURSO: QUÍMICA (Bacharelado) (Nota: 4,00)
+CATEGORIA: Formalização da Inovação e Diferenciação
+PONTOS NEGATIVOS: Ausência de evidências documentadas sobre práticas inovadoras na gestão da parceria entre a Instituição de Ensino Superior (IES) e as instituições concedentes de estágio (rede de escolas), limitando a nota ao patamar de atendimento básico sem excelência diferenciada.
+TAGS: #ausencia_de_inovacao, #gestao_de_parcerias, #relacao_ies_escola
+JUSTIFICATIVA: Conforme Cópia do Projeto Pedagógico de Curso (PPC) extraído do sistema-emec, o estágio curricular está institucionalizado através da Resolução nº 46/10-CEPE e promove a vivência da realidade escolar de forma integral, prevendo práticas de docência e práticas pedagógicas de organização do trabalho e...
+--------------------
+LOCALIZAÇÃO: Campus Jandaia Do Sul
+CURSO: LETRAS INGLÊS (Licenciatura) (Nota: 4,00)
+CATEGORIA: Gestão do Estágio e Integração com a Educação Básica
+PONTOS NEGATIVOS: Identificou-se uma carga horária de estágio (255h) aparentemente inferior ao exigido legalmente para licenciaturas (400h conforme CNE/CP); excessiva burocratização no processo de inserção dos alunos nos campos de estágio (confirmada pela CPA e depoimentos); e ausência de registros de práticas inovadoras na gestão da parceria entre a IES e as escolas da rede de Educação Básica.
+TAGS: #excessiva_burocratizacao, #ausencia_praticas_inovadoras, #gestao_relacao_escola_ies
+JUSTIFICATIVA: O estágio supervisionado é ofertado a partir do 7º período do curso (Estágio docente em línguas estrangeiras em contextos variados); no 8º (Prática de docência em língua estrangeira 1: Anglogermânicas) e no 9º (Prática de docência em língua estrangeira 2: Anglogermânicas). Esse componente situa-se n...
+--------------------
+
+>>> INDICADOR: 1.9
+----------------------------------------
+LOCALIZAÇÃO: Campus  Reitoria
+CURSO: Ciências Exatas Quimica (Licenciatura) (Nota: 4,00)
+CATEGORIA: Gestão e Feedback
+PONTOS NEGATIVOS: Ausência de evidências documentais sobre a participação em conselhos de classe e reuniões pedagógicas nas escolas de campo; inexistência de práticas inovadoras e instrumentos formais de gestão da relação entre a IES e a rede de educação básica (fóruns permanentes, planos de ação conjuntos e mecanismos de devolutiva).
+TAGS: #integracao_ies_escola, #falta_evidencia_documental, #ausencia_feedback_formal
+JUSTIFICATIVA: Todavia, não foram encontradas evidências documentais de participação em conselhos de classe/reuniões de professores dentros das escolas. E também não foram localizadas evidências de práticas inovadoras de gestão da relação entre a IES e a rede de escolas (como fóruns permanentes, planos de ação con...
+--------------------
+LOCALIZAÇÃO: Campus Jandaia Do Sul
+CURSO: LETRAS INGLÊS (Licenciatura) (Nota: 4,00)
+CATEGORIA: Formalização da Inovação e Diferenciação
+PONTOS NEGATIVOS: Inexistência de evidências documentadas de metodologias de ensino disruptivas ou diferenciais pedagógicos e falta de comprovação de resultados institucionais ou acadêmicos de excelência (práticas exitosas).
+TAGS: #ausencia_de_inovacao, #praticas_exitosas_nao_evidenciadas, #diferencial_metodologico_inexistente
+JUSTIFICATIVA: No entanto, não evidencia práticas comprovadamente exitosas ou inovadoras, motivo pelo qual o item sustenta conceito 4....
+--------------------
+LOCALIZAÇÃO: Centro Politécnico
+CURSO: Ciências Exatas Quimica (Licenciatura) (Nota: 4,00)
+CATEGORIA: Formalização da Inovação e Diferenciação
+PONTOS NEGATIVOS: Ausência de evidências documentais que comprovem experiências inovadoras sistematizadas e falta de registros formais de práticas exitosas que permitissem elevar o conceito para a excelência máxima.
+TAGS: #ausencia_de_inovacao, #falta_de_registros_exitosos, #evidencias_documentais_insuficientes
+JUSTIFICATIVA: O estágio curricular supervisionado é desenvolvido de forma a aproximar os licenciandos da realidade escolar, favorecendo a integração entre os conhecimentos adquiridos ao longo do curso e as práticas efetivas de sala de aula. A organização das atividades permite que o estudante vivencie o processo ...
+--------------------
+
+>>> INDICADOR: 2.1
+----------------------------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: GEOLOGIA (Bacharelado) (Nota: 4,00)
+CATEGORIA: Corpo Docente e Tutorial
+PONTOS NEGATIVOS: Inconsistência entre a normativa interna da IES e o que consta nos documentos oficiais (PPC/Instrumento), impossibilitando a manutenção da continuidade de membros do NDE (memória do curso) e o cumprimento do critério de renovação parcial de 2/3 da composição.
+TAGS: #composicao_nde, #continuidade_administrativa, #inconsistencia_normativa
+JUSTIFICATIVA: Mas sua participação não é obrigatória. Entretanto durante reuniões com NDE e Colegiado de Curso verificou-se que a partir de normativa interna não é possível manter parte de seus membros desde o último ato regulatório, embora descrito nas documentações apensadas e mesmo respondida no instrumento de...
+--------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: MATEMÁTICA INDUSTRIAL (Bacharelado) (Nota: 3,00)
+CATEGORIA: Corpo Docente e Tutorial
+PONTOS NEGATIVOS: Ausência de atas e relatórios formais das reuniões do NDE; falta de comprovação documental da permanência dos membros desde o último ato regulatório; dados desatualizados no PPC (2020); e falta de evidências sobre o impacto efetivo das ações do NDE nos processos de aprendizagem e na adequação ao perfil do egresso.
+TAGS: #documentacao_nde_inexistente, #atuacao_nde_sem_evidencias, #ppc_desatualizado
+JUSTIFICATIVA: Contudo, não foram encontradas outras atas das reuniões do NDE nos documentos disponibilizados no Drive. Na Ata da 2º reunião do NDE do Curso de Bacharelado em Matemática de onze dias do mês de agosto do ano de dois mil e vinte cinco consta que “Foi comentado também a respeito da inexistência de ata...
+--------------------
+LOCALIZAÇÃO: Campus  Reitoria
+CURSO: NEGÓCIOS IMOBILIÁRIOS (Tecnólogo) (Nota: 3,00)
+CATEGORIA: Gestão e Feedback
+PONTOS NEGATIVOS: A justificativa apresenta uma descrição predominantemente burocrática e formalista, focada na composição do NDE em detrimento dos resultados de sua atuação. Há uma ausência de evidências sobre o impacto efetivo das reuniões na consolidação do curso, falta de clareza sobre como os resultados da autoavaliação institucional geraram melhorias práticas e um detalhamento insuficiente sobre a operacionalização da extensão (ACE) e das inovações (IA) na matriz curricular.
+TAGS: #atuacao_nde_burocratica, #ausencia_de_melhoria_continua, #vagueza_na_inovacao_curricular
+JUSTIFICATIVA: O NDE do curso está institucionalizado por meio da PORTARIA Nº 69/2025, DE 10 DE JULHO DE 2025, tendo os seguintes docentes: Prof. Paulo Eduardo Sobreira de Mores (SIAPE 1708743) (COORDENADOR) - DE (desde ato anterior), Prof. Evandro Luiz Brandão (SIAPE 1303797) - DE (desde ato anterior), Prof. Marc...
+--------------------
+LOCALIZAÇÃO: Campus  Reitoria
+CURSO: LETRAS PORTUGUÊS E JAPONÊS (Licenciatura/Bacharelado) (Nota: 4,00)
+CATEGORIA: Corpo Docente e Tutorial
+PONTOS NEGATIVOS: Falta de comprovação documental sistemática e recorrente da atuação do NDE em processos deliberativos e propositivos. Ausência de evidências densas sobre a participação do núcleo na revisão curricular, na articulação entre teoria e prática, no acompanhamento de egressos e na integração de ações de ensino, pesquisa e extensão.
+TAGS: #atuacao_nde_insuficiente, #falta_documentacao_sistematica, #gestao_academica_fragil
+JUSTIFICATIVA: Mas não substitui a atuação regular e documentada como preconizada para a pontuação máxima no instrumento avaliativo. A composição do NDE está em conformidade com os critérios normativos: os docentes são efetivos, apresentam liderança acadêmica e experiência institucional, e cumprem os requisitos de...
+--------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: GESTÃO DE TURISMO (Tecnólogo) (Nota: 4,00)
+CATEGORIA: Corpo Docente e Tutorial
+PONTOS NEGATIVOS: Apesar da vasta experiência docente no ensino superior presencial, os termos frequentes indicam fragilidades na transposição para a modalidade a distância (EAD), especificamente na capacitação docente para o ambiente online, na implementação de atividades práticas e na estruturação de avaliações formativas adequadas à metodologia digital.
+TAGS: #capacitacao_ead_insuficiente, #atividades_praticas_distancia, #avaliacao_formativa_deficiente
+JUSTIFICATIVA: Pode-se obervar pela documentação apensada no E-Mec e no drive, bem como pela fala dosdocentes, que todos os professores possuem experiência de docência no Ensino Superior, com tempo de exercício, em média de 261meses (21 anos), o que demonstra que o corpo docente possui experiência que permite cont...
+--------------------
+LOCALIZAÇÃO: Campus Jandaia Do Sul
+CURSO: GEOLOGIA (Bacharelado) (Nota: 4,00)
+CATEGORIA: Desempenho e Avaliação Discente
+PONTOS NEGATIVOS: Ausência de comprovação de práticas de avaliações diagnósticas, formativas e somativas, e a falta de utilização sistemática desses resultados para o aperfeiçoamento e redefinição da prática pedagógica.
+TAGS: #avaliacoes_formativas_ausentes, #feedback_pedagogico_insuficiente, #redefinicao_pratica_docente
+JUSTIFICATIVA: Entretanto não foram identificadas uma avaliações diagnósticas, formativas e somativas, utilizando os resultados para redefinição de sua prática docente no período, exerce liderança e é reconhecido pela sua produção, impossibilitando o conceito 5 (cinco)....
+--------------------
+LOCALIZAÇÃO: Centro Politécnico
+CURSO: AGROECOLOGIA (Tecnólogo) (Nota: 1,00)
+CATEGORIA: Projeto Pedagógico e Curricular
+PONTOS NEGATIVOS: Inexperiência do corpo docente na modalidade EAD, descumprimento do Projeto Pedagógico do Curso (PPC) e execução de atividades presenciais em desacordo com a modalidade autorizada.
+TAGS: #experiencia_docente_ead, #descumprimento_PPC, #desvio_de_modalidade
+JUSTIFICATIVA: Apenas um professor possui experiência no exercício da educação a distância, conforme documentação apresentada e relato da coordenadora do curso. É importante ressaltar que, de acordo com a coordenadora do curso, a educação a distância não está acontecendo conforme previsto no projeto pedagógico do ...
+--------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: Ciências Exatas Quimica (Licenciatura) (Nota: 4,00)
+CATEGORIA: Corpo Docente e Tutorial
+PONTOS NEGATIVOS: Ausência de evidências documentais sobre a articulação entre teoria e prática; fragilidades na atuação e registro das atividades do Núcleo Docente Estruturante (NDE); falta de comprovação de reuniões, atualizações e da efetiva gestão acadêmica por parte da coordenação e do corpo docente.
+TAGS: #articulacao_teoria_pratica, #atuacao_nde_insuficiente, #falta_evidencia_documental
+JUSTIFICATIVA: Contudo, não foram apresentadas evidências que comprovem, de forma consolidada, a efetiva articulação reflexiva entre teoria e prática com resultados documentados. Dimensão 2: CORPO DOCENTE E TUTORIAL 3,93 Quantidade de notas < 5: 7 Média destas notas: 3.43 Termos Frequentes: membros(18), integral(1...
+--------------------
+LOCALIZAÇÃO: Campus Jandaia Do Sul
+CURSO: LETRAS INGLÊS (Licenciatura) (Nota: 4,00)
+CATEGORIA: Corpo Docente e Tutorial
+PONTOS NEGATIVOS: Ausência de continuidade histórica na composição do Núcleo de Docente Estruturante (NDE), com renovação integral (100%) dos membros desde o último ato regulatório, impossibilitando o atendimento ao critério de manutenção de parte do colegiado.
+TAGS: #rotatividade_nde, #manutencao_membros_nde, #continuidade_academica
+JUSTIFICATIVA: Entretanto, observa-se que, desde o último ato regulatório (2018/2019), houve alteração integral da composição. Sendo certo que nenhum dsos docentes, da composição de 2018, permanece na atual composição definida em 2025. Assim, não se atende ao critério de manutenção de membros desde o último ato re...
+--------------------
+LOCALIZAÇÃO: Complexo Hospital de Clínicas
+CURSO: Ciências Exatas Quimica (Licenciatura) (Nota: 3,00)
+CATEGORIA: Desempenho e Avaliação Discente
+PONTOS NEGATIVOS: Ausência de estudos sistemáticos e aprofundados sobre o impacto do sistema de avaliação da aprendizagem na formação dos alunos, somada à falta de articulação entre a Coordenação, o NDE e a CPA para realizar essa análise.
+TAGS: #avaliacao_da_aprendizagem, #articulacao_NDE_CPA, #analise_de_impacto_pedagogico
+JUSTIFICATIVA: Entretanto, não foram evidenciados estudos sistematizados, por parte da coordenação do curso, em articulação com o NDE e com o apoio da CPA, que analisem de forma aprofundada o impacto do sistema de avaliação da aprendizagem na formação dos licenciandos em Química....
+--------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: GESTÃO DE TURISMO (Tecnólogo) (Nota: 4,00)
+CATEGORIA: Projeto Pedagógico e Curricular
+PONTOS NEGATIVOS: Inconsistências na aplicação de avaliações formativas e na integração entre teoria e prática dentro da modalidade a distância (EAD). Apesar da vasta experiência docente no ensino superior presencial, nota-se uma fragilidade na capacitação específica para o ambiente virtual e na implementação de metodologias que superem as dificuldades discentes no formato online.
+TAGS: #avaliacao_formativa, #metodologia_ead, #articulacao_teoria_pratica
+JUSTIFICATIVA: Pode-se obervar pela documentação apensada no E-Mec e no drive, bem como pela fala dosdocentes, que todos os professores possuem experiência de docência no Ensino Superior, com tempo de exercício, em média de 261meses (21 anos), o que demonstra que o corpo docente possui experiência que permite cont...
+--------------------
+LOCALIZAÇÃO: Campus Jandaia Do Sul
+CURSO: GEOLOGIA (Bacharelado) (Nota: 4,00)
+CATEGORIA: Desempenho e Avaliação Discente
+PONTOS NEGATIVOS: Ausência de um sistema integrado de avaliações diagnósticas, formativas e somativas, e a falta de evidências de que os resultados das avaliações são utilizados para o aprimoramento e redefinição da prática docente.
+TAGS: #sistema_avaliacao_aprendizagem, #redefinicao_pratica_docente, #feedback_pedagogico
+JUSTIFICATIVA: Entretanto não foram identificadas uma avaliações diagnósticas, formativas e somativas, utilizando os resultados para redefinição de sua prática docente no período, exerce liderança e é reconhecido pela sua produção, impossibilitando o conceito 5 (cinco)....
+--------------------
+LOCALIZAÇÃO: Campus Litoral
+CURSO: Ciências Exatas Quimica (Licenciatura) (Nota: 3,00)
+CATEGORIA: Corpo Docente e Processos de Avaliação da Aprendizagem
+PONTOS NEGATIVOS: Ausência de um sistema diversificado de avaliação (diagnóstica, formativa e somativa); falta de evidências sobre o uso de resultados avaliativos para a melhoria do ensino; e corpo docente com baixa liderança e produção acadêmica insuficiente.
+TAGS: #metodologia_avaliacao_insuficiente, #reorientacao_pedagogica_ausente, #perfil_docente_fragilizado
+JUSTIFICATIVA: Entretanto, não foi possível evidenciar, de forma consistente, o uso sistemático de avaliações diagnósticas, formativas e somativas ao longo do período letivo. Também não foram identificados registros que demonstrem a utilização dos resultados dessas avaliações como subsídio para a reorientação das ...
+--------------------
+LOCALIZAÇÃO: Centro Politécnico
+CURSO: AGROECOLOGIA (Tecnólogo) (Nota: 1,00)
+CATEGORIA: Projeto Pedagógico e Curricular
+PONTOS NEGATIVOS: Inexistência de experiência docente coletiva na modalidade EaD (apenas um docente qualificado) e descumprimento sistemático do Projeto Pedagógico do Curso (PPC), com a substituição indevida da oferta a distância por atividades presenciais.
+TAGS: #experiencia_ead_insuficiente, #descumprimento_ppc, #desvio_de_modalidade
+JUSTIFICATIVA: Apenas um professor possui experiência no exercício da educação a distância, conforme documentação apresentada e relato da coordenadora do curso. É importante ressaltar que, de acordo com a coordenadora do curso, a educação a distância não está acontecendo conforme previsto no projeto pedagógico do ...
+--------------------
+
+>>> INDICADOR: 2.11
+----------------------------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: Tecnologia em Secretariado (Tecnologia) (Nota: 3,00)
+CATEGORIA: Desempenho e Avaliação Discente
+PONTOS NEGATIVOS: Ausência de evidências documentais (na pasta) e fáticas (nas reuniões) sobre a realização de avaliações diagnósticas voltadas especificamente para as práticas de educação a distância (EAD).
+TAGS: #avaliacao_diagnostica, #metodologia_ead, #ausencia_de_evidencias
+JUSTIFICATIVA: Mas também um papel de liderança e disseminação de conhecimento na área. Por outro lado, napasta e nas reuniões não foi possível evidenciar avaliações diagnósticas diretamente focadas nas práticas de educação à distância. Quantidade de notas < 5: 3 Média destas notas: 2.67 Termos Frequentes: forma(4...
+--------------------
+LOCALIZAÇÃO: Campus Jandaia Do Sul
+CURSO: CIÊNCIAS BIOLÓGICAS (Licenciatura) (Nota: 4,00)
+CATEGORIA: Projeto Pedagógico e Curricular
+PONTOS NEGATIVOS: O item foi classificado como 'Não se Aplica' (NSA) devido à modalidade estritamente presencial do curso, o que impede a avaliação de critérios de excelência que poderiam elevar a nota para 5, indicando uma possível ausência de elementos híbridos ou tecnologias de informação que seriam avaliáveis mesmo no presencial.
+TAGS: #item_nao_aplicavel, #modalidade_presencial, #limite_de_abrangencia_do_indicador
+JUSTIFICATIVA: Como o curso de Licenciatura em Ciências Biológicas da UFPR (Curitiba) é ofertado integralmente na modalidade pres: apresentada e aprovada, o item foi classificado como Não se Aplica (NSA)....
+--------------------
+LOCALIZAÇÃO: Campus Litoral
+CURSO: Ciências Exatas Quimica (Licenciatura) (Nota: 3,00)
+CATEGORIA: Corpo Docente e Tutorial
+PONTOS NEGATIVOS: Inexistência de evidências documentais sobre a qualidade da mediação pedagógica; falta de comprovação do impacto da tutoria na aprendizagem dos discentes; e ausência de registros sistemáticos de orientação acadêmica, especificamente quanto à indicação de atividades e leituras complementares.
+TAGS: #tutoria_sem_evidencia, #mediacao_pedagogica_fragil, #ausencia_orientacao_academica
+JUSTIFICATIVA: Mas também como tutor das disciplinas que contam com carga horária na modalidade a distância (EAD). Essa dupla atuação proporciona aos docentes uma experiência relevante no exercício da tutoria na educação básica, especialmente no que se refere ao suporte às atividades pedagógicas, à mediação entre ...
+--------------------
+
+>>> INDICADOR: 2.12
+----------------------------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: AGROECOLOGIA (Tecnólogo) (Nota: 1,00)
+CATEGORIA: Corpo Docente e Tutorial
+PONTOS NEGATIVOS: Escassez de experiência docente em educação a distância; descumprimento da modalidade de ensino prevista no Projeto Pedagógico do Curso (PPC); substituição assistemática de atividades a distância por presenciais; acúmulo de funções entre docente e tutor (falta de equipe de tutoria específica).
+TAGS: #experiencia_ead_insuficiente, #descumprimento_ppc, #sobreposicao_docencia_tutoria
+JUSTIFICATIVA: Apenas um professor possui experiência no exercício da educação a distância, conforme documentação apresentada e relato da coordenadora do curso. É importante ressaltar que, de acordo com a coordenadora do curso, a educação a distância não está acontecendo conforme previsto no projeto pedagógico do ...
+--------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: GEOLOGIA (Bacharelado) (Nota: 4,00)
+CATEGORIA: Gestão e Feedback
+PONTOS NEGATIVOS: A justificativa foca predominantemente na formalidade legal e na composição nominal do Colegiado de Curso (indicação de nomes e áreas), baseando-se no Regimento Geral. Embora comprove a existência e a estrutura do órgão, carece de evidências sobre a efetividade da atuação pedagógica, a periodicidade real das reuniões voltadas à evolução do curso e o impacto das decisões na melhoria do Projeto Pedagógico (PPC), limitando-se a um caráter descritivo e burocrático.
+TAGS: #atuacao_do_colegiado, #gestao_pedagogica_limitada, #formalismo_administrativo
+JUSTIFICATIVA: O REGIMENTO GERAL DA UNIVERSIDADE FEDERAL DO PARANÁ - UFPR, informa sobre normativas que devem consideradas para o Colegiado de Curso: -Art. 124. O colegiado de curso é órgão de coordenação didática, destinado a elaborar e implantar a política de ensino nos respectivos cursos e acompanhar a sua exec...
+--------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: MATEMÁTICA INDUSTRIAL (Bacharelado) (Nota: 3,00)
+CATEGORIA: Gestão e Feedback
+PONTOS NEGATIVOS: Documentação comprobatória de reuniões (atas) insuficiente e com lacunas temporais; ausência de representação do segmento discente na portaria de designação do Colegiado; falta de evidências sobre processos de avaliação periódica do desempenho da atuação do Colegiado; e inexistência de sistema de suporte para registro, acompanhamento e ajuste das práticas de gestão e decisões.
+TAGS: #representatividade_discente_ausente, #gestao_do_colegiado_deficiente, #ausencia_de_autoavaliacao_periodica
+JUSTIFICATIVA: Apesar de menções variadas de sua função em situações diversas do Curso. Entretanto, conforme documentos comprobatórios apresentado no Drive virtual da IES o colegiado do Curso está previsto e possuem regimentos institucionalizados de funcionamento (acordo Capítulo XI Colegiado de Curso. Resolução n...
+--------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: CIÊNCIA DA COMPUTAÇÃO (Bacharelado) (Nota: 4,00)
+CATEGORIA: Gestão e Feedback
+PONTOS NEGATIVOS: Ausência de evidências claras sobre a realização de avaliações periódicas de desempenho do curso e a falta de comprovação do uso desses resultados para subsidiar o ajuste ou a implementação de melhorias nas práticas de gestão.
+TAGS: #monitoramento_de_desempenho, #gestao_academica, #melhoria_continua
+JUSTIFICATIVA: Entretanto, não evidenciou-se, de maneira clara, as avaliações periódicas já realizadas sobre seu desempenho, para implementação ou ajuste de práticas de gestão....
+--------------------
+LOCALIZAÇÃO: Campus Jandaia Do Sul
+CURSO: MATEMÁTICA (Licenciatura) (Nota: 4,00)
+CATEGORIA: Gestão e Feedback
+PONTOS NEGATIVOS: Ausência de apresentação de resultados e evidências documentais relativos ao processo de autoavaliação do colegiado do curso.
+TAGS: #autoavaliacao_colegiado, #gestao_academica, #melhoria_continua
+JUSTIFICATIVA: Porém não foram apresentados resultados relacionados à autoavaliação do colegiado....
+--------------------
+LOCALIZAÇÃO: Campus Litoral
+CURSO: Ciências Exatas Quimica (Licenciatura) (Nota: 4,00)
+CATEGORIA: Gestão e Feedback
+PONTOS NEGATIVOS: Ausência de evidências documentais que comprovem a realização de avaliações formais e periódicas do desempenho do Colegiado de Curso, impossibilitando a demonstração de ajustes na gestão acadêmica baseados em autoavaliação.
+TAGS: #autoavaliacao_colegiado, #evidencia_documental, #gestao_academica
+JUSTIFICATIVA: Entretanto, embora tais funções estejam previstas e venham sendo executadas, não foram identificadas evidências documentais que comprovem a realização de avaliações periódicas formais sobre o desempenho do próprio colegiado, com vistas à implementação ou ajuste de práticas de gestão acadêmica....
+--------------------
+
+>>> INDICADOR: 2.14
+----------------------------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: GESTÃO DE TURISMO (Tecnólogo) (Nota: 4,00)
+CATEGORIA: Gestão e Feedback
+PONTOS NEGATIVOS: Inexistência de fluxos formais para o encaminhamento, acompanhamento e execução das decisões tomadas pelo Colegiado de curso; ausência de mecanismos de avaliação periódica de desempenho do Colegiado; indícios de fragilidades na gestão da modalidade a distância (EaD), especificamente no que tange à atuação de tutores e processos de integralização curricular.
+TAGS: #fluxo_decisorio_inexistente, #ausencia_de_autoavaliacao, #gestao_do_colegiado
+JUSTIFICATIVA: De acordo com a documentação apensada no drive e pela fala durante as entrevistas com docentes efuncionários técnicos administrativos, mais especificamente os participantes da CPA, o Colegiado do curso é atuante, estáinstitucionalizado pela PORTARIA Nº 1193/2019 SETOR LITORAL, DE 01 DE AGOSTO DE 201...
+--------------------
+LOCALIZAÇÃO: Campus Jandaia Do Sul
+CURSO: GEOLOGIA (Bacharelado) (Nota: 4,00)
+CATEGORIA: Projeto Pedagógico e Curricular
+PONTOS NEGATIVOS: Ausência de comprovação documental de práticas inovadoras ou exitosas em EAD; falta de clareza no PPC sobre a forma de integralização da carga horária de disciplinas a distância; e descumprimento da Portaria nº 2.117/2019 quanto à descrição detalhada das atividades nos planos de ensino.
+TAGS: #inovacao_pedagogica_ausente, #integralizacao_ead_inconsistente, #descumprimento_portaria_2117
+JUSTIFICATIVA: Entretanto não foram evidenciadas na documentação disponível em drive se são adota práticas comprovadamente exitosas ou inovadoras no contexto da modalidade a distância, no PPC do curso não fica clara a forma de integralização da carga horária das disciplinas ofertadas parcial ou integralmente a dis...
+--------------------
+LOCALIZAÇÃO: Campus Litoral
+CURSO: Ciências Exatas Quimica (Licenciatura) (Nota: 2,00)
+CATEGORIA: Corpo Docente e Tutorial
+PONTOS NEGATIVOS: Ausência de evidências práticas de contextualização dos conteúdos; falta de alinhamento entre a atuação dos tutores e as diretrizes curriculares; fragilidade na integração da mediação pedagógica com os objetivos de aprendizagem propostos.
+TAGS: #contextualizacao_insuficiente, #mediacao_didatica_falha, #integracao_curricular_inexistente
+JUSTIFICATIVA: Contudo, não foram apresentados exemplos concretos de contextualização dos conteúdos em relação aos componentes curriculares, o que compromete a verificação da efetiva integração entre a mediação didática dos tutores e os objetivos de aprendizagem das disciplinas....
+--------------------
+
+>>> INDICADOR: 2.15
+----------------------------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: AGROECOLOGIA (Tecnólogo) (Nota: 1,00)
+CATEGORIA: Corpo Docente e Tutorial
+PONTOS NEGATIVOS: Ausência total de experiência prévia do corpo docente e dos tutores na modalidade de educação a distância (EaD), comprometendo a mediação pedagógica, a interação e a execução do plano de ensino específico para a modalidade.
+TAGS: #ausencia_experiencia_ead, #corpo_tutorial_desqualificado, #mediacao_pedagogica_deficiente
+JUSTIFICATIVA: Nenhum dos professores atuais, que estão como tutores, possuem experiência em educação a distância. Quantidade de notas < 5: 3 Média destas notas: 2.00 Termos Frequentes: pedagógico(6), tutores(5), realizou(5), docentes(4), disciplinas(4), total(4), mediação(3), reunião(3), próprios(3), modalidade(3...
+--------------------
+LOCALIZAÇÃO: Campus Jandaia Do Sul
+CURSO: GEOLOGIA (Bacharelado) (Nota: 1,00)
+CATEGORIA: Corpo Docente e Tutorial
+PONTOS NEGATIVOS: Ausência de detalhamento no Plano Pedagógico do Curso (PPC) quanto à articulação entre tutores, docentes e coordenação; falta de evidências documentais no drive que comprovem a mediação pedagógica; inconsistência entre o relato verbal do corpo docente e a documentação oficial apresentada.
+TAGS: #articulacao_docente_tutor, #ausencia_de_evidencias, #formalizacao_ppc
+JUSTIFICATIVA: Informação não detalhada no plano pedagógico do curso que detalhe a mediação ou articulação entre tutores, docentes e coordenador do curso, embora tenham relatado durante a reunião com corpo docente e o professor da disciplina exercer a função de tutor o plano pedagógico ou mesmo a documentação apen...
+--------------------
+LOCALIZAÇÃO: Campus Litoral
+CURSO: Ciências Exatas Quimica (Licenciatura) (Nota: 3,00)
+CATEGORIA: Gestão e Feedback
+PONTOS NEGATIVOS: Ausência de planejamento formal e documentado das interações institucionais, inexistência de registros de avaliações periódicas para diagnóstico de fragilidades e falta de evidências de ações para o aprimoramento da comunicação e da gestão entre os interlocutores.
+TAGS: #ausencia_de_formalizacao, #falha_na_gestao_e_comunicacao, #inexistencia_de_feedback_periodico
+JUSTIFICATIVA: No entanto, não foram apresentadas evidências de um planejamento formal e devidamente documentado que regulamente essas interações, tampouco registros de avaliações periódicas voltadas à identificação de possíveis fragilidades ou ao aprimoramento da comunicação e da gestão entre os interlocutores....
+--------------------
+
+>>> INDICADOR: 2.16
+----------------------------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: AGROECOLOGIA (Tecnólogo) (Nota: 2,00)
+CATEGORIA: Projeto Pedagógico e Curricular
+PONTOS NEGATIVOS: Descompasso entre o Projeto Pedagógico do Curso (PPC) e a execução prática (carga horária EaD sendo ministrada presencialmente); inexistência da mediação pedagógica professor-tutor-discente prevista no projeto; e falta de atualização formal do PPC para refletir a realidade metodológica adotada.
+TAGS: #inconsistencia_PPC_pratica, #mediacao_pedagogica_inefetiva, #desconformidade_modalidade
+JUSTIFICATIVA: Conforme PPC, existem 3 unidades curriculares com parte da CH na modalidade Ea D: - Ruralidades: Vivências I: CH total 90h — CH Ea D 30h - Instrumentos de interação com comunidades: Vivências II - CH total 90h — CH Ea D 60h - Desenvolvimento Local: Vivências II CH total 90h — CH Ea D 30h Soma da CH ...
+--------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: MATEMÁTICA INDUSTRIAL (Bacharelado) (Nota: 4,00)
+CATEGORIA: Corpo Docente e Tutorial
+PONTOS NEGATIVOS: Percentual insuficiente de docentes com alta produtividade acadêmica para atingir a nota máxima (5); apenas 32% possuem o patamar de 9 produções e cerca de metade (52%) atinge o critério de 7 produções nos últimos 3 anos. Além disso, a nota de infraestrutura (3,57) indica que este indicador está consideravelmente abaixo da excelência, embora o texto não detalhe quais elementos físicos foram penalizados.
+TAGS: #producao_docente_insuficiente, #indicadores_lattes, #infraestrutura_abaixo_da_media
+JUSTIFICATIVA: Contudo, após análise documental postado no e-MEC e documentação inserida no DRIVE pela IES de forma virtual e confirmado pelo coordenador do Curso que o Curso possui 31 docentes com suas devidas documentações no Drive. Após análises junto aos seus currículos lattes (indicadores de produção bibliogr...
+--------------------
+LOCALIZAÇÃO: Complexo Hospital de Clínicas
+CURSO: CIÊNCIAS BIOLÓGICAS (Licenciatura) (Nota: 4,00)
+CATEGORIA: Corpo Docente e Tutorial
+PONTOS NEGATIVOS: Inconsistência documental no quadro docente, falta de comprovação de vínculo de professores com o curso e insuficiência de produção acadêmico-científica no triênio avaliado.
+TAGS: #vinculo_docente_inexistente, #producao_cientifica_insuficiente, #inconsistencia_quadro_docente
+JUSTIFICATIVA: Durante a visita in loco, a Coordenação do Curso apresentou uma lista atualizada do quadro docente. Após conferência e va docentes sem vínculo comprovado com o curso e a inclusão de novos professores, chegou-se a um total de 99 docentes. Destes, foi possível evidenciar que acadêmico-científicas no t...
+--------------------
+
+>>> INDICADOR: 2.2
+----------------------------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: MEDICINA (Bacharelado) (Nota: 3,00)
+CATEGORIA: Gestão e Feedback
+PONTOS NEGATIVOS: Ausência de evidências sobre a atualização periódica do curso, falta de monitoramento do impacto do sistema de avaliação discente e inexistência de análises sobre a adequação do perfil do egresso. Adicionalmente, os termos frequentes indicam fragilidades na integração entre atividades presenciais e a distância e na articulação da equipe multidisciplinar.
+TAGS: #atualizacao_pedagogica_deficiente, #monitoramento_perfil_egresso, #analise_impacto_avaliacao
+JUSTIFICATIVA: No entanto, não ficou suficientemente evidenciada a realização de estudos e atualização periódica ou a verificação do impacto do sistema de avaliação e análises da adequação do perfil do egresso. Quantidade de notas < 5: 2 Média destas notas: 2.50 Termos Frequentes: oferta(7), distância(7), equipe(6...
+--------------------
+LOCALIZAÇÃO: Campus Jandaia Do Sul
+CURSO: GEOLOGIA (Bacharelado) (Nota: 2,00)
+CATEGORIA: Corpo Docente e Tutorial
+PONTOS NEGATIVOS: Ausência de equipe multidisciplinar própria para o suporte às disciplinas na modalidade a distância; dependência indevida da estrutura da UAB para fins de avaliação do curso presencial; inexistência de tutores específicos para apoio discente no sistema EAD e falta de previsão/descrição da equipe multidisciplinar e do corpo de tutoria no Projeto Pedagógico do Curso (PPC).
+TAGS: #equipe_multidisciplinar_ausente, #corpo_de_tutores_inexistente, #inconsistencia_no_PPC
+JUSTIFICATIVA: 4 RESOLUÇÃO Nº 72/10-CEPE, Regulamenta a oferta de disciplinas na modalidade a distância nos cursos de graduação e educação profissional e tecnológica presenciais da Universidade Federal do Paraná. Art. 2º Poderão ser ofertadas disciplinas integral ou parcialmente a distância desde que esta oferta n...
+--------------------
+
+>>> INDICADOR: 2.3
+----------------------------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: MATEMÁTICA INDUSTRIAL (Bacharelado) (Nota: 4,00)
+CATEGORIA: Gestão e Feedback
+PONTOS NEGATIVOS: Ausência de indicadores de desempenho da coordenação disponíveis e públicos; falta de evidências sobre a efetividade da gestão na potencialização e integração do corpo docente; e inexistência de comprovação clara sobre a contribuição da coordenação para a melhoria contínua do curso.
+TAGS: #indicadores_de_desempenho, #gestao_da_coordenacao, #melhoria_continua
+JUSTIFICATIVA: Contudo, não ficou demonstrado indicadores de desempenho da coordenação disponíveis e públicos e, ainda, não ficou claro, apesar da existência do Plano de Ação, documentação apresentada e das reuniões com os docentes e discentes (apesar dos elogios obtidos), como a atuação da Coordenação contribui e...
+--------------------
+LOCALIZAÇÃO: Juvevê
+CURSO: GESTÃO DE TURISMO (Tecnólogo) (Nota: 4,00)
+CATEGORIA: Gestão e Feedback
+PONTOS NEGATIVOS: Ausência de relatórios de acompanhamento do trabalho da coordenação e falta de socialização/divulgação do Plano de Ação junto ao corpo docente e discente.
+TAGS: #ausencia_de_relatorios, #desconhecimento_plano_acao, #comunicacao_institucional_deficiente
+JUSTIFICATIVA: O coordenador do curso de Tecnologia em Gestão de Turismo, prof. Dr JOSÉ PEDRO DA ROS, queatua na instituição desde 2016, possui formação/titulação em consonância com os objetivos do curso e pode-se comprovar na fala de docentes e discentes durante as entrevistas, que sua atuação atende a demanda ex...
+--------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: Ciências Exatas Quimica (Licenciatura) (Nota: 3,00)
+CATEGORIA: Corpo Docente e Tutorial
+PONTOS NEGATIVOS: Ausência de profissionais da área de Química na equipe multidisciplinar, resultando em materiais didáticos com limitações técnicas e didáticas e falta de aderência às especificidades do curso.
+TAGS: #equipe_multidisciplinar_incompleta, #material_didatico_fragilizado, #ausencia_de_especialistas
+JUSTIFICATIVA: Contudo, observou-se que através da reunião com a equipe multidisciplinar que não há uma representatividade de profissionais da área de Química, o que pode limitar a abordagem técnica e didática dos conteúdos específicos dessa disciplina na elaboração dos materiais didáticos para garantir maior ader...
+--------------------
+LOCALIZAÇÃO: Campus Litoral
+CURSO: QUÍMICA (Bacharelado) (Nota: 3,00)
+CATEGORIA: Gestão e Feedback
+PONTOS NEGATIVOS: Ausência do PPC no campo específico do sistema e-MEC; falta de disseminação e conhecimento do plano de ação da coordenação perante docentes e discentes; inexistência de indicadores de desempenho da coordenação e presença da sigla NSA (Não Suprido/Não Atendido) para critérios específicos.
+TAGS: #plano_de_acao_desconhecido, #ausencia_indicadores_desempenho, #irregularidade_documental_emec
+JUSTIFICATIVA: Baseado na Cópia do Projeto Pedagógico de Curso (PPC) extraído do sistema-emec (o PPC não foi apensado ao sistema e-mec no link "Visualizar PPC"), a atuação do coordenador está de acordo com o apresentado no PPC. Segundo relato dos docentes obtido durante a reunião virtual in loco, o coordenador ate...
+--------------------
+
+>>> INDICADOR: 2.4
+----------------------------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: MATEMÁTICA INDUSTRIAL (Bacharelado) (Nota: 4,00)
+CATEGORIA: Gestão e Avaliação da Coordenação
+PONTOS NEGATIVOS: Ausência de indicadores de desempenho públicos e acessíveis para a coordenação; falta de evidências sobre como a gestão contribui para a melhoria contínua e o desenvolvimento do corpo docente; e inconsistência documental entre a realidade institucional e o PPC (2020) quanto à existência da função de vice-coordenação.
+TAGS: #ausencia_indicadores_desempenho, #inconsistencia_documental_PPC, #gestao_coordenacao
+JUSTIFICATIVA: No entanto, a análise dos documentos disponíveis no Drive virtual da TES/Curso, bem como do seu currículo Lattes, evidenciou que o coordenador atua em regime de tempo integral, o que possibilita o atendimento às demandas relacionadas à gestão do curso e à interlocução com todos os elementos sob sua ...
+--------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: Produção Cultural (Tecnologia) (Nota: 4,00)
+CATEGORIA: Gestão e Feedback
+PONTOS NEGATIVOS: Ausência de indicadores de desempenho formalizados para a coordenação do curso e falta de dados objetivos que validem as ações de gestão, resultando em uma avaliação baseada apenas em percepções empíricas sem comprovação documental ou métrica.
+TAGS: #indicadores_de_desempenho, #gestao_da_coordenacao, #ausencia_de_dados_objetivos
+JUSTIFICATIVA: Mas não traz de forma clara indicadores de desempenho da coordenação. A partir do diálogocom docentes e discentes é possível verificar que o coordenador e administra a potencialidade do corpo docente do seu curso, favorecendo a integração e a melhoria contínua, no entanto, sem osindicadores estabele...
+--------------------
+LOCALIZAÇÃO: Juvevê
+CURSO: QUÍMICA (Bacharelado) (Nota: 3,00)
+CATEGORIA: Gestão e Feedback
+PONTOS NEGATIVOS: O plano de ação da coordenação é desconhecido pelos corpos docente e discente, evidenciando falhas na comunicação e transparência da gestão. Além disso, a ausência de indicadores de desempenho impede o monitoramento e a avaliação sistemática da eficácia da coordenação.
+TAGS: #plano_de_acao_desconhecido, #ausencia_indicadores_gestao, #falha_comunicacao_institucional
+JUSTIFICATIVA: Bascado no currículo Lattes e no DOU No 8 de 13 de janeiro de 2025, o regime do coordenador é de tempo integral. Segundo relato dos docentes obtido durante a reunião virtual in loco, o coordenador atende à demanda existente, considerando a gestão do curso, a relação com os docentes. O coordenador é ...
+--------------------
+
+>>> INDICADOR: 2.6
+----------------------------------------
+LOCALIZAÇÃO: Juvevê
+CURSO: MEDICINA (Bacharelado) (Nota: 4,00)
+CATEGORIA: Gestão e Feedback
+PONTOS NEGATIVOS: Inexistência de evidências documentais ou práticas que comprovem a utilização dos resultados de processos avaliativos (autoavaliação ou avaliações externas) como subsídio para o planejamento estratégico e para a gestão acadêmica voltada à melhoria contínua.
+TAGS: #melhoria_continua, #planejamento_estrategico, #gestao_academica
+JUSTIFICATIVA: No entanto, não ficou suficientemente evidenciado seu uso para o planejamento e gestão para a melhoria contínua do curso....
+--------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: Produção Cultural (Tecnologia) (Nota: 4,00)
+CATEGORIA: Gestão e Feedback
+PONTOS NEGATIVOS: Ausência de indicadores de desempenho formalizados para a coordenação do curso e falta de evidências baseadas em dados que validem a eficácia da gestão, tornando a avaliação da coordenação puramente empírica e subjetiva.
+TAGS: #ausencia_indicadores_desempenho, #gestao_sem_evidencias, #falta_metricas_coordenacao
+JUSTIFICATIVA: Mas não traz de forma clara indicadores dedesempenho da coordenação. A partir do diálogo com docentes e discentes é possível verificar que o coordenador e administra a potencialidade do corpo docente do seu curso, favorecendo aintegração e a melhoria contínua, no entanto, sem os indicadores estabele...
+--------------------
+LOCALIZAÇÃO: Complexo Hospital de Clínicas
+CURSO: QUÍMICA (Bacharelado) (Nota: 4,00)
+CATEGORIA: Gestão e Feedback
+PONTOS NEGATIVOS: Embora existam registros de produção docente e patentes, a comissão identificou a ausência de utilização desses dados para o planejamento estratégico e para a gestão da melhoria contínua do curso.
+TAGS: #ausencia_de_melhoria_continua, #gestao_academica_deficiente, #uso_estrategico_de_dados
+JUSTIFICATIVA: Com base nos currículos Lattes e nas atas das reuniões do colegiado de curso de 2022 a 2025, a comissão avaliadora observou que o regime de trabalho do corpo docente permite o atendimento integral da demanda existente, considerando a dedicação à docência, o atendimento aos discentes, a participação ...
+--------------------
+
+>>> INDICADOR: 2.7
+----------------------------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: Produção Cultural (Tecnologia) (Nota: 4,00)
+CATEGORIA: Gestão e Feedback
+PONTOS NEGATIVOS: Ausência de evidências sobre a utilização de registros de atividades e indicadores no planejamento e na gestão acadêmica, impedindo a comprovação de processos de melhoria contínua.
+TAGS: #melhoria_continua, #gestao_academica, #planejamento_estrategico
+JUSTIFICATIVA: No entanto, não foram encontradas evidências que indiquem que tal registro de atividades tenha sido utilizado no planejamento e gestão paramelhoria contínua. Quantidade de notas < 5: 2 Média destas notas: 4.00 Termos Frequentes: aplica(1), verificou(1), corpo(1), possui(1), experiência(1), profissio...
+--------------------
+LOCALIZAÇÃO: Campus Litoral
+CURSO: CIÊNCIAS BIOLÓGICAS (Licenciatura) (Nota: 4,00)
+CATEGORIA: Formalização da Inovação e Diferenciação
+PONTOS NEGATIVOS: A utilização do termo 'Não se aplica (NSA)' como justificativa para uma nota 4,00 indica uma falha na fundamentação qualitativa da avaliação. Isso impossibilita a identificação das evidências de excelência que não foram atingidas para o alcance da nota máxima (5), demonstrando falta de transparência sobre quais critérios de inovação ou diferenciação não foram plenamente atendidos.
+TAGS: #ausencia_de_justificativa, #falta_de_evidencias, #criterios_de_excelencia_nao_atendidos
+JUSTIFICATIVA: Não se aplica (NSA)....
+--------------------
+
+>>> INDICADOR: 2.8
+----------------------------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: AGROECOLOGIA (Tecnólogo) (Nota: 4,00)
+CATEGORIA: Corpo Docente e Tutorial
+PONTOS NEGATIVOS: Inadequação do perfil profissional de parte do corpo docente, com experiência excessivamente voltada à educação básica em vez do setor tecnológico de Agroecologia. Identificam-se dificuldades na elaboração de materiais e na transposição da experiência prática para a docência no ensino superior, evidenciada pela baixa média (2.67) nos indicadores específicos de atuação e formação docente.
+TAGS: #perfil_docente_inadequado, #experiencia_profissional_desalinhada, #fragilidade_didatico_pedagogica
+JUSTIFICATIVA: Verificou-se que 75% do corpo docente possui experiência profissional fora do magistério, caracterizada por atualização constante de conhecimentos demandados pelo mercado de trabalho. Esse item pôde também ser avaliado na reunião com os alunos, quando os mesmos demonstraram grande satisfação com os ...
+--------------------
+LOCALIZAÇÃO: Campus Jandaia Do Sul
+CURSO: QUÍMICA (Bacharelado) (Nota: 1,00)
+CATEGORIA: Corpo Docente e Tutorial
+PONTOS NEGATIVOS: Ausência quase total de experiência docente na educação básica entre os membros do colegiado, com apenas 7,4% do corpo docente (4 de 54) apresentando tempo de atuação nesse nível de ensino.
+TAGS: #experiencia_educacao_basica, #perfil_docente_inadequado, #indicador_2_12
+JUSTIFICATIVA: Com base no currículos Lattes e nas planilhas disponibilizadas em nuvem, a comissão de avaliação constatou que o corpo docente não possui experiência na docência na educação básica. Dos 54 docentes, 4 apresentam um total de 256 meses de experiência neste nível de ensino. Sendo menor tempo de 1,7 ano...
+--------------------
+LOCALIZAÇÃO: Centro Politécnico
+CURSO: Ciências Exatas Quimica (Licenciatura) (Nota: 3,00)
+CATEGORIA: Gestão Pedagógica e Prática Docente
+PONTOS NEGATIVOS: Ausência de sistematização nos processos de avaliação (diagnóstica, formativa e somativa) como subsídio para o replanejamento docente; falta de evidências de liderança pedagógica ativa; e baixa produção acadêmica dos docentes voltada à melhoria do ensino e da prática pedagógica.
+TAGS: #ausencia_de_feedback_pedagogico, #falta_de_lideranca_academica, #sistematizacao_avaliativa_inexistente
+JUSTIFICATIVA: No entanto, durante reunião realizada com os docentes, não foi evidenciado de forma clara se há uma prática sistematizada de elaboração e uso de avaliações diagnósticas, formativas e somativas como ferramenta para redirecionamento da prática docente. Também não se verificou, nesse momento, a atuação...
+--------------------
+
+>>> INDICADOR: 2.9
+----------------------------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: Pedagogia (Licenciatura) (Nota: 4,00)
+CATEGORIA: Corpo Docente e Tutorial
+PONTOS NEGATIVOS: Elevado percentual do corpo docente (38%) com experiência nula ou insuficiente (menos de um ano) na Educação Básica, o que fragiliza a relação entre a teoria acadêmica e a prática profissional exigida nas diretrizes de cursos de Licenciatura.
+TAGS: #experiencia_docente_insuficiente, #perfil_docente_licenciatura, #docencia_educacao_basica
+JUSTIFICATIVA: Analisou-se os dados postados em drive e em reunião que dos 97 docentes 34 docentes não temexperiência em Ensino Básico e três docentes tem apenas poucos meses, menos de um ano. Desta forma o corpo docente do cursode Licenciatura em Pedagogia da UFPR conta com 35% dos docentes sem experiência nenhum...
+--------------------
+LOCALIZAÇÃO: Campus Litoral
+CURSO: NEGÓCIOS IMOBILIÁRIOS (Tecnólogo) (Nota: 4,00)
+CATEGORIA: Gestão e Feedback
+PONTOS NEGATIVOS: Ausência de justificativa textual no relatório de avaliação (campo preenchido como 'nan'), impossibilitando a identificação técnica dos critérios que impediram a obtenção da nota máxima.
+TAGS: #justificativa_ausente, #falha_no_registro, #dados_incompletos
+JUSTIFICATIVA: nan...
+--------------------
+
+>>> INDICADOR: 3.1
+----------------------------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: MEDICINA (Bacharelado) (Nota: 3,00)
+CATEGORIA: Corpo Docente e Infraestrutura
+PONTOS NEGATIVOS: Produção científica docente abaixo do patamar de excelência (apenas 50% atingiram o critério no triênio); insuficiência de gabinetes de trabalho individual para professores em regime de tempo integral; escassez de recursos tecnológicos (computadores e equipamentos); e limitações de espaço físico para atendimento e trabalho docente.
+TAGS: #producao_docente_insuficiente, #gabinetes_trabalho_precarizados, #recursos_tecnologicos_escassos
+JUSTIFICATIVA: De acordo com planilha docente fornecida pela TES no drive e documentação de produção científica, cultural artística ou tecnológica dos docentes do curso de Medicina, 50% dos 338 docentes possuí ao menos 5 produções no último triênio. Dimensão 3: INFRAESTRUTURA 4,92 Quantidade de notas < 5: 7 Média ...
+--------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: MATEMÁTICA INDUSTRIAL (Bacharelado) (Nota: 3,00)
+CATEGORIA: Infraestrutura e Acessibilidade
+PONTOS NEGATIVOS: Ausência de condições de privacidade para atendimentos individuais e atividades docentes em ambientes compartilhados; falta de evidências sobre mecanismos de segurança para a guarda de pertences e equipamentos pessoais.
+TAGS: #privacidade_docente, #infraestrutura_de_trabalho, #seguranca_patrimonial
+JUSTIFICATIVA: Contudo, a instituição permite que os docentes utilizem equipamentos próprios ou emprestados pela IES para a realização de suas atividades individuais. O ambiente apresenta boa iluminação, boa limpeza, climatizado e dispõe de conexão Wi-Fi. Contudo, não foi observado pela Comissão se o local oferece...
+--------------------
+LOCALIZAÇÃO: Campus Pontal Do Sul
+CURSO: AGROECOLOGIA (Tecnólogo) (Nota: 3,00)
+CATEGORIA: Infraestrutura e Acessibilidade
+PONTOS NEGATIVOS: Embora a infraestrutura básica seja atendida, o compartilhamento das salas por cinco docentes é o fator limitante para a nota máxima, pois reduz a privacidade para orientações individuais e a concentração necessária para atividades de pesquisa e planejamento.
+TAGS: #salas_compartilhadas, #espaco_docente_limitado, #infraestrutura_institucional
+JUSTIFICATIVA: Foi verificado que os docentes de tempo integral possuem salas equipadas com computadores com acesso à internet, móveis adequados bem como armários para guardar material. São iluminadas e com ar condicionado. Durante a visita virtual, observou-se que estes ambientes permitem o desenvolvimento das at...
+--------------------
+LOCALIZAÇÃO: Centro Politécnico
+CURSO: CIÊNCIAS EXATAS QUÍMICA (Licenciatura) (Nota: 3,00)
+CATEGORIA: Infraestrutura e Acessibilidade
+PONTOS NEGATIVOS: O compartilhamento de gabinetes por dois professores simultaneamente compromete a privacidade e a qualidade do atendimento individualizado ao discente, além de potencialmente gerar ruído e distrações que prejudicam o ambiente de trabalho e orientação.
+TAGS: #gabinetes_compartilhados, #privacidade_comprometida, #atendimento_ao_discente
+JUSTIFICATIVA: Os Gabinetes dos professores, constituem-se de salas destinadas ao atendimento de dois professores, podendo ocorrer ao mesmo tempo. Todos tem mesas individuais com equipamentos de informática e armários....
+--------------------
+LOCALIZAÇÃO: Juvevê
+CURSO: Pedagogia (Licenciatura) (Nota: 4,00)
+CATEGORIA: Infraestrutura e Acessibilidade
+PONTOS NEGATIVOS: Inexistência de privacidade nos gabinetes para atendimento individualizado aos discentes e orientandos; dependência de espaços externos (biblioteca) para realização de reuniões privadas; o formato de salas conjugadas compromete a confidencialidade e o uso exclusivo de recursos pedagógicos durante o suporte acadêmico.
+TAGS: #privacidade_insuficiente, #atendimento_discente_prejudicado, #infraestrutura_docente_compartilhada
+JUSTIFICATIVA: Contudo existe também uma gabinete excepcional que comporta onzedocentes formado por três salas conjugadas, onde a coordenadora do curso tem sua mesa com computador ou Leptop para trabalho. Esses gabinetes dos docentes são equipados com mesas, computadores, cadeiras, armários, ambiente bem iluminado...
+--------------------
+LOCALIZAÇÃO: Campus Jandaia Do Sul
+CURSO: GEOGRAFIA (Licenciatura) (Nota: 3,00)
+CATEGORIA: Infraestrutura e Acessibilidade
+PONTOS NEGATIVOS: Ausência de gabinetes de trabalho individuais ou espaços que garantam a privacidade necessária para atividades docentes e atendimento a discentes; inadequação da infraestrutura física para o regime de tempo integral.
+TAGS: #gabinetes_docentes, #infraestrutura_limitada, #atendimento_ao_discente
+JUSTIFICATIVA: No entanto, os espaços de trabalho para os docentes de tempo integral, por serem compartilhados entre os professores, não garantem privacidade para uso dos recursos e para o atendimento a discentes e orientandos....
+--------------------
+LOCALIZAÇÃO: Campus Litoral
+CURSO: Ciências Exatas Quimica (Licenciatura) (Nota: 3,00)
+CATEGORIA: Infraestrutura e Acessibilidade
+PONTOS NEGATIVOS: Ausência de espaços privativos para o atendimento a discentes e orientações acadêmicas, com gabinetes compartilhados que não garantem o sigilo e a qualidade das interações pedagógicas.
+TAGS: #gabinetes_de_professores, #atendimento_ao_discente, #infraestrutura_fisica
+JUSTIFICATIVA: Contudo, durante a visita, não foi possível observar a presença de espaços que garantam a privacidade necessária para o uso desses recursos, especialmente nos gabinetes compartilhados, no que diz respeito ao atendimento a discentes e à realização de orientações acadêmicas. Esse aspecto é crucial, po...
+--------------------
+
+>>> INDICADOR: 3.14
+----------------------------------------
+LOCALIZAÇÃO: Campus Litoral
+CURSO: LETRAS PORTUGUÊS (Bacharelado) (Nota: 4,00)
+CATEGORIA: Infraestrutura e Acessibilidade
+PONTOS NEGATIVOS: Ausência de equipamentos de tecnologia assistiva para pessoas com deficiência nos laboratórios de informática; necessidade de manutenção e atualização periódica do parque tecnológico; falta de formalização nos processos de controle, produção e distribuição de material didático.
+TAGS: #acessibilidade_pcd, #obsolecencia_tecnologica, #gestao_de_material_didatico
+JUSTIFICATIVA: Durante a visita virtual in loco pode-se constatar que o IES possui laboratórios de Informática nos Ed. Dom Pedro Ie Dom! fazer a manutenção e atualização das máquinas periodicamente. Não observamos nos laboratórios equipamentos específicos para pessoas com deficiência. Quantidade de notas < 5: 1 Mé...
+--------------------
+
+>>> INDICADOR: 3.16
+----------------------------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: AGROECOLOGIA (Tecnólogo) (Nota: 3,00)
+CATEGORIA: Projeto Pedagógico e Curricular
+PONTOS NEGATIVOS: Embora o material didático esteja formalizado, os termos frequentes indicam fragilidades na institucionalização e regulação de atividades de pesquisa, especificamente a ausência ou insuficiência de protocolos e aprovações junto ao Comitê de Ética em Pesquisa (CEP) para estudos envolvendo seres humanos e ciências sociais.
+TAGS: #comite_de_etica, #protocolos_de_pesquisa, #regulamentacao_institucional
+JUSTIFICATIVA: O processo de controle de produção ou distribuição do material didático está formalizado para atender a demanda do curso. Quantidade de notas < 5: 1 Média destas notas: 4.00 Termos Frequentes: pesquisa(9), humanas(8), ética(6), ciências(6), comitê(5), https(5), apresenta(4), aprovação(4), envolvendo...
+--------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: CIÊNCIA DA COMPUTAÇÃO (Bacharelado) (Nota: 4,00)
+CATEGORIA: Gestão e Feedback
+PONTOS NEGATIVOS: Ausência de evidências documentais (pastas do drive) que comprovem a efetiva prestação de serviços ou atendimento dos Comitês de Ética em Pesquisa (CEP) a instituições parceiras, apesar de haver previsão regimental para tal atividade.
+TAGS: #ausencia_de_evidencias, #parcerias_institucionais, #comite_de_etica
+JUSTIFICATIVA: Entretanto, em seu "ANEXO IV - REGULAMENTO DO TRABALHO DE CONCLUSÃO DE CURSO", no artigo 5º parágrafo 2º, impõe que, quando pertinente, será necessário a aprovação prévia, do projeto de Trabalho de Conclusão de curso, por um conselho de ética em pesquisa. Durante entrevista com a coordenação do curs...
+--------------------
+
+>>> INDICADOR: 3.2
+----------------------------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: GEOLOGIA (Bacharelado) (Nota: 4,00)
+CATEGORIA: Infraestrutura e Acessibilidade
+PONTOS NEGATIVOS: Ausência de sala exclusiva para a coordenação do curso e falta de garantia de privacidade permanente para o desempenho das funções e atendimentos.
+TAGS: #ausencia_sala_exclusiva, #privacidade_insuficiente, #infraestrutura_compartilhada
+JUSTIFICATIVA: Apesar de não dispor de uma sala exclusiva, o espaço compartilhado não compromete o desempenho das atribuições do cargo, sendo mitigado por alternativas funcionais e infraestrutura de apoio próxima. Dessa forma, considerando que o ambiente atende adequadamente às atividades da coordenação, mas não o...
+--------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: MATEMÁTICA INDUSTRIAL (Bacharelado) (Nota: 3,00)
+CATEGORIA: Infraestrutura e Acessibilidade
+PONTOS NEGATIVOS: Ausência de privacidade para atendimentos a discentes devido ao compartilhamento de sala e divisórias com acústica ineficiente; falta de segurança patrimonial nas divisórias; carência de recursos tecnológicos institucionais (dependência de equipamento pessoal); e inexistência de infraestrutura tecnológica diferenciada que suporte a autonomia e as demandas específicas da coordenação.
+TAGS: #sala_coordenador_inadequada, #privacidade_comprometida, #carência_recursos_tecnologicos
+JUSTIFICATIVA: Durante a visita virtual in loco, realizada por videoconferência, a Comissão constatou que o espaço de trabalho destinado ao coordenador do Curso consiste em uma única sala compartilhada com a secretaria, embora em áreas distintas. O ambiente apresenta boas condições de limpeza, iluminação, ventilaç...
+--------------------
+LOCALIZAÇÃO: Campus Litoral
+CURSO: EDUCAÇÃO DO CAMPO / CIÊNCIAS DA NATUREZA (Licenciatura) (Nota: 4,00)
+CATEGORIA: Infraestrutura e Acessibilidade
+PONTOS NEGATIVOS: A descrição apresenta uma infraestrutura funcional, porém básica, carecendo de elementos de excelência para a nota máxima (5), como: ausência de menção à privacidade acústica para atendimentos sigilosos, falta de detalhamento sobre recursos tecnológicos avançados e omissão quanto à acessibilidade plena (NBR 9050) no mobiliário e espaço.
+TAGS: #infraestrutura_padrao_medio, #ausencia_de_privacidade_acustica, #limitação_de_recursos_tecnologicos
+JUSTIFICATIVA: A sala de trabalho da coordenadora do curso permite o desenvolvimento de suas atividades acadêmicas e administrativas. E equipada com mesa, cadeiras, computador com acesso a rede de internet, atendendo às necessidades institucionais. Há um espaço reservado que permite o atendimento individual ou gru...
+--------------------
+LOCALIZAÇÃO: Campus Pontal Do Sul
+CURSO: AGROECOLOGIA (Tecnólogo) (Nota: 4,00)
+CATEGORIA: Infraestrutura e Acessibilidade
+PONTOS NEGATIVOS: Ausência de gabinete de trabalho exclusivo para a coordenação do curso e falta de privacidade intrínseca ao ambiente de trabalho principal, dependendo de uma sala auxiliar para atendimentos sigilosos.
+TAGS: #sala_coordenacao_compartilhada, #privacidade_limitada, #infraestrutura_administrativa
+JUSTIFICATIVA: A coordenadora do curso compartilha o gabinete de trabalho, com mobília adequada (mesa, cadeira, armários) além de computador conectado à internet, com outros coordenadores. A instituição disponibiliza outra sala, para , havendo necessidade, ocorrer o atendimento aos docentes e discentes com privaci...
+--------------------
+LOCALIZAÇÃO: Complexo Hospital de Clínicas
+CURSO: CIÊNCIAS EXATAS QUÍMICA (Licenciatura) (Nota: 3,00)
+CATEGORIA: Infraestrutura e Acessibilidade
+PONTOS NEGATIVOS: Inadequação do espaço físico destinado à coordenação do curso, caracterizada pela falta de ambiente privativo para atendimento individual de alunos e compartilhamento de gabinete com outros docentes/setores, o que compromete o sigilo e a funcionalidade da gestão.
+TAGS: #sala_coordenacao_inadequada, #privacidade_atendimento, #infraestrutura_administrativa
+JUSTIFICATIVA: A sala destinada a coordenação é um gabinete dividido com a coordenadora e a professora Eliane do Rocio Alberti, impedindo o atendimento individual dos alunos. Foi-nos informado que a sala da coordenação deveria ser alocada na secretaria do curso  o que também não atende a demanda da privacidade, em...
+--------------------
+LOCALIZAÇÃO: Juvevê
+CURSO: MEDICINA (Bacharelado) (Nota: 4,00)
+CATEGORIA: Formalização da Inovação e Diferenciação
+PONTOS NEGATIVOS: Ausência de recursos tecnológicos inovadores ou de caráter diferenciado que possibilitem o suporte a metodologias de ensino alternativas e o desenvolvimento de formas de trabalho acadêmico que transcendam o convencional.
+TAGS: #infraestrutura_tecnologica, #ausencia_de_inovacao, #metodologias_diferenciadas
+JUSTIFICATIVA: No entanto, não foi identificada infraestrutura tecnológica diferenciada ou com caráter inovador, que permita desenvolver formas distintas de trabalho....
+--------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: Produção Cultural (Tecnologia) (Nota: 2,00)
+CATEGORIA: Infraestrutura e Acessibilidade
+PONTOS NEGATIVOS: Ausência de gabinetes de trabalho individuais para os docentes; falta de recursos de Tecnologia da Informação e Comunicação (TIC) apropriados no espaço dos professores; inexistência de privacidade para atendimento a discentes e orientandos; insuficiência de mobiliário seguro (gaveteiros) para guarda de material pessoal; uso indevido de laboratórios de ensino para atividades administrativas e de orientação devido à precariedade da sala coletiva.
+TAGS: #gabinetes_insuficientes, #falta_privacidade_atendimento, #infraestrutura_tic_precaria
+JUSTIFICATIVA: No entanto a instituiçãoconta com uma sala de uso coletiva, equipada com mesas para uso dos professores, com gaveteiro chaveado e uma mesa para reuniões, de forma que esse espaço viabilizam ações acadêmicas,como planejamento didático-pedagógico. Conforme relato dos grupos entrevistados, a demanda po...
+--------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: MATEMÁTICA (Licenciatura) (Nota: 4,00)
+CATEGORIA: Infraestrutura e Acessibilidade
+PONTOS NEGATIVOS: A infraestrutura física apresenta rigidez, impedindo a reorganização do ambiente para atividades que fujam do modelo tradicional, o que limita a aplicação de metodologias ativas, trabalhos em grupo ou dinâmicas diferenciadas de ensino-aprendizagem.
+TAGS: #layout_rigido, #limitacao_espacial, #metodologias_ativas_prejudicadas
+JUSTIFICATIVA: No entanto, o espaço não possibilita formato distinto de trabalho....
+--------------------
+LOCALIZAÇÃO: Campus  Reitoria
+CURSO: GEOGRAFIA (Licenciatura) (Nota: 3,00)
+CATEGORIA: Infraestrutura e Acessibilidade
+PONTOS NEGATIVOS: Inadequação do espaço físico da coordenação, que carece de condições de privacidade para o atendimento individual ou coletivo de alunos e docentes.
+TAGS: #infraestrutura_administrativa, #privacidade_atendimento, #sala_coordenacao_inadequada
+JUSTIFICATIVA: Entretanto, o espaço de trabalho do coordenador não permite o atendimento de indivíduos ou grupos com privacidade....
+--------------------
+LOCALIZAÇÃO: Campus Jandaia Do Sul
+CURSO: LETRAS INGLÊS (Licenciatura) (Nota: 3,00)
+CATEGORIA: Infraestrutura e Acessibilidade
+PONTOS NEGATIVOS: A sala da coordenação é compartilhada com os serviços de secretaria, o que impossibilita o atendimento individual e privativo a estudantes e professores no local designado, gerando dependência de salas externas e ocasionais.
+TAGS: #atendimento_privativo_inexistente, #infraestrutura_coordenacao, #espaco_fisico_compartilhado
+JUSTIFICATIVA: O coordenador dispõe de uma sala de trabalho localizada no 9º andar do Edifício Pedro I, com mesa, cadeiras e armários, contando com computador com acesso à internet, impressora e scanner. Nesse mesmo espaço, funciona também o serviço de secretaria. Desse modo, não é possível, nesse local, o coorden...
+--------------------
+LOCALIZAÇÃO: Campus Litoral
+CURSO: Ciências Exatas Quimica (Licenciatura) (Nota: 4,00)
+CATEGORIA: Infraestrutura e Acessibilidade
+PONTOS NEGATIVOS: Limitação de recursos materiais e restrição de espaço físico que comprometem a plena execução e a viabilidade de metodologias de ensino diferenciadas ou inovadoras.
+TAGS: #espaço_físico_insuficiente, #recursos_materiais_escassos, #limitação_metodológica
+JUSTIFICATIVA: Entretanto, a viabilidade de adotar formas de trabalho diferenciadas devido aos recursos e ao espaço disponíveis....
+--------------------
+
+>>> INDICADOR: 3.3
+----------------------------------------
+LOCALIZAÇÃO: Juvevê
+CURSO: AGROECOLOGIA (Tecnólogo) (Nota: 3,00)
+CATEGORIA: Infraestrutura e Acessibilidade
+PONTOS NEGATIVOS: Capacidade de acomodação física restrita (máximo 25 pessoas), o que pode ser insuficiente para o corpo docente total; falta de disponibilidade permanente e imediata, uma vez que o espaço depende de reserva; ausência de menção a postos de trabalho individuais ou áreas para atendimento privativo ao aluno.
+TAGS: #espaco_docente_insuficiente, #falta_de_exclusividade, #infraestrutura_de_apoio
+JUSTIFICATIVA: Foi apresentada uma sala dos professores, a qual deve ser reservada para utilização. Nela há mesas e cadeiras com capacidade de acomodação para 20 a 25 pessoas, no máximo. Há equipamento de videoconferência disponível. A sala é arejada, bem iluminada e possui equipamento de ar-condicionado....
+--------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: Produção Cultural (Tecnologia) (Nota: 4,00)
+CATEGORIA: Infraestrutura e Acessibilidade
+PONTOS NEGATIVOS: Restrição do uso dos ambientes a funções puramente administrativas e de coordenação; ausência de recursos ou configurações diferenciadas que permitam o uso coletivo, atividades docentes diversificadas ou descanso; infraestrutura física sem diferenciais que ampliem as possibilidades pedagógicas ou de interação.
+TAGS: #infraestrutura_limitada, #espacos_docentes_restritos, #ausencia_de_recursos_diferenciados
+JUSTIFICATIVA: Contudo, não foram identificados recursos ou configurações diferenciadasque ampliem as possibilidades de uso do ambiente, mantendo-se restrito às funções administrativas e de coordenação. Quantidade de notas < 5: 5 Média destas notas: 3.40 Termos Frequentes: sala(10), espaços(8), coletiva(6), ativid...
+--------------------
+LOCALIZAÇÃO: Campus  Reitoria
+CURSO: CIÊNCIAS BIOLÓGICAS (Licenciatura) (Nota: 4,00)
+CATEGORIA: Infraestrutura e Acessibilidade
+PONTOS NEGATIVOS: Ausência de espaço físico exclusivo para gabinetes de trabalho dos professores e utilização indevida da classificação 'Não se Aplica' (NSA) para um requisito obrigatório de infraestrutura.
+TAGS: #ausencia_gabinetes_docentes, #infraestrutura_fisica, #inadequacao_espaco_trabalho
+JUSTIFICATIVA: O curso de Ciências Biológicas, sediado no Setor de Ciências Biológicas (SCB), não dispõe de sala específica para prof gabinete. Por essa razão, este item foi classificado como Não se Aplica (NSA)....
+--------------------
+LOCALIZAÇÃO: Campus Jandaia Do Sul
+CURSO: LETRAS INGLÊS (Licenciatura) (Nota: 4,00)
+CATEGORIA: Infraestrutura e Acessibilidade
+PONTOS NEGATIVOS: A Sala Coletiva de Professores não possui ambientes planejados para descanso, lazer e integração docente, limitando-se apenas às necessidades básicas para atividades pedagógicas.
+TAGS: #sala_de_professores, #ausencia_espaco_lazer, #integracao_docente
+JUSTIFICATIVA: No entanto, verificou-se que, embora os espaços atendam às necessidades básicas para a execução das atividades docentes, não existem ambientes planejados para atividades de descanso, lazer e integração entre professores, requisito necessário para o conceito máximo. Dessa forma, conclui-se que a Sala...
+--------------------
+LOCALIZAÇÃO: Campus Litoral
+CURSO: Ciências Exatas Quimica (Licenciatura) (Nota: 3,00)
+CATEGORIA: Infraestrutura e Acessibilidade
+PONTOS NEGATIVOS: Ausência de espaços físicos adequados para o descanso, lazer e integração do corpo profissional; falta de pessoal técnico-administrativo dedicado exclusivamente ao curso ou setor.
+TAGS: #infraestrutura_de_apoio, #apoio_administrativo_inexistente, #bem_estar_profissional
+JUSTIFICATIVA: No entanto, não ficou evidente que o espaço favoreça plenamente o descanso e atividades de lazer e integração entre os profissionais, tampouco conta com apoio técnico-administrativo próprio....
+--------------------
+
+>>> INDICADOR: 3.4
+----------------------------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: MATEMÁTICA INDUSTRIAL (Bacharelado) (Nota: 3,00)
+CATEGORIA: Infraestrutura e Acessibilidade
+PONTOS NEGATIVOS: Ausência de sinalização tátil (piso tátil) para acessibilidade interna; falta de flexibilidade no layout das salas de aula para metodologias diversificadas; e inexistência de recursos tecnológicos inovadores ou diferenciados além do básico (computador/datashow).
+TAGS: #acessibilidade_fisica_incompleta, #flexibilidade_espacial_ausente, #recursos_didaticos_limitados
+JUSTIFICATIVA: Entretanto, sem acesso a acessibilidade interna através de piso tátil. As salas de aula apresentam conforto, gerenciamento da manutenção patrimonial, recursos tecnológicos (computador e Datashow não fixo, mas de forma agendado) e garante às atividades a serem desenvolvidas para o Curso. Espaço é amp...
+--------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: CIÊNCIA DA COMPUTAÇÃO (Bacharelado) (Nota: 4,00)
+CATEGORIA: Formalização da Inovação e Diferenciação
+PONTOS NEGATIVOS: Ausência de sistema de climatização (ar-condicionado) na maioria das salas e falta de elementos, recursos tecnológicos ou diferenciais pedagógicos que superem o padrão convencional de uma sala de aula básica para atingir a excelência (Nota 5).
+TAGS: #ausencia_climatizacao, #infraestrutura_padrao, #falta_de_inovacao
+JUSTIFICATIVA: Durante a visita virtual in loco à infraestrutura a comissão visitou as salas de aula da UFPR que são usadas pelo curso de Ciência da Computação. As salas são espaços amplos, bem equipados e de diferentes capacidades, contando com mobiliário em bom estado de conservação, lousa ou quadro branco, proj...
+--------------------
+LOCALIZAÇÃO: Campus Pontal Do Sul
+CURSO: AGROECOLOGIA (Tecnólogo) (Nota: 3,00)
+CATEGORIA: Infraestrutura e Acessibilidade
+PONTOS NEGATIVOS: Conectividade de internet insuficiente para suporte às metodologias de ensino; problemas estruturais de manutenção (infiltrações pluviais); mobiliário ergonomicamente desconfortável (queixas sobre as cadeiras); e instabilidade operacional nos equipamentos de climatização.
+TAGS: #conectividade_insuficiente, #manutencao_predial_deficiente, #ergonomia_inadequada
+JUSTIFICATIVA: As salas de aula tem dimensões adequadas para o número de alunos, com quadro, mesas e cadeiras conservadas e datashow. Possuem boa iluminação, janelas e são climatizadas com aparelho de ar condicionado e limpas. Apresentam-se como um modelo convencional básico, sendo possível destacar a conexão com ...
+--------------------
+LOCALIZAÇÃO: Centro Politécnico
+CURSO: CIÊNCIAS EXATAS QUÍMICA (Licenciatura) (Nota: 3,00)
+CATEGORIA: Infraestrutura e Acessibilidade
+PONTOS NEGATIVOS: Ausência de mobiliário adaptado para acessibilidade (cadeiras para obesos), inadequação da infraestrutura tecnológica por meio de salas multiuso sobrepostas e limitação do layout físico das salas para a aplicação de metodologias de ensino diversificadas.
+TAGS: #acessibilidade_insuficiente, #infraestrutura_multiuso_inadequada, #layout_pedagogico_limitado
+JUSTIFICATIVA: Mas não apresentam cadeiras especiais para os obesos. Também, apresentam uma sala multiuso que serve para as aulas e para as demais atividades, inclusive a parte de laboratórios de informática. Apesar da configuração espacial ser confortável, fato é que as salas não permitem o exercício de atividade...
+--------------------
+LOCALIZAÇÃO: Juvevê
+CURSO: Pedagogia (Licenciatura) (Nota: 4,00)
+CATEGORIA: Formalização da Inovação e Diferenciação
+PONTOS NEGATIVOS: Ausência de recursos didático-pedagógicos complementares ou tecnologias diferenciadas que demonstrem impacto positivo no processo de ensino-aprendizagem; falta de evidências sobre a utilização de ferramentas inovadoras com resultados comprovadamente exitosos.
+TAGS: #recursos_pedagogicos_limitados, #ausencia_de_inovacao, #metodologias_complementares_inexistentes
+JUSTIFICATIVA: Mas não possuem outros recursos cujautilização é comprovadamente exitosa....
+--------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: Produção Cultural (Tecnologia) (Nota: 3,00)
+CATEGORIA: Infraestrutura e Acessibilidade
+PONTOS NEGATIVOS: Ausência de espaços de descanso para a comunidade acadêmica; insuficiência e inadequação de mobiliário para guarda de materiais e documentos; deficiências na infraestrutura das salas de aula, especificamente em relação a ventiladores, cadeiras, projetores e capacidade de atendimento.
+TAGS: #infraestrutura_fisica_precaria, #espacos_de_convivencia_ausentes, #mobiliario_e_equipamentos_insuficientes
+JUSTIFICATIVA: Entretanto, não foram identificados espaços de descanso, e os meios disponíveis para guarda de materiais sãolimitados: há apenas alguns armários e escrivaninhas com chave, os quais não são plenamente adequados para armazenamento de documentos ou são insuficientes, comprometendo aorganização e as con...
+--------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: MATEMÁTICA (Licenciatura) (Nota: 2,00)
+CATEGORIA: Infraestrutura e Acessibilidade
+PONTOS NEGATIVOS: Ausência de climatização (conforto térmico insuficiente), inexistência de normas de uso formalizadas e afixadas nos ambientes de estudo e falta de um plano de manutenção preventiva/periódica de equipamentos (manutenção realizada apenas de forma reativa).
+TAGS: #conforto_termico_insuficiente, #manutencao_reativa, #ausencia_de_normas_internas
+JUSTIFICATIVA: Durante a visita in loco, foram apresentadas várias salas de aulas (PA-01 a PA-06 e outras) com capacidade para 25, 50, 80 e 90 alunos. As salas possuem projetor multimídia com cabeamento VGA/HDMI. Não são climatizadas com ar condicionado, apenas com ventiladores e cortinas do tipo persiana ou vidro...
+--------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: QUÍMICA (Bacharelado) (Nota: 3,00)
+CATEGORIA: Infraestrutura e Acessibilidade
+PONTOS NEGATIVOS: Inexistência de piso tátil e presença de barreiras arquitetônicas (rampas íngremes e portas estreitas); mobiliário antigo, desconfortável e inflexível que prejudica a diversificação de metodologias de ensino; conectividade de internet instável e de baixa qualidade.
+TAGS: #acessibilidade_física_inadequada, #mobiliário_obsoleto, #conectividade_deficiente
+JUSTIFICATIVA: Conforme observado pela comissão de avaliação na visita virtual in loco, o curso dispõe de 7 salas de aula com capacidade para cerca de 50 pessoas. As cadeiras são de madeira no estilo universitária. As salas possuem quadros- verde, projetores, persianas, mesa para o professores, ventiladores, e luz...
+--------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: GEOGRAFIA (Licenciatura) (Nota: 4,00)
+CATEGORIA: Infraestrutura e Acessibilidade
+PONTOS NEGATIVOS: Ausência de sinalização tátil no piso e de placas de identificação em Braille nas entradas das salas de aula, impossibilitando a autonomia e a acessibilidade de discentes e docentes com deficiência visual.
+TAGS: #acessibilidade_arquitetonica, #sinalizacao_tatil, #inclusao_pcd
+JUSTIFICATIVA: Entretanto, não foram observadas placas de acessibilidade para alunos e professores com limitações visuais, tanto no piso ou quanto nas entradas das salas de aula do curso de Geografia, comprometendo situações de ensino- aprendizagem comprovadamente exitosas para todos os dicentes....
+--------------------
+LOCALIZAÇÃO: Campus Jandaia Do Sul
+CURSO: CIÊNCIAS BIOLÓGICAS (Licenciatura) (Nota: 3,00)
+CATEGORIA: Infraestrutura e Acessibilidade
+PONTOS NEGATIVOS: Ausência de evidências de suporte de acessibilidade nas salas de aula e ambientes didáticos, configurando o não atendimento pleno aos requisitos institucionais e normativos de inclusão.
+TAGS: #acessibilidade_inexistente, #infraestrutura_fisica, #requisitos_legais_incompletos
+JUSTIFICATIVA: Durante a visita virtual in loco, constatou-se que as salas de aula atendem às demandas do curso. Os espaços apresentam coi condicionado) e iluminação, tanto natural quanto artificial, evidenciando cuidados contínuos com a conservação e funcionalidade. Estão equipadas com qu computadores e telas de ...
+--------------------
+LOCALIZAÇÃO: Campus Litoral
+CURSO: Ciências Exatas Quimica (Licenciatura) (Nota: 4,00)
+CATEGORIA: Infraestrutura e Acessibilidade
+PONTOS NEGATIVOS: Ausência de recursos de acessibilidade para pessoas com deficiência visual e falta de comprovação documental ou prática do uso de recursos didático-pedagógicos que apresentem eficácia comprovada ou caráter inovador.
+TAGS: #acessibilidade_visual, #recursos_didaticos, #inovacao_pedagogica
+JUSTIFICATIVA: Entretanto, não foi possível observar recursos de acessibilidade para pessoas com deficiência visual. As salas possuem quadros de giz e são climatizadas com ar-condicionado. De modo geral, oferecem condições satisfatórias para o uso de tecnologias da informação e comunicação (TICs), sendo a flexibil...
+--------------------
+
+>>> INDICADOR: 3.5
+----------------------------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: GEOLOGIA (Bacharelado) (Nota: 4,00)
+CATEGORIA: Gestão e Feedback
+PONTOS NEGATIVOS: Ausência de evidências e registros documentais sobre o processo de avaliação periódica do curso, impedindo a verificação da melhoria contínua quanto à adequação, qualidade e pertinência do projeto pedagógico.
+TAGS: #avaliacao_periodica_inexistente, #melhoria_continua_ppc, #gestao_da_qualidade_academica
+JUSTIFICATIVA: Entretanto não foi identificado por essa Comissão de Avaliação informações referentes a avaliação periódica de sua adequação, qualidade e pertinência, o que tornou inviável conceito cinco....
+--------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: MATEMÁTICA INDUSTRIAL (Bacharelado) (Nota: 4,00)
+CATEGORIA: Infraestrutura e Acessibilidade
+PONTOS NEGATIVOS: Inexistência de equipamentos e softwares de acessibilidade nos laboratórios de informática específicos do curso (recurso restrito à biblioteca); ausência de evidências documentais ou processos claros que comprovem a avaliação periódica da adequação, qualidade e pertinência da infraestrutura tecnológica.
+TAGS: #acessibilidade_insuficiente, #ausencia_avaliacao_infraestrutura, #tecnologia_assistiva_inexistente
+JUSTIFICATIVA: Entretanto, os laboratórios de informática não possuem equipamentos e softwares de acessibilidades em suas máquinas (depoimento inloco que somente no setor da biblioteca possui condições). Também, foi observado espaços para acesso no setor da biblioteca com terminais com uso de tecnologias com acess...
+--------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: Produção Cultural (Tecnologia) (Nota: 3,00)
+CATEGORIA: Infraestrutura e Acessibilidade
+PONTOS NEGATIVOS: Ausência de recursos de acessibilidade, infraestrutura de sala de aula limitada a um único formato de ensino, falta de equipamentos tecnológicos adequados e inexistência de estratégias pedagógicas inovadoras para o ambiente presencial.
+TAGS: #ausencia_de_acessibilidade, #infraestrutura_pedagogica_limitada, #inexistencia_de_inovacao_tecnologica
+JUSTIFICATIVA: Contudo, não possuem recursos de acessibilidade. Logo, as salas de aula não oportunizam distintas situações de ensino-aprendizagem, limitando-se a apenas umformato. Também não foram identificados equipamentos ou estratégias pedagógicas inovadoras que ampliem de forma significativa as práticas de ens...
+--------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: QUÍMICA (Bacharelado) (Nota: 3,00)
+CATEGORIA: Infraestrutura e Acessibilidade
+PONTOS NEGATIVOS: Quantidade insuficiente de computadores para a demanda discente; equipamentos (hardware e software) obsoletos e sem evidências de atualização; qualidade precária da rede de internet; e inexistência de processos de avaliação periódica quanto à adequação e pertinência dos recursos tecnológicos.
+TAGS: #equipamentos_obsoletos, #conectividade_deficiente, #gestao_de_recursos_tecnologicos
+JUSTIFICATIVA: Contudo, existem editais desde 2021 para empréstimo de computadores aos discentes (PRAF/UFPR Programa de Apoio Pedagógico: modalidade de empréstimo de computadores). Atualmente estão contemplados 11 discentes do curso de licenciatura em química, segundo documentação disponibilizada em nuvem. Existem...
+--------------------
+LOCALIZAÇÃO: Campus Litoral
+CURSO: CIÊNCIAS BIOLÓGICAS (Licenciatura) (Nota: 4,00)
+CATEGORIA: Infraestrutura e Acessibilidade
+PONTOS NEGATIVOS: Ausência de recursos de tecnologia assistiva (leitores de tela, ampliadores e teclados adaptados) em descumprimento à Lei nº 13.146/2015; e inexistência de comprovação documental (fichas, planilhas ou registros formais) de avaliações periódicas sobre a adequação do espaço físico e manutenção de equipamentos laboratoriais.
+TAGS: #acessibilidade_tecnologica_inexistente, #ausencia_de_evidencias_documentais, #descumprimento_legal_LBI
+JUSTIFICATIVA: Porém, não dispõe de mecanismos de acessibilidade, como leitores de tela, softwares ampliadores ou teclados adaptados. Tal ausência repr inclusão previstos na Lei nº 13.146/2015 (Lei Brasileira de Inclusão), sendo considerada uma limitação no atendimento às necessidades de todos os estuda disso, não...
+--------------------
+
+>>> INDICADOR: 3.6
+----------------------------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: AGROECOLOGIA (Tecnólogo) (Nota: 4,00)
+CATEGORIA: Infraestrutura e Acessibilidade
+PONTOS NEGATIVOS: Instabilidade ou precariedade na conexão com a internet e deficiências estruturais na biblioteca, especificamente quanto à atualização do acervo físico, insuficiência de exemplares da bibliografia básica, falta de títulos atualizados e limitações no sistema informatizado de acesso e periódicos.
+TAGS: #bibliografia_desatualizada, #conectividade_insuficiente, #acervo_insuficiente
+JUSTIFICATIVA: Entretanto, a conexão com a internet foi um ponto verbalizado como negativo em quase todas as reuniões. Quantidade de notas < 5: 3 Média destas notas: 3.67 Termos Frequentes: biblioteca(38), acervo(27), acesso(23), físico(11), bibliografia(11), atualização(11), títulos(11), unidade(10), básica(10), ...
+--------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: MATEMÁTICA INDUSTRIAL (Bacharelado) (Nota: 4,00)
+CATEGORIA: Infraestrutura e Acessibilidade
+PONTOS NEGATIVOS: Falta de evidências documentais que comprovem a gestão do acervo no que tange ao dimensionamento e à atualização da quantidade de exemplares físicos ou assinaturas digitais proporcionalmente aos títulos mais demandados.
+TAGS: #gestao_de_acervo, #dimensionamento_de_bibliografia, #atualizacao_de_exemplares
+JUSTIFICATIVA: Mas em estado de renovação, contudo, seus acessos continuam funcionando. Foram disponibilizados no Drive IES/Curso documentos, como: Política de Desenvolvimento de Coleções (PDC) do Sistema de Bibliotecas da Universidade Federal do Paraná (Si Bi/UFPR); Aprovado pelo Comitê Gestor em 2023; Portaria n...
+--------------------
+LOCALIZAÇÃO: Centro Politécnico
+CURSO: CIÊNCIAS BIOLÓGICAS (Licenciatura) (Nota: 3,00)
+CATEGORIA: Infraestrutura e Acessibilidade
+PONTOS NEGATIVOS: Ausência de recursos de acessibilidade e tecnologias assistivas na biblioteca referencial do curso (Unidade de Ciências Biológicas); infraestrutura de rede de internet insatisfatória na biblioteca, prejudicando o acesso a recursos digitais; e centralização de ferramentas de acessibilidade em unidades menores/secundárias, deixando a unidade principal de estudo desassistida.
+TAGS: #acessibilidade_inexistente, #conectividade_deficiente, #biblioteca_inadequada
+JUSTIFICATIVA: Contudo, não foi possível verificar, por meio da documentação apresentada ou durante a visita gravada Biblioteca de Ciências Biológicas. O tema foi abordado em diversas ocasiões com a bibliotecária responsável, que confirmou a inexistência desses recurso apenas na Biblioteca de Ciência e Tecnologia ...
+--------------------
+
+>>> INDICADOR: 3.7
+----------------------------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: Pedagogia (Licenciatura) (Nota: 4,00)
+CATEGORIA: Infraestrutura e Acessibilidade
+PONTOS NEGATIVOS: Ausência de equipamentos específicos para acessibilidade de surdos na biblioteca e necessidade de atualização das bibliografias básica e complementar listadas no PPC, visando maior adequação à natureza das Unidades Curriculares.
+TAGS: #bibliografia_desatualizada, #acessibilidade_incompleta, #atualizacao_ppc
+JUSTIFICATIVA: Mas os alunos só tem acesso. Tem ainda um espaço de convivência dos alunos com mesas e estante de jogos. Há também exposição de obras raras temáticas acada mês. Este espaço tem ótima acessibilidade com rampas e elevador. No segundo piso essa biblioteca atende aos cursos de Ciências Humanas com acerv...
+--------------------
+LOCALIZAÇÃO: Campus Jandaia Do Sul
+CURSO: MATEMÁTICA INDUSTRIAL (Bacharelado) (Nota: 4,00)
+CATEGORIA: Infraestrutura e Acessibilidade
+PONTOS NEGATIVOS: Ausência de clareza no PPC e falta de comprovação documental (relatórios) sobre o gerenciamento do acervo no que tange à atualização da quantidade de exemplares e assinaturas de acordo com a demanda.
+TAGS: #gestao_de_acervo, #atualizacao_por_demanda, #inconsistencia_ppc
+JUSTIFICATIVA: Mas confirmada pela responsável pela biblioteca). No Drive virtual disponibilizado pela IES encontramos os seguintes documentos: Política de Desenvolvimento de Coleções (PDC) do Sistema de Bibliotecas da Universidade Federal do Paraná (Si Bi/UFPR) - Aprovado pelo Comitê Gestor em 2023; Portaria nº 2...
+--------------------
+LOCALIZAÇÃO: Centro Politécnico
+CURSO: Ciências Exatas Quimica (Licenciatura) (Nota: 4,00)
+CATEGORIA: Projeto Pedagógico e Curricular
+PONTOS NEGATIVOS: O PPC apresenta uma bibliografia excessivamente baseada em obras clássicas, carecendo de artigos científicos e periódicos atualizados. Além disso, houve falha na comprovação de atualização sistemática do acervo (físico e digital) e na adequação da quantidade de exemplares frente à expansão da demanda discente.
+TAGS: #bibliografia_desatualizada, #ausencia_periodicos_cientificos, #gestao_de_acervo_ineficiente
+JUSTIFICATIVA: Entretanto, a análise do PPC revelou a ausência de referências a artigos científicos e periódicos atualizados, com predominância de literatura clássica e sem evidências de inovação, o que limita o acesso dos estudantes a conteúdos contemporâneos e à produção científica recente. Adicionalmente, não f...
+--------------------
+
+>>> INDICADOR: 3.8
+----------------------------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: Pedagogia (Licenciatura) (Nota: 4,00)
+CATEGORIA: Infraestrutura e Acessibilidade
+PONTOS NEGATIVOS: Necessidade de atualização das bibliografias básica e complementar no PPC para adequação à natureza das unidades curriculares; ausência de equipamentos de acessibilidade para estudantes surdos na biblioteca; e carência generalizada de infraestrutura de laboratórios, equipamentos técnicos e materiais didáticos para aulas práticas (conforme indicado pelos indicadores de suporte e termos frequentes).
+TAGS: #bibliografia_desatualizada, #acessibilidade_incompleta, #infraestrutura_laboratorial_insuficiente
+JUSTIFICATIVA: Mas os alunos só tem acesso. Tem ainda um espaço de convivência dos alunos com mesas e estante de jogos. Há também exposição de obras raras temáticas acada mês. Este espaço tem ótima acessibilidade com rampas e elevador. No segundo piso essa biblioteca atende aos cursos de Ciências Humanas com acerv...
+--------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: GEOLOGIA (Bacharelado) (Nota: 4,00)
+CATEGORIA: Gestão e Feedback
+PONTOS NEGATIVOS: Ausência de evidências sobre o uso dos resultados de pesquisas institucionais (autoavaliação) pela gestão acadêmica para o planejamento de melhorias na qualidade do ensino, no atendimento aos usuários e na adequação da oferta de vagas.
+TAGS: #gestao_academica, #autoavaliacao_institucional, #melhoria_continua
+JUSTIFICATIVA: Entretanto não são evidenciadas a utilização dos resultados de pesquisa aos usuários e assim a gestão acadêmica possa planejar o incremento da qualidade do atendimento, da demanda existente e futura e das aulas ministradas....
+--------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: MATEMÁTICA INDUSTRIAL (Bacharelado) (Nota: 4,00)
+CATEGORIA: Gestão e Feedback
+PONTOS NEGATIVOS: Ausência de documentação comprobatória sobre a avaliação periódica dos laboratórios; falta de monitoramento sistemático da qualidade e das demandas dos serviços laboratoriais; inexistência de relatórios de gestão que subsidiem o planejamento acadêmico para melhoria contínua da infraestrutura e das aulas.
+TAGS: #monitoramento_de_laboratorios, #ausencia_de_evidencias, #planejamento_academico
+JUSTIFICATIVA: Entretanto, não foram apresentados documentos no DRIVE ou não ficou claro para Comissão um documento ou relatório que mostra uma avaliação periódica quanto às demandas, aos serviços prestados e à qualidade do laboratório, que forneça ou gere resultados utilizados para gestão acadêmica planejar o inc...
+--------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: MATEMÁTICA (Licenciatura) (Nota: 3,00)
+CATEGORIA: Infraestrutura e Acessibilidade
+PONTOS NEGATIVOS: Ausência de sinalização e identificação externa dos laboratórios; falta de climatização no Laboratório PC14; inexistência de normas de funcionamento e regulamentos afixados ou declarados; e falta de comprovação documental sobre a avaliação periódica dos laboratórios (pastas vazias).
+TAGS: #infraestrutura_laboratorial_deficiente, #ausencia_de_normas_de_uso, #falta_de_gestao_e_manutencao
+JUSTIFICATIVA: Conforme o PPC (p.14) Sistema E-MEC - O PPC do curso informa a existência de Laboratórios de Ensino de Matemática - LEM (PC14 e 19) e confirmada em visita técnica in loco no dia 03/04/2025. A sala PC 14 possui 7 mesas grandes com 12 cadeiras. Não possui identificação na entrada do ambiente e não pos...
+--------------------
+LOCALIZAÇÃO: Campus Jandaia Do Sul
+CURSO: CIÊNCIAS BIOLÓGICAS (Licenciatura) (Nota: 4,00)
+CATEGORIA: Gestão e Feedback
+PONTOS NEGATIVOS: Ausência de um processo sistemático, periódico e formal de avaliação das demandas, dos serviços e da qualidade dos laboratórios didáticos. As avaliações realizadas pela CPA são generalistas e não contemplam as especificidades dos espaços laboratoriais, o que compromete o planejamento administrativo e a gestão qualificada das infraestruturas vinculadas aos departamentos.
+TAGS: #ausencia_de_avaliacao_formal, #gestao_laboratorial, #planejamento_administrativo
+JUSTIFICATIVA: O Setor de Ciências Biológicas (SCB) da Universidade Federal do Paraná (UFPR) abriga um número expressivo de laboratc 12 programas de pós-graduação stricto sensu. O Setor é estruturado em oito Departamentos: Patologia Básica, Fisiologia, Genética, Botânica, Zoologia, Bi Departamento mantém laboratór...
+--------------------
+LOCALIZAÇÃO: Campus Reitoria
+CURSO: Ciências Exatas Quimica (Licenciatura) (Nota: 4,00)
+CATEGORIA: Gestão e Feedback
+PONTOS NEGATIVOS: Ausência de evidências sobre o uso de resultados e indicadores pela gestão acadêmica para fundamentar o planejamento de ações de melhoria no atendimento aos discentes, a previsão de demandas futuras e o aprimoramento contínuo da qualidade das aulas.
+TAGS: #feedback_loop_inexistente, #gestao_da_qualidade, #planejamento_academico_insuficiente
+JUSTIFICATIVA: 0s laboratórios didáticos vinculados ao curso atendem plenamente às exigências estabelecidas no Projeto Pedagógico de Curso (PPC), bem como às normas institucionais de funcionamento, utilização e segurança. A infraestrutura disponível assegura as condições necessárias para o desenvolvimento das ativ...
+--------------------
+
+>>> INDICADOR: 3.9
+----------------------------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: LETRAS PORTUGUÊS (Bacharelado) (Nota: 4,00)
+CATEGORIA: Infraestrutura e Acessibilidade
+PONTOS NEGATIVOS: Fragilidades críticas na infraestrutura física, especialmente no que tange à insuficiência de laboratórios e espaços destinados a práticas pedagógicas. Foram identificadas carências em recursos didáticos específicos e problemas relacionados à segurança das instalações nos edifícios utilizados pelo curso.
+TAGS: #laboratorios_inadequados, #espacos_pedagogicos_precarios, #seguranca_infraestrutura
+JUSTIFICATIVA: Conforme visita virtual in loco pode-se verificar que Setor de Ciências Humanas, preferencialmente nos Ed. Dom Pedro I e Quantidade de notas < 5: 5 Média destas notas: 3.80 Termos Frequentes: laboratórios(23), práticas(12), didáticos(11), pedagógicas(11), formação(9), avaliação(7), atendem(7), ativi...
+--------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: GEOLOGIA (Bacharelado) (Nota: 4,00)
+CATEGORIA: Gestão e Feedback
+PONTOS NEGATIVOS: Ausência de evidências sobre o uso de resultados avaliativos pela gestão acadêmica para o planejamento estratégico e a melhoria contínua da qualidade do ensino, do atendimento e da gestão de demanda.
+TAGS: #gestao_academica, #uso_de_resultados, #planejamento_estrategico
+JUSTIFICATIVA: Entretanto não existe uma evidencias de que os resultados são utilizados pela gestão acadêmica para planejar o incremento da qualidade do atendimento, da demanda existente e futura e das aulas ministradas....
+--------------------
+LOCALIZAÇÃO: Campus  Politécnico
+CURSO: MATEMÁTICA (Licenciatura) (Nota: 3,00)
+CATEGORIA: Infraestrutura e Acessibilidade
+PONTOS NEGATIVOS: Inexistência de documentos comprobatórios referentes à avaliação periódica dos laboratórios de formação específica; falha na gestão de registros (pasta vazia) que impede a verificação da manutenção e eficácia do uso pedagógico do espaço.
+TAGS: #ausencia_de_documentacao_comprobatoria, #avaliacao_periodica_laboratorios, #gestao_de_infraestrutura
+JUSTIFICATIVA: Conforme o PPC (p.31) Sistema E-MEC - A formação específica nas áreas de conhecimento para a educação básica deve propiciar que o aluno desenvolva argumentos para questionar a cultura, a sociedade e o meio em que vive. A aprendizagem de conceitos deverá ser orientada pelo princípio da ação-reflexão-...
+--------------------
+LOCALIZAÇÃO: Campus Jandaia Do Sul
+CURSO: QUÍMICA (Bacharelado) (Nota: 4,00)
+CATEGORIA: Gestão e Feedback
+PONTOS NEGATIVOS: Ausência de evidências atualizadas que comprovem o uso dos resultados das avaliações (CPA) pela gestão acadêmica para o planejamento de melhorias na qualidade do atendimento, na gestão de demandas futuras e no aprimoramento das aulas ministradas.
+TAGS: #planejamento_estrategico_ineficaz, #fechamento_de_ciclo_avaliacao, #gestao_academica
+JUSTIFICATIVA: Com base na visita virtual in loco, a comissão de avaliação observou que os laboratórios didáticos atendem às necessidades do curso de acordo com as respectivas normas de funcionamento, utilização e segurança, apresentam conforto, manutenção periódica. Observou-se a presença de piso tátil no corredo...
+--------------------
+LOCALIZAÇÃO: Campus Reitoria
+CURSO: Ciências Exatas Quimica (Licenciatura) (Nota: 4,00)
+CATEGORIA: Gestão e Feedback
+PONTOS NEGATIVOS: Ausência de evidências claras sobre o uso sistemático de resultados avaliativos pela gestão acadêmica para embasar o planejamento de ações, falta de projeção de demandas futuras e inexistência de um ciclo de melhoria contínua das aulas baseado em indicadores.
+TAGS: #gestao_academica_deficiente, #falta_de_planejamento_estrategico, #ciclo_de_feedback_inexistente
+JUSTIFICATIVA: 0s laboratórios didáticos voltados às Práticas Pedagógicas do curso de Licenciatura em Ciências Exatas — Química atendem plenamente às diretrizes do Projeto Pedagógico de Curso (PPC) e às normas institucionais de funcionamento, segurança e uso. Esses espaços foram concebidos para proporcionar ambien...
+--------------------

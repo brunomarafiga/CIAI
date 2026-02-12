@@ -16,18 +16,21 @@ Termos Frequentes: extensão(12), pesquisa(11), políticas(10), âmbito(5), cien
   ------------------------------
     [Nota: 4,00] MATEMÁTICA INDUSTRIAL (Bacharelado) - ID: 2251358
       Conforme documentos disponibilizados pela IES e informações obtidas em reuniões realizadas, foi constatado pela comissão de avaliadores que as políticas institucionais, estabelecidas no PDI da Universidade Federal do Paraná-UFPR (2022-2026), estão implantadas no âmbito do curso de Matemática Industrial (Bacharelado). Essas políticas de ensino (por exemplos, programas de monitoria, Programa de Educação Tutorial, Programa de inclusão digital), de pesquisa (por exemplos, iniciação científica, envolvimento com eventos científicos, participação em grupos de pesquisa) e de extensão (por exemplos, programas e projetos específicos, inclusive com oferta de bolsas) pretendem, principalmente, que os estudantes vivenciem experiências formativas diversificadas e tenham a oportunidade de uma formação profissional mais sólida, conforme perfil do egresso e objetivos do curso.
+      #egresso
 
 
   LOCALIZAÇÃO/SETOR: Campus Toledo (Qtd: 1)
   ------------------------------
     [Nota: 4,00] ENFERMAGEM (Bacharelado) - ID: 2382291
       As políticas institucionais de ensino, extensão e pesquisa, estão declaradas PDI e alinhadas no PPC vigente. Durante a visita in loco, foi constatado que elas fazem parte do discurso da Coordenação do curso e, claramente voltadas para a promoção de oportunidades de aprendizagem alinhadas ao perfil do egresso. Da mesma forma, durante a reunião com os docentes, os profissionais explanaram como que os projetos de ensino, pesquisa e extensão serão desenvolvidos, no âmbito do curso de Enfermagem, objetivando práticas exitosas e inivadoras.
+      #egresso #prática #ppc
 
 
   LOCALIZAÇÃO/SETOR: Centro Politécnico (Qtd: 1)
   ------------------------------
     [Nota: 4,00] Pedagogia (Licenciatura) - ID: 2324552
       Porém não constatou-se aadoção de práticas comprovadamente exitosas ou inovadoras para sua a sua revisão.
+      #prática
 
 ================================================================================
 
@@ -44,21 +47,25 @@ Termos Frequentes: objetivos(14), formar(10), culturais(9), profissionais(8), im
 
     [Nota: 3,00] MATEMÁTICA (Licenciatura) - ID: 2289301
       Conforme o PPC (p.7) Sistema E-MEC - O curso tem como objetivo preparar o professor de Matemática para exercício do magistério no Ensino Fundamental e Médio e o de contribuir para a formação do futuro pesquisador em Educação Matemática. Capaz de exercer uma liderança intelectual, social e política e, a partir do conhecimento da nossa realidade social, econômica e cultural e da área de Matemática, nos seus aspectos histórico, filosófico, sociológico, psicológico, político, didático e pedagógico, possa atuar efetivamente no sentido de melhorar as condições de ensino e aprendizagem visando a formação ampla e cidadã nos diferentes níveis, etapas e modalidades de educação básica. O PPC do curso, não faz referência, nem nos objetivos do referido curso, nem no perfil do egresso (perfil do futuro professor-pesquisador da educação básica; competências do futuro professor-pesquisador da educação básica) quanto ao atendimento das características locais e regionais.
+      #egresso #pedagógico #ppc
 
     [Nota: 1,00] QUÍMICA (Bacharelado) - ID: 2289302
       Conforme Instrução Normativa Nº 4, de 29 de novembro de 2018, Art. 3º, 8 4º "A comissão avaliadora somente aceitará as versões do PDI/PPC apensados ao sistema, sejam eles os originais da abertura do processo ou os novos anexados." Conforme extrato do emec referente à Cópia do PPC, não foram disponibilizados os Objetivos do Curso. Sendo assim, não foi possível avaliar os objetivos do curso.
+      #ppc
 
 
   LOCALIZAÇÃO/SETOR: Campus Jandaia Do Sul (Qtd: 1)
   ------------------------------
     [Nota: 4,00] Ciências Exatas Quimica (Licenciatura) - ID: 2275330
       Mas não compromete a implementação dos objetivos previstos no PPC. A integração com o contexto regional também está evidenciada. Os discentes realizam estágios obrigatórios em escolas do Vale do Ivaí, conforme lista oficial de campos de estágio (drive), garantindo contato direto com a realidade educacional local. Além disso, o curso cumpre a determinação de destinar 20% da carga horária à extensão, em conformidade com a Resolução CNE/CES nº 7/2018, consolidando a indissociabilidade entre ensino, pesquisa e extensão. Projetos como Vem para o Lab, Teste do Pezinho, Cafe com massas, minicursos para o ensino médio e participação em feiras científicas e de divulgação aproximam o curso da comunidade, fortalecendo sua função social e cultural. Entretanto, não foram identificadas evidências consistentes da adoção de novas práticas emergentes no campo do conhecimento relacionado ao ensino de Química.
+      #prática #ppc
 
 
   LOCALIZAÇÃO/SETOR: Juvevê (Qtd: 1)
   ------------------------------
     [Nota: 4,00] Produção Cultural (Tecnologia) - ID: 2412913
       No entanto, os documentos disponibilizados no drive e as falas dos interlocutores não evidenciaram a existência de novas práticas emergentes no campo do conhecimento relacionado ao curso.
+      #prática
 
 ================================================================================
 
@@ -72,33 +79,39 @@ Termos Frequentes: egresso(19), perfil(17), formação(15), profissional(15), lo
   ------------------------------
     [Nota: 3,00] MATEMÁTICA (Licenciatura) - ID: 2289301
       Conforme o PPC (p.7) Sistema E-MEC - O perfil profissional do egresso, se baseia no Perfil do futuro professor-pesquisador da educação básica: “o curso de Licenciatura em Matemática tem por objetivo formar um profissional com visão abrangente do papel do educador, capaz de trabalhar em equipes multidisciplinares, de utilizar instrumentos de pesquisa adequados para a construção de conhecimentos pedagógicos e científicos e de utilizar conhecimentos matemáticos para a compreensão do mundo que o cerca”. Desta forma, conforme observa-se no PPC (p.7), que o referido documento não faz menção sobre possíveis articulações do curso com as necessidades locais e regionais. Não foi possível detectar comprovação documental (específica da UFPR e do curso de Matemática em questão) sobre uma possível identificação/articulação com necessidades locais e regionais, em especial as especificidades da localidade de Curitiba-PR e do seu entorno. O único relatório disponibilizado sobre o sobre os Egressos 2021-2025, também não faz menção sobre isso.
+      #egresso #pedagógico #ppc
 
     [Nota: 4,00] QUÍMICA (Bacharelado) - ID: 2289302
       Apesar de ter sido elaborada para a Diretriz de 2015. São expressas 13 competências a serem desenvolvidas pelo discente. A articulação com necessidades locais e regionais se dá pela presença de competências relacionadas à pesquisa sobre a realidade sociocultural e à realidade educacional. Não foram apresentadas evidências de ampliação em função de novas demandas apresentadas pelo mundo do trabalho ou relatórios sobre o mercado de trabalho local ou regional.
 
     [Nota: 4,00] GEOGRAFIA (Licenciatura) - ID: 2299015
       Com base na análise do PPC e na reunião com a coordenação do curso e NDE, observou-se que o egresso do Curso de Licenciatura em Geografia, na modalidade PRESENCIAL, deve ser um profissional que tenha uma formação bem ampla. O que evidencia um perfil profissional muito vasto com um rol diversificado de habilidades, que engloba diversas dimensões do conhecimento geográfico. No PPC o texto apresenta um perfil híbrido, tanto para os bacharéis como licenciados, contemplando as áreas de ensino, pesquisa e aplicação técnica. Espera-se, assim, que o egresso possa desenvolver plenamente a profissão junto à sociedade, tendo as seguintes capacidades: a) de reflexão teórica e crítica; b) de expressão técnica, para artigos, relatórios, resenhas; c) de percepção e observação; d) de interpretação compreensiva; e) analítica e sintética; f) de aprender a aprender, com análise do conhecimento como processo em construção, em constante mutação. O egresso deve, ainda, construir os seguintes conhecimentos: a) sobre a construção epistemológica da geografia, das suas tendências e das interligações entre eles; b) dos fenômenos particulares do campo da geografia, seu funcionamento, suas inter-relações e da organização do espaço; c) sobre as estruturas e dinâmicas dos processos naturais e humanos, a ação humana e sua relação com o ambiente, em múltiplas escalas; d) sobre a construção e as limitações dos métodos e técnicas de pesquisas, inclusive de métodos pedagógicos; e) de terminologias geográficas, aplicadas aos fenômenos sociais, naturais e suas relações; f) de agendas políticas, como sustentabilidade, cidadania, tolerância, internacionalismo e direitos humanos e as relações com a geografia; g) sobre o mercado profissional e os aspectos legais de atuação; h) crítico do mundo, buscando formas criativas e inovadoras para resolução de problemas geográficos; 1) domínio dos procedimentos e técnicas de gabinete, de laboratório e de campo, utilizados na solução de problemas inerentes à profissão; j) usar e produzir material textual: bibliografia científica, literatura, relatórios; k) técnicos, imprensa escrita e falada, entre outros; 1) como produzir e usar a estatística na aplicação de métodos qualitativos e quantitativos; m) como produzir e interpretar mapas, fotografias aéreas, com uso do sensoriamento remoto e SIG, fotografias, imagens, desenhos e croquis; n) analisar modelos e modelagem, bem como técnicas hermenêuticas, entrevistas e discursivas. Levando-se em conta os objetivos do Curso, que estão bem traçados, observamos que o perfil profissional do egresso não está bem delimitado no que tange as habilidades específicas do professor de geografia e, portanto, falta a articulação com as novas demandas apresentadas pelo mundo do trabalho.
+      #egresso #pedagógico #ppc #laboratório
 
     [Nota: 4,00] CIÊNCIAS BIOLÓGICAS (Licenciatura) - ID: 2323769
       O perfil do egresso está inserido no PPC, 08 de acordo com as DCN do curso, relata o campo de atuação do profissional, no futuras demandas no mercado de trabalho. A matriz curricular configura-se como geradora de oportunidades significativas para aquisição e desenvolvimen do egresso (PPC, 13).
+      #egresso #ppc
 
 
   LOCALIZAÇÃO/SETOR: Campus  Reitoria (Qtd: 1)
   ------------------------------
     [Nota: 4,00] LETRAS INGLÊS (Licenciatura) - ID: 2322586
       Entretanto, não há evidências de ampliação do perfil em função de novas demandas do mundo do trabalho, registrando-se que não foram apresentados dados de acompanhamento sistemático dos egressos. O levantamento quantitativo disponibilizado traz apenas dados de fluxo discente (ingressantes, concluintes, estágio, TCC), sem caracterizar acompanhamento de egressos. Logo, justifica-se a atribuição do conceito 4.
+      #acompanhamento #dados #egresso
 
 
   LOCALIZAÇÃO/SETOR: Campus Jandaia Do Sul (Qtd: 1)
   ------------------------------
     [Nota: 4,00] Ciências Exatas Quimica (Licenciatura) - ID: 2275330
       Todavia, não foram encontradas evidências de que o perfil do egresso está sendo ampliado em função de novas demandas apresentadas pelo mundo do trabalho.
+      #egresso
 
 
   LOCALIZAÇÃO/SETOR: Campus Reitoria (Qtd: 1)
   ------------------------------
     [Nota: 3,00] LETRAS PORTUGUÊS (Bacharelado) - ID: 2324555
       Apesar de constar no PPC (2019) descrição sobre o perfil do egresso pretendido para o Curso de Letras - Português, não há a formaliza Diversos, Semana Acadêmica, Laboratórios de Edição, Clube do Livro, Oficinas de Leitura, desenvolvem as competências requeridas ao futuro profission:
+      #egresso #ppc #laboratório
 
 ================================================================================
 
@@ -112,30 +125,35 @@ Termos Frequentes: curricular(35), formação(30), horas(29), disciplinas(26), p
   ------------------------------
     [Nota: 4,00] MATEMÁTICA INDUSTRIAL (Bacharelado) - ID: 2251358
       Conforme documentos disponibilizados pela IES, a estrutura curricular do Curso de Matemática Industrial (Bacharelado) apresenta um rol de 49 disciplinas a serem ofertadas de forma optativa (os discentes precisam cursar pelo menos 5), dentre as quais a disciplina “Comunicação em Língua Brasileira de Sinais — Libras/Fundamentos da educação bilingue para surdos. A estrutura curricular, com carga horária de 2420 horas, é constituída de um conjunto de disciplinas organizadas e articuladas da seguinte forma: Ciclo Básico (1020 horas), Ciclo Profissionalizante (900 horas), Disciplinas Optativas (mínimo de 300 horas), Atividades Formativas (mínimo de 200 horas). Informações obtidas em documentos e reuniões realizadas evidenciam que a estrutura curricular implementada considera a flexibilidade e a interdisciplinaridade. Busca-se estabelecer práticas pedagógicas que promovem a relação entre teoria e prática, principalmente por meio resolução de problemas concretos e estudos de casos específicos relacionados aos saberes inerentes ao curso.
+      #prática #teoria
 
     [Nota: 4,00] MATEMÁTICA (Licenciatura) - ID: 2289301
       No entanto, não foram apresentados elementos comprovadamente inovadores na formação.
 
     [Nota: 3,00] GEOGRAFIA (Licenciatura) - ID: 2299015
       Contudo, ficou evidente, após a análise do PPC e, durante a reunião realizada com os discentes, que a nova Estrutura Curricular apresenta incongruências, necessitando de uma revisão geral, organizando de forma mais explícita a matriz curricular com o quantitativo das cargas horárias computadas (parciais e total) tais como, disciplinas obrigatórias, disciplinas optativas, ações curriculares de extensão, atividades formativas, TCC e Estágios. Para ratificar essa necessidade de uma melhor adequação, organização e detalhamento, ver síntese da Matriz Curricular (Carga Horária) no PPC. Logo, com todos esses apontamentos, verificou-se que não está clara a articulação entre os componentes curriculares no percurso de formação e seus elementos comprovadamente inovadores. 3
+      #ppc
 
 
   LOCALIZAÇÃO/SETOR: Campus Jandaia Do Sul (Qtd: 1)
   ------------------------------
     [Nota: 4,00] Ciências Exatas Quimica (Licenciatura) - ID: 2275330
       Entretanto, a adesão discente a tais atividades é limitada, o que reduz o alcance coletivo das experiências extensionistas e investigativas. Apesar do número reduzido de matriculados (16 alunos no total, sendo apenas 2 na ênfase em Química), o corpo docente empenha-se em assegurar oportunidades de ensino, pesquisa e extensão. Há registro de bolsistas PIBIC, de discentes que deram continuidade à formação em pós-graduação e de participação em atividades extensionistas. Os docentes também garantem que as aulas teóricas e práticas são ofertadas com a mesma qualidade e abrangência de turmas maiores, reforçando o compromisso institucional com a formação. Assim, a estrutura curricular está implementada em conformidade com a legislação vigente, apresentando equilíbrio entre teoria e prática e contemplando Libras, extensão e atividades formativas. As evidências de integração entre atividades de ensino, pesquisa e extensão confirmam a consistência da estrutura curricular, entretanto, não foram identificados elementos comprovadamente inovadores na organização curricular, como módulos integrados por eixos temáticos, disciplinas voltadas a temas emergentes (exemplo: química verde, nanotecnologia, biotecnologia, etc), internacionalização formalizada entre os alunos regularmente matriculados ou uso sistemático de metodologias ativas descritas no PPC. Algumas metodologias foram relatadas pelos docentes durante a reunião com o corpor docente, mas sempre de forma pontual. 4
+      #metodologia #prática #ppc #teoria #tecnologia
 
 
   LOCALIZAÇÃO/SETOR: Campus Pontal Do Sul (Qtd: 1)
   ------------------------------
     [Nota: 4,00] CIÊNCIAS EXATAS QUÍMICA (Licenciatura) - ID: 2297803
       Mas também para a familiarização dos estudantes com atividades formativas mediadas por tecnologias digitais, fortalecendo a proposta pedagógica do curso. Aliás, a estrutura curricular conta com um elemento a mais para sua integração no campo das ciências exatas, vez que o curso, ora ofertado, articula saberes diversos, de distintas ciências, numa direção holística da formação. Considera, plenamente, a transversalidade, a interdisciplinaridade, a acessibilidade (tanto física, quanto motora e cognitiva), para além da acessibilidade metodológica. Não obstante, não restou evidenciada a existência de elementos comprovadamente inovadores.
+      #acessibilidade #tecnologia
 
 
   LOCALIZAÇÃO/SETOR: Campus Reitoria (Qtd: 1)
   ------------------------------
     [Nota: 4,00] LETRAS PORTUGUÊS (Bacharelado) - ID: 2324555
       A matriz curricular descrita no item 8 do PPC (Edição de 2019), informa que o Curso de Bacharelado em Letras Português t Optativas, refere-se ao conjunto de disciplinas obrigatórias a oferta sistemática de disciplinas optativas, de livre escolha dos alunos, em cujo espaço discipl PPC (2019), do curso consta a Representação Gráfica do Perfil de Formação. Por se tratar de Curso de Bacharelado a disciplina de LIBRAS, não está cont PPC do curso consta a Representação Gráfica do Perfil de Formação e no Anexo V a descrição de todas as ementas com a indicação bibliográfica básica e estrangeiras; pela manhã, existem as opções de Alemão e Espanhol; à noite, as de Francês, Japonês e Polonês. (inclusive há uma Associação de Poloneses) Programa da Curricularização da Extensão, amplamente discutido pelo NDE, comprovado pelas atas de reunião, está em trâmite jurídico nos órgãos colegi
+      #ppc
 
 
   LOCALIZAÇÃO/SETOR: Centro Politécnico (Qtd: 1)
@@ -148,12 +166,14 @@ Termos Frequentes: curricular(35), formação(30), horas(29), disciplinas(26), p
   ------------------------------
     [Nota: 3,00] MEDICINA (Bacharelado) - ID: 2132838
       A estrutura curricular do curso de Medicina da UFPR apresentada no PPC, está implementada desde 2019 e considera parcialmente os requisitos de flexibilidade, interdisciplinaridade, acessibilidade metodológica e compatibilidade de carga horária total (8140 Horas). O curso é organizado em uma matriz tradicional, composta por disciplinas. No PPC não é detalhada a teoria pedagógica que fundamenta a integração dos conteúdos e a interdisciplinaridade. Além da disciplina de LIBRAS ofertada como núcleo específico optativo, outras disciplinas elencadas na matriz curricular como optativas demonstram, de certa forma, a acessibilidade. A articulação entre teoria e prática profissional é incipiente e ocorre em alguns momentos do curso, como na disciplina “Território e Saúde” do 1º Período, onde o aluno desenvolve atividades práticas relevantes com a comunidade. A partir da análise do PPC e das evidências coletadas na reunião com a Coordenação do Curso e na reunião com Docentes, não ficou demonstrada de que forma se dá a articulação entre os componentes curriculares e a integração longitudinal e transversal dos saberes, para a facilitação da aprendizagem do raciocínio clínico e a compreensão holística, como exemplos de elementos inovadores, no percurso de formação. 3
+      #prática #teoria #ppc #acessibilidade
 
 
   LOCALIZAÇÃO/SETOR: Juvevê (Qtd: 1)
   ------------------------------
     [Nota: 4,00] Produção Cultural (Tecnologia) - ID: 2412913
       Mas sejam analisados e resignificados a partir de diferentes perspectivas —críticas, políticas e históricas. Por fim, o terceiro eixo, Laboratórios Artístico-Culturais, possibilita que os discentes vivenciem questões práticas da área. Atuando de forma integrada aosconceitos e ferramentas discutidos nos demais eixos, essa vivência prática não se limita ao aprendizado de técnicas específicas, mas favorece a construção da capacidade de compreenderprocessos e práticas de produção inerentes ao campo. A disciplina LIB038 – Comunicação em Língua Brasileira de Sinais: Fundamentos da Educação Bilíngue de Surdos contempla conteúdosrelacionados à compreensão histórica das comunidades surdas e de sua produção cultural; ao bilinguismo e à educação de surdos, considerando diretrizes legais e político-pedagógicas; e aosaspectos linguísticos da Língua Brasileira de Sinais, abordando teoria e prática. Assim, diante dos documentos apresentados pela IES, a fala de docentes e discentes, bem como as falas dosdemais seguimentos da instituição, a comissão constatou que a estrutura curricular propõe elementos que articulam teoria e prática, porém não apresenta informações ou característicascomprovadamente inovadoras.
+      #laboratório #prática #teoria
 
 ================================================================================
 
@@ -167,6 +187,7 @@ Termos Frequentes: conteúdos(19), educação(16), curriculares(15), formação(
   ------------------------------
     [Nota: 4,00] MATEMÁTICA INDUSTRIAL (Bacharelado) - ID: 2251358
       Os conteúdos curriculares desenvolvidos ao longo do curso, conforme documentos disponibilizados pela TES e informações obtidas em reuniões realizadas, possibilitam o pleno desenvolvimento do perfil profissional de egresso estabelecido no PPC (2020). Esses conteúdos estão adequados a carga horária disponível e a bibliografia básica e complementar expressa nos planos de ensino. Os conteúdos curriculares são atuais e são implementados por meio de um conjunto de ações educativas que compreendem disciplinas, estágios, atividades complementares, iniciação à pesquisa e extensão, dentre outras. Os conteúdos também estão de acordo com a legislação vigente abrangendo o ensino-aprendizagem de temáticas inerentes às políticas de educação ambiental, de educação em direitos humanos, de educação das relações étnico-raciais e o ensino de história e cultura afro-brasileira, africana e indígena. Na matriz curricular consta a oferta obrigatória da disciplina Temas Transversais onde essas temáticas são abordadas. A acessibilidade metodológica ocorre na medida em que são consideradas diferentes formas de aprender e o uso de técnicas, recursos e procedimentos diferenciados, tais como, a exposição interativa dialogada, práticas de pesquisa, a realização de seminários, trabalhos em equipe, uso de mídias diversas, resolução de problemas, entre outras.
+      #egresso #prática #ppc #acessibilidade
 
     [Nota: 4,00] MATEMÁTICA (Licenciatura) - ID: 2289301
       No entanto, não foram detectados elementos recentes e inovadores realizados no percurso da formação do curso de Matemática.
@@ -179,12 +200,14 @@ Termos Frequentes: conteúdos(19), educação(16), curriculares(15), formação(
   ------------------------------
     [Nota: 4,00] Ciências Exatas Quimica (Licenciatura) - ID: 2275330
       Porém com predominância de livros clássicos. No conjunto, há elementos que diferenciam o curso dentro da área profissional, a exemplo da presença, na própria matriz, de componente extensionista (JCE312 — Cursos e Eventos), cuja ementa descreve concepção, planejamento e execução de ações de difusão e popularização científica, alinhando ensino e extensão no percurso formativo. Por outro lado, não foram identificadas evidências de indução sistemática ao contato com conhecimentos recentes e inovadores na bibliografia das disciplinas nucleares de Química (Geral, Orgânica, Analítica, Inorgânica, Físico-Química, Analise-Instrumental). As listas analisadas mostram prevalência de livros didáticos tradicionais e ausência de indicação regular de artigos de periódicos científicos contemporâneos ou capítulos de obras de fronteira tecnológica; quando há menções mais atuais, elas se apresentam de forma pontual. Assim, os conteúdos curriculares, tal como registrados no PPC, promovem o desenvolvimento do perfil do egresso, apresentam cargas em horas-aula com integralização total compatível com a legislação, disponibilizam bibliografia básica e complementar, contemplam acessibilidade metodológica (Libras) e abordam conteúdos vinculados às políticas educacionais nacionais, além de diferenciarem o curso por incorporar componente extensionista no itinerário formativo. Não foram encontradas evidências, entretanto, de indução sistemática ao contato com conhecimento recente e inovador na bibliografia das disciplinas, especialmente nas de Química, sendo as ocorrências identificadas pontuais.
+      #egresso #acessibilidade #ppc
 
 
   LOCALIZAÇÃO/SETOR: Campus Reitoria (Qtd: 1)
   ------------------------------
     [Nota: 4,00] LETRAS PORTUGUÊS (Bacharelado) - ID: 2324555
       O currículo promove a realização plena das habilidades necessárias para a implementação do perfil profissional do egresso, Cultura Afro-Brasileira e Indígena) na sociedade contemporânea, a prática pedagógica da formação evidenciadas nos relatos testemunhais.
+      #egresso #prática
 
 
   LOCALIZAÇÃO/SETOR: Complexo Hospital de Clínicas (Qtd: 1)
@@ -204,27 +227,33 @@ Termos Frequentes: metodologia(18), prática(15), atividades(10), formação(8),
   ------------------------------
     [Nota: 4,00] MATEMÁTICA INDUSTRIAL (Bacharelado) - ID: 2251358
       As metodologias, expressas no PPC (2020) estão fundamentadas, principalmente nos princípios de indissociabilidade do ensino, da pesquisa e da extensão, bem como na integração teoria e prática, na interdisciplinaridade e flexibilidade e nos recursos e conhecimentos tecnológicos. Informações disponíveis em documentos e obtidas em reuniões realizadas evidenciam que esses fundamentos coadunam com as práticas pedagógicas implementadas nos diferentes componentes curriculares. As metodologias desenvolvidas são diversificadas, atendem a diferentes formas de aprender, são compatíveis com os conteúdos trabalhados e promovem a autonomia dos discentes. As principais ações metodológicas ocorrem por meio de aulas expositivas dialogadas apoiadas em bibliografia especializada e atualizada, leitura, debate e produção de textos sobre as diversas temáticas estudadas, pesquisas bibliográficas, estudos de caso, atividades didáticas individuais e coletivas, seminários, trabalhos em grupo, resolução de exercícios, observação e sistematização de práticas cotidianas, e atividades que aproximam o aluno do mercado de trabalho.
+      #metodologia #prática #teoria #ppc
 
     [Nota: 4,00] MATEMÁTICA (Licenciatura) - ID: 2289301
       Mas sempre de maneira intuitiva. No depoimento colhido junto aos discentes (02/04/2025 - 17h00/18h00), relataram que apenas algumas disciplinas estimulam a ação discente numa relação teoria-prática -característica da própria disciplina-, como por exemplo: Prática de Docência em Matemática 1, II e II. Não foram apresentados/disponibilizados à comissão documentos/projetos comprobatórios dos discentes que atestam práticas inovadoras e que proporcionam aprendizagem diferenciada no tocante a Matemática.
+      #prática #teoria
 
     [Nota: 1,00] QUÍMICA (Bacharelado) - ID: 2289302
       Conforme Instrução Normativa Nº 4, de 29 de novembro de 2018, Art. 3º, 8 4º "A comissão avaliadora somente aceitará as versões do PDI/PPC apensados ao sistema, sejam eles os originais da abertura do processo ou os novos anexados." Conforme a Cópia do Projeto Pedagógico de Curso (PPC) extraído do sistema-emec, não foram disponibilizadas as Metodologias para serem analisadas. Sendo assim, não foi possível avaliar esse indicador.
+      #metodologia #pedagógico #ppc
 
     [Nota: 4,00] GEOGRAFIA (Licenciatura) - ID: 2299015
       Mas o docente tem autonomia para utilizar outras estratégias como seminários, relatórios (trabalhos de campo, aulas práticas em laboratórios), elaboração de projetos, trabalhos individuais ou em grupos. Ainda assim, não foram observadas evidências na metodologia claramente inovadoras e embasadas em recursos que proporcionam aprendizagens diferenciadas.
+      #metodologia #laboratório #prática
 
 
   LOCALIZAÇÃO/SETOR: Complexo Hospital de Clínicas (Qtd: 1)
   ------------------------------
     [Nota: 3,00] MEDICINA (Bacharelado) - ID: 2132838
       No entanto, nas reunião com a Coordenação do Curso e com os Docentes, ficou caracterizada a utilização de metodologia tradicional de ensino em grande parte do percurso de formação, e a adoção de metodologias inovadoras no processo de ensino-aprendizagem, em momentos pontuais. Ainda assim, a metodologia utilizada atende ao desenvolvimento de conteúdos, às estratégias de aprendizagem e ao contínuo acompanhamento das atividades, no entanto, verificou-se que a metodologia não se coaduna com práticas pedagógicas que estimulam a ação discente em uma relação teoria-prática, como observado nas falas dos alunos, na reunião com a comissão.
+      #metodologia #acompanhamento #prática #teoria
 
 
   LOCALIZAÇÃO/SETOR: Juvevê (Qtd: 1)
   ------------------------------
     [Nota: 4,00] Produção Cultural (Tecnologia) - ID: 2412913
       Mas não se limita a —: Aulas expositivas; Aulas demonstrativas em laboratórios; Aulas práticas em laboratórios; Aulas de campo; Seminários e debates; Dinâmicas de grupo; Estudosorientados; Execução supervisionada de projetos, simulações e implementações (envolvendo mais de uma disciplina, quando possível); Exercícios escritos ou digitais, individuais ou em grupo; Interpretação, análise e discussão de textos e problemas; Integração curricular de atividades de extensão, como palestras, eventos, simpósios e conferências (dentro do conteúdo de uma ou maisdisciplinas); Pesquisa na biblioteca e em bases de dados digitais; Projeção multimídia de apresentações e vídeos; Oficinas; Visitas técnicas e vivências culturais e artísticas, com interação juntoa profissionais, detentores e artífices de bens e capitais técnicos e culturais diversificados. Adota-se, também, como parte integrante do processo de ensino-aprendizagem, a elaboração orientadae a apresentação do Trabalho de Conclusão de Curso. Ao longo da formação, espera-se que os discentes desenvolvam competências e habilidades fundamentais para o campo da cultura. Dessaforma, a comissão destaca, com base na análise documental e nas entrevistas com docentes, discentes e a coordenação, que o percurso metodológico possibilita a difusão de bens culturais, agestão de equipes, o planejamento e a organização, bem como o domínio de cultura digital, contribuindo para o desenvolvimento do pensamento crítico, a ampliação do repertório cultural etécnico, e o fomento a ações de cidadania, empatia e cooperação. Entretanto, não foram evidenciados recursos inovadores que proporcionem aprendizagens diferenciadas dentro da área.
+      #biblioteca #laboratório #prática #dados
 
 ================================================================================
 
@@ -238,21 +267,26 @@ Termos Frequentes: estágio(60), curricular(12), obrigatório(11), supervisionad
   ------------------------------
     [Nota: 4,00] GEOLOGIA (Bacharelado) - ID: 2251355
       No entanto, embora o curso demonstre procedimentos consistentes para a operacionalização, controle e acompanhamento do estágio supervisionado, não foram identificadas evidências documentais que demonstrem que os resultados dessas experiências estejam sendo sistematicamente utilizados como insumos para atualização das práticas de estágio e revisão curricular. Também não foram identificadas práticas consolidadas de retroalimentação entre a COE, a coordenação do curso e o Núcleo Docente Estruturante (NDE) que formalizem essa integração de forma contínua e crítica.
+      #prática #acompanhamento
 
     [Nota: 4,00] MATEMÁTICA INDUSTRIAL (Bacharelado) - ID: 2251358
       O estágio curricular supervisionado está institucionalizado. Há regulamentação própria, manual e resoluções específicas que tratam do assunto, em ambas as modalidades previstas, estágio obrigatório e estágio não obrigatório. No âmbito do curso há uma Comissão Orientadora de Estágios (COE) que coordena os estágios dos alunos e o cumprimento das normas relacionadas. Para realização dos estágios há a exigência do aluno ter cumprido no mínimo de 80% de aprovação nas disciplinas dos 4 (quatro) primeiros períodos do Curso. O estágio curricular obrigatório, visa principalmente, o desenvolvimento de projeto específico executado em empresa ou indústria, e está organizado da seguinte forma: Estágio Supervisionado I, no sétimo semestre com carga horária de 120 horas e Estágio Supervisionado II, no oitavo semestre com carga horária de 120 horas. O acompanhamento do discente no estágio obrigatório é realizado por professor que orienta na organização, desenvolvimento e conclusão de projeto específico. O projeto oriundo do estágio é apresentado para uma banca examinadora composta de 3 professores. O estágio desenvolvido integra ensino e o mundo do trabalho, atendendo aos objetivos do curso e ao desenvolvimento das competências relacionadas ao perfil de egresso estabelecido no PPC (2020).
+      #egresso #acompanhamento #ppc
 
     [Nota: 4,00] CIÊNCIA DA COMPUTAÇÃO (Bacharelado) - ID: 2287830
       O Estágio Curricular Supervisionado do Curso de Ciências da Computação da UFPR, consta do PPC e encontra-se institucionalizado, com carga horária total de 220 (duzentos e vinte) horas, alinhado aos preceitos da Resolução CNE/CES n. 05 de 16/11/2016, que institui as Diretrizes Curriculares Nacionais para os cursos de graduação na área da Computação. Consta do PPC, as normas para a realização de estágio nas modalidades de estágio obrigatório e de estágio não obrigatório, em conformidade com as diretrizes curriculares - Resolução CNE/CES 11/2002 e Lei Nº 11.788/2008, Resolução Nº 70/04-CEPE, Resolução Nº 46/10-CEPE e Instruções Normativas decorrentes. O estágio é conceituado como elemento curricular de caráter formador e como um ato educativo supervisionado previsto para o curso, devendo estar em consonância com a definição do perfil do profissional egresso, bem como com os objetivos para a sua formação, propostos no PPC. O objetivo das duas modalidades de estágio previstas é de viabilizar ao aluno o aprimoramento técnico-científico em sua formação profissional, mediante a análise e a solução de problemas concretos em condições reais de trabalho, por intermédio de situações relacionadas à natureza e especificidade do curso e da aplicação dos conhecimentos teóricos e práticos adquiridos nas diversas disciplinas previstas. Assim, constituem campos de estágio as entidades de direito público e privado, instituições de ensino, profissionais liberais, a comunidade em geral e as unidades internas da UFPR que apresentem as condições estabelecidas nos Artigos 4º e 5º da Resolução Nº 46/10-CEPE, denominados a seguir como Concedentes de Estágio. Há uma Comissão Orientadora de Estágio (COE) do curso composta pelo Coordenador e/ou o Vice Coordenador do Curso e dois ou mais professores indicados pelo Departamento de Informática, com atribuições de acompanhar controlar e avaliar os estágios realizados, sendo os estágios, orientados por um professor vinculado ao curso e por profissional da área ou de área afim da Concedente do Estágio, de forma a proporcionar o pleno desempenho de ações, princípios e valores inerentes à realidade da profissão (PPC, p. 22 e 23. Consta ainda do PPC que, o estágio obrigatório deve ser realizado após o término da formação básica, em qualquer período entre o quarto e o oitavo períodos da matriz curricular recomendada. Para o Estágio, a avaliação obedece às seguintes condições de aprovação: mínimo de frequência de 75%; e, no mínimo 50 pontos de média aritmética, na escala de zero a 100 no conjunto das atividades definidas em Plano de Ensino. (PPC, p.11 e 14). A análise documental e as reuniões da comissão de avaliação com os docentes e alunos demonstraram que a orientação e supervisão ocorre com adequada relação quantitativa entre orientador e alunos, e ainda que, para as atividades de estágios são firmados convênios com instituições da área de formação, obedecidos trâmites burocráticos eficazes de acompanhamento, registro e controle dos estágios, caracterizando a integração entre ensino e mundo do trabalho, considerando as competências previstas no perfil do egresso, conforme explicitadas no PPC. Não ficaram claras as evidências quanto a geração de insumos para atualização das práticas de estágios.
+      #egresso #prática #acompanhamento #ppc
 
     [Nota: 4,00] GEOGRAFIA (Licenciatura) - ID: 2299015
       Contudo, foram verificadas evidências, nas discussões com os discentes do curso, acerca de intercorrências na interlocução institucionalizada da IES com as instituições de ensino para formalização da documentação.
+      #documentação
 
 
   LOCALIZAÇÃO/SETOR: Campus Jandaia Do Sul (Qtd: 1)
   ------------------------------
     [Nota: 4,00] Ciências Exatas Quimica (Licenciatura) - ID: 2275330
       Entretanto, não foram localizadas nos documentos: (1) parâmetros objetivos sobre a relação orientador/estagiário, (1i) registros completos da coordenação e /ou COE formal via portarias e atas (um unica ata disponibilizada), e (iii) evidências de interlocução institucionalizada da IES com as escolas-campo que retroalimentem sistematicamente a atualização das práticas de estágio.
+      #prática
 
 ================================================================================
 
@@ -266,21 +300,25 @@ Termos Frequentes: estágio(28), escolas(15), práticas(14), pedagógica(12), fo
   ------------------------------
     [Nota: 4,00] MATEMÁTICA (Licenciatura) - ID: 2289301
       No entanto, mesmo instigados pela comissão, os discentes não conseguiram pronunciar/destacar práticas inovadoras de gestão entre a TES e a rede escolar da Educação Básica.
+      #prática
 
     [Nota: 4,00] QUÍMICA (Bacharelado) - ID: 2289302
       Conforme Cópia do Projeto Pedagógico de Curso (PPC) extraído do sistema-emec, o estágio curricular está institucionalizado através da Resolução nº 46/10-CEPE e promove a vivência da realidade escolar de forma integral, prevendo práticas de docência e práticas pedagógicas de organização do trabalho escolar, o que inclui conselhos de classe/reuniões de professores, evidenciado pelas atividades previstas nos termos de estágio apresentados. O professor orientador de estágio deve ter um canal sistemático de comunicação com o concedente, além de realizar visitação nos locais de estágio. O estágio é registrado através de termo específico e avaliado através de formulário padronizado. Não foram identificadas evidências da ocorrência de práticas inovadoras para a gestão da relação entre a IES e a rede de escolas da Educação Básica.
+      #prática #pedagógico #ppc
 
 
   LOCALIZAÇÃO/SETOR: Campus  Reitoria (Qtd: 1)
   ------------------------------
     [Nota: 4,00] LETRAS INGLÊS (Licenciatura) - ID: 2322586
       O estágio supervisionado é ofertado a partir do 7º período do curso (Estágio docente em línguas estrangeiras em contextos variados); no 8º (Prática de docência em língua estrangeira 1: Anglogermânicas) e no 9º (Prática de docência em língua estrangeira 2: Anglogermânicas). Esse componente situa-se no Eixo da Formação Pedagógica, sendo regulamentado pela Resolução nº 46/10 — CEPE (Conselho de Ensino, Pesquisa e Extensão). Conforme o Regulamento do curso de Letras Inglês, Art. 2º, “O estágio conceituado como elemento curricular de caráter formador e como um ato educativo supervisionado, previsto para o Curso de Licenciatura em Letras Inglês, deve estar em consonância com a definição do perfil do/a profissional egresso/a, bem como com os objetivos para a sua formação propostos no Projeto Pedagógico do Curso”. Trata-se de componente obrigatório e com total de 255h. De acordo com o Art. 3º do Regulamento, “O objetivo das duas modalidades de estágio previstas no Art. 1º é de viabilizar ao/à aluno/a o aprimoramento técnico-científico na formação inicial de professores/as de Inglês, mediante a análise e a solução de problemas concretos em condições reais de trabalho, por intermédio de situações relacionadas à natureza e especificidade do curso e da aplicação dos conhecimentos teóricos e práticos adquiridos nas diversas disciplinas previstas no Projeto Pedagógico do Curso”. O documento normatiza ainda que “Em conformidade com a Resolução nº 46/10-CEPE, todos os estágios devem ser acompanhados e orientados por um/a professor/a vinculado ao Curso de Licenciatura em Letras Inglês e por profissional da área (ou de área afim) da Concedente do Estágio, seja na modalidade de obrigatório ou não obrigatório. A orientação de estágio deve ser entendida como assessoria dada ao/à aluno/a no decorrer de sua prática profissional por docente da UFPR, de forma a proporcionar o pleno desempenho de ações, princípios e valores inerentes à realidade da profissão de professor/a de inglês. Foram apensados ao drive os documentos que comprovam convênios com locais de estágio, como o Instituto Municipal de Administração Pública (IMAP), a Secretaria de Estado da Administração e da Previdência, a Secretaria de Estado da Educação e do Esporte e a Secretaria Municipal da Educação de Curitiba. Os registros das experiências no Estágio, conforme as fontes documentais disponibilizadas, são feitos em Relatórios de Estágio (modelos da PROGRAD). Um destaque importante nesse indicador é dado ao depoimento dos estudantes que participaram do encontro com a comissão avaliadora, os quais mencionaram uma excessiva burocratização para a entrada nos ambientes de Estágio, fato comprovado também nos documentos oriundos da CPA. A TES realizou, em 2024, o XI Seminário de Prática de Ensino, evento que visa a promover a troca de conhecimentos e práticas pedagógicas desenvolvidas por discentes de Licenciatura da UFPR durante seus estágios, propiciando a apresentação de trabalhos em dois formatos: roda de conversa e exposição de poster e/ou material didático Não se identificaram registros de práticas inovadoras para a gestão da relação entre a IES e a rede de escolas da Educação Básica.
+      #egresso #prática #pedagógico
 
 
   LOCALIZAÇÃO/SETOR: Campus Jandaia Do Sul (Qtd: 1)
   ------------------------------
     [Nota: 4,00] Ciências Exatas Quimica (Licenciatura) - ID: 2275330
       Todavia, não foram encontradas evidências documentais de participação em conselhos de classe/reuniões de professores dentros das escolas. E também não foram localizadas evidências de práticas inovadoras de gestão da relação entre a IES e a rede de escolas (como fóruns permanentes, planos de ação conjuntos, devolutivas formais etc.).
+      #prática
 
 ================================================================================
 
@@ -294,12 +332,14 @@ Termos Frequentes: práticas(18), estágio(13), atividades(9), desenvolvimento(8
   ------------------------------
     [Nota: 4,00] LETRAS INGLÊS (Licenciatura) - ID: 2322586
       No entanto, não evidencia práticas comprovadamente exitosas ou inovadoras, motivo pelo qual o item sustenta conceito 4.
+      #prática
 
 
   LOCALIZAÇÃO/SETOR: Campus Jandaia Do Sul (Qtd: 1)
   ------------------------------
     [Nota: 4,00] Ciências Exatas Quimica (Licenciatura) - ID: 2275330
       O estágio curricular supervisionado é desenvolvido de forma a aproximar os licenciandos da realidade escolar, favorecendo a integração entre os conhecimentos adquiridos ao longo do curso e as práticas efetivas de sala de aula. A organização das atividades permite que o estudante vivencie o processo de transformar conceitos acadêmicos em conteúdos acessíveis ao ensino médio, a partir do acompanhamento e orientação dos docentes universitários e da interação com professores da rede básica. Foi verificado que o estágio mantém conexão direta com componentes curriculares voltados ao ensino de Química, possibilitando ao futuro professor analisar situações escolares de maneira crítica e propor estratégias que rompem com modelos tradicionais de transmissão de conteúdos. Durante a visita in loco, constatou-se a existência de um espaço específico para apoio às atividades do estágio, composto por armários, mesa ampla e cadeiras, utilizado pelos licenciandos para preparar e armazenar materiais didáticos. Em diálogo com a professora da área de Ensino de Química, foi relatado que os alunos são incentivados a elaborar recursos práticos que posteriormente são aplicados em escolas parceiras, reforçando o vínculo entre a formação teórica e a vivência no campo de atuação. Assim, é possível identificar: coerência entre a formação acadêmica e as experiências escolares; fundamentação conceitual que subsidia o planejamento das atividades; participação dos licenciandos em momentos de preparação, execução e análise junto aos professores da Educação Básica; estímulo à reflexão crítica sobre as práticas desenvolvidas; produção e utilização de materiais didáticos, com suporte de infraestrutura adequada para essa finalidade. Não foram encontradas evidências documentais de experiências inovadoras sistematizadas ou de registro de práticas exitosas que pudessem ampliar a avaliação
+      #prática #acompanhamento #infraestrutura
 
 
   LOCALIZAÇÃO/SETOR: Centro Politécnico (Qtd: 1)
@@ -325,15 +365,18 @@ Termos Frequentes: atividades(42), formativas(25), complementares(13), extensão
 
     [Nota: 4,00] CIÊNCIA DA COMPUTAÇÃO (Bacharelado) - ID: 2287830
       As Atividades Complementares do curso são concebidas na Matriz Curricular como Atividades Formativas, com carga horária de 140 (cento e quarenta)  horas, com sistema de pontuação voltado à participação dos alunos em atividades diversas de ensino, pesquisa e extensão, a serem integralizadas pelos alunos ao longo do curso. No PPC, são concebidas atividades formativas complementares, que devem contemplar a articulação entre o ensino, pesquisa e extensão, assegurando seu caráter interdisciplinar em relação às diversas áreas do conhecimento (PPC, p. 10). De forma regulamentada, são consideradas Atividades Formativas para o curso: estágios não obrigatórios, atividades de monitorias, participação em projetos de iniciação científica e extensão, seminários e atividades culturais; e, disciplinas eletivas, entre outras. A documentação apresentada e as reuniões da comissão de avaliação com os docentes e alunos, demonstraram que, as atividades complementares estão institucionalizadas, com carga horária definida, contam com diversidade de atividades e de formas de registro, acompanhamento e aproveitamento, conforme descritas no PPC e possuem aderência à formação geral e específica do curso. Ademais, não foram identificados mecanismos que possam ser considerados comprovadamente exitosos ou inovadores na sua regulação, gestão e aproveitamento.
+      #ppc #acompanhamento #documentação
 
     [Nota: 4,00] GEOGRAFIA (Licenciatura) - ID: 2299015
       As Atividades Complementares estão previstas e detalhadas no PPC, encontram-se regulamentadas na UFPR pela Resolução nº 70/04-CEPE com a denominação de Atividades Formativas. Contemplam 200 horas e são reconhecidas e avaliadas pelo Colegiado do Curso mediante documentação comprobatória. Essas atividades devem ser distribuídas em pelo menos 03 dos seguintes grupos: a) Atividades de ensino (monitoria, PET, disciplinas eletivas, oficinas  didáticas, educação a distância, projetos vinculados à Licenciatura, e outras); b) Atividades de pesquisa e inovação (projetos de pesquisa, iniciação científica, produtos e outras); c) Atividades de extensão e cultura (projetos e cursos de extensão e cultura, ações de voluntariado, participação em programas e projetos institucionais, e outras); d) Atividades voltadas à profissionalização (estágios não obrigatórios, participação em Empresa Júnior reconhecida formalmente como tal pela UFPR e outras); e) Atividades de representação (membro de comissão, representação acadêmica em conselhos, e outras); f) Eventos acadêmico-científicos (seminários, jornadas, congressos, simpósios e outros). O PPC destaca o caráter formativo geral e específico e, também, interdisciplinar, que caracterizam e fundamentam essas atividades, sendo essenciais tanto para o Bacharelado, quanto para a Licenciatura, o que facilita a equivalência da carga horária quando da conclusão das duas formações. Nesse contexto, não foram observadas evidências que descrevam mecanismos comprovadamente exitosos ou inovadores na sua regulação, gestão e aproveitamento.
+      #inovação #ppc #documentação
 
 
   LOCALIZAÇÃO/SETOR: Campus Litoral (Qtd: 2)
   ------------------------------
     [Nota: 4,00] EDUCAÇÃO DO CAMPO / CIÊNCIAS DA NATUREZA (Licenciatura) - ID: 2275324
       Por meio da análise das documentações (PDI 2022-2026, PPC 2014, PPC 2023, atas de CPA, atas de reunião de colegiado, atas de reunião de NDE, demais documentos apensado no drive), das reuniões com corpo dirigente, NDE, docentes e discentes, e das conversas realizadas durante a visita as instalações, foi possível identificar em documentos apresentados pela IES que as atividades complementares estão institucionalizadas e consideram a carga horária, a diversidade de atividades e de formas de aproveitamento e a aderência à formação geral e específica do discente está descrita no PPC do curso, considerando que o ppc do curso é datado do ano de 2023. 4
+      #ppc
 
     [Nota: 4,00] AGROECOLOGIA (Tecnólogo) - ID: 2369362
       Contudo, não foram apresentadas evidências de mecanismos comprovadamente exitosos ou inovadores na sua regulação, gestão e aproveitamento.
@@ -369,6 +412,7 @@ Termos Frequentes: apoio(7), acadêmico(7), ações(6), programas(5), monitoria(
   ------------------------------
     [Nota: 4,00] GEOLOGIA (Bacharelado) - ID: 2251355
       No entanto, não foram identificadas evidências de ações sistemáticas de nivelamento acadêmico implementadas no curso, como cursos introdutórios ou atividades de reforço voltadas à superação de defasagens em conteúdos fundamentais. Além disso, embora a UFPR mantenha convênios nacionais e internacionais para intercâmbio estudantil, nenhum aluno do curso de Geologia participou desses programas até o momento, o que indica uma lacuna na efetividade desse mecanismo como ferramenta de internacionalização e desenvolvimento discente no contexto do curso. Ainda que a instituição disponha da Superintendência de Inclusão, Políticas Afirmativas e Diversidade (SIPAD), não foram encontradas evidências de que o curso conte com atendimento educacional especializado efetivo e estruturado para estudantes com deficiência ou outras necessidades específicas, como acompanhamento individualizado, tutoria especializada ou adaptações sistemáticas nos materiais e avaliações.
+      #acompanhamento
 
 
   LOCALIZAÇÃO/SETOR: Centro Politécnico (Qtd: 1)
@@ -388,18 +432,21 @@ Termos Frequentes: avaliação(25), resultados(13), processo(13), realizadas(13)
   ------------------------------
     [Nota: 4,00] GEOGRAFIA (Licenciatura) - ID: 2299015
       Entretanto, ainda não foi implantada no Curso, formas objetivas de auto avaliações periódicas. Há, no curso, evidências da apropriação dos resultados das avaliações institucionais periódicas pela comunidade acadêmica as quais foram relatadas durante as diversas reuniões realizadas. A UFPR tem um processo de avaliação bem consolidado e vem aperfeiçoando o seu sistema, observou-se, durante a reunião e nos documentos analisados, que a CPA institucional foi criada em consonância à legislação federal, e vem realizando um rigoroso trabalho de auto avaliação institucional, e que abrange, também, a avaliação periódica do curso. Contudo, a adesão dos alunos do Curso de Licenciatura em Geografia, no processo avaliativo, ainda é baixa. A Comissão Setorial vem atuando juntamente com a CPA, o que evidencia a apropriação dos resultados e que acaba agilizando a resolução dos problemas detectados nas avaliações periódicas. Porém, conforme observado na reunião com os discentes, não foram observadas evidências que confirmem a existência do acompanhamento continuado do processo de autoavaliação periódica específico para a Geografia.
+      #acompanhamento #autoavaliação
 
 
   LOCALIZAÇÃO/SETOR: Campus  Reitoria (Qtd: 1)
   ------------------------------
     [Nota: 4,00] LETRAS INGLÊS (Licenciatura) - ID: 2322586
       Todavia, destaca-se que a participação de discentes é reduzido na nas avaliações, a gestão reconhece essa limitação e vem implementando ações de sensibilização e ajustes metodológicos para ampliar a representatiidade e a utilidade dos dados. Ademais, registra-se que durante as entrevistas realizadas com os discentes, foram relatadas dificuldades quanto à compreensão e localização da posição na trajetória de formação eventualmente estavam pontuando que em razão das disciplinas serem realizadas em colaboração com outros cursos de Letras da UFPR, ocorreria uma certa falta de clareza para os alunos. Neste sentido, verifica-se que a avaliação dos discentes e seus anseiosnão estariam sendo objeto de escuta efetiva para aprimoramento da estrutura do curso; sendo certo que tal circunstância precisa ser mais bem examinada pela gestão do curso.
+      #dados
 
 
   LOCALIZAÇÃO/SETOR: Campus Jandaia Do Sul (Qtd: 1)
   ------------------------------
     [Nota: 4,00] Ciências Exatas Quimica (Licenciatura) - ID: 2275330
       Entretanto, devido ao arranjo de Área Básica de Ingresso (ABI), os dados disponibilizados pela CPA referem-se de forma agregada à Licenciatura em Ciências Exatas, sem individualização completa para a habilitação em Química. Além disso, o curso ainda possui número reduzido de egressos (seis formados) e não há resultados do ENADE referentes ao último triênio. Tais fatores limitam a comprovação da existência de um processo sistemático e periódico de autoavaliação específico da habilitação em Química. Dessa forma, embora existam registros de participação em avaliações institucionais, análises críticas pontuais e encaminhamentos formais, não foi identificada a existência de processo de autoavaliação periódica exclusivo do curso de Licenciatura em Ciências Exatas — Química.
+      #egresso #dados #autoavaliação
 
 
   LOCALIZAÇÃO/SETOR: Campus Litoral (Qtd: 1)
@@ -412,6 +459,7 @@ Termos Frequentes: avaliação(25), resultados(13), processo(13), realizadas(13)
   ------------------------------
     [Nota: 3,00] Produção Cultural (Tecnologia) - ID: 2412913
       No entanto, apesar dos planos de ação do coordenador, o fato de não haver descritos nos planos indicadores mensuráveis, vitais para avaliar competências, permitindo quantificar o desempenho, fornecendo dados concretos paratomar decisões, não foi possível localizar evidências claras da apropriação dos resultados pela comunidade acadêmica apesar da existência de processo de autoavaliação periódica do curso.
+      #indicadores #dados #autoavaliação
 
 ================================================================================
 
@@ -425,18 +473,21 @@ Termos Frequentes: atividades(12), tutoria(8), docentes(6), pedagógica(6), moda
   ------------------------------
     [Nota: 3,00] GEOLOGIA (Bacharelado) - ID: 2251355
       No entanto, em disciplinas optativas com oferta parcial na modalidade Ea D, como Paleobotânica Aplicada e Paleoecologia, foram identificadas atividades de tutoria efetivas exercidas pelos docentes responsáveis, caracterizando ações regulares de mediação pedagógica. Essas atividades de tutoria ocorrem em ambiente virtual de aprendizagem (UFPR Virtual), com apoio por meio de fóruns de dúvidas, mensagens assíncronas, uso complementar de aplicativos de comunicação e previsão de horários fixos para atendimento presencial e remoto. A disciplina GC084 — Paleobotânica Aplicada, por exemplo, apresenta um planejamento detalhado de atividades híbridas, que integram metodologias ativas e recursos tecnológicos (realidade aumentada, afloramentos virtuais, jogos e fóruns temáticos), sendo o professor responsável capacitado em tutoria Ea D e com atuação contínua no AVA da instituição. Os relatórios de fechamento das turmas de 2023 e 2024 demonstram acompanhamento docente ativo e resultados positivos de aprendizagem. Contudo, não há evidência de avaliação sistemática das atividades de tutoria pelos estudantes ou pela equipe pedagógica, tampouco da utilização desses resultados para ações corretivas ou de aperfeiçoamento planejado.
+      #metodologia #acompanhamento
 
 
   LOCALIZAÇÃO/SETOR: Campus Jandaia Do Sul (Qtd: 1)
   ------------------------------
     [Nota: 3,00] Ciências Exatas Quimica (Licenciatura) - ID: 2275330
       Entretanto, não há evidências documentadas avaliações periódicas voltadas à identificação de fragilidades ou ao aprimoramento da comunicação e do acompanhamento entre os interlocutores, para o curso de LCE-química. Os discentes confirmaram que as atividades a distância são acompanhadas diretamente pelos docentes do curso, sem tutores específicos contratados, e que o apoio institucional da Cipead e do NTE-Teia está voltado à tecnologia e não à tutoria acadêmica em Química. Assim, verifica-se que as atividades de tutoria são realizadas pelo docentes do curso, porém sem mecanismos formais de avaliação continuada. 3
+      #acompanhamento #tecnologia
 
 
   LOCALIZAÇÃO/SETOR: Campus Litoral (Qtd: 1)
   ------------------------------
     [Nota: 1,00] AGROECOLOGIA (Tecnólogo) - ID: 2369362
       Conforme PPC, existem 3 unidades curriculares com parte da CH na modalidade Ea D: - Ruralidades: Vivências I: CH total 90h — CH Ea D 30h - Instrumentos de interação com comunidades: Vivências II - CH total 90h — CH Ea D 60h - Desenvolvimento Local: Vivências II CH total 90h — CH Ea D 30h Soma da CH Ea D: 120h A comissão de avaliadores realizou reunião com a equipe multidisciplinar que explicou toda a metodologia institucional para realização de CH Ea D, na qual foram mencionados os aspectos metodológicos, técnicos e operacionais relacionados ao AVA (moodle), software de aulas síncronas (google meet) e a plataforma de gerenciamento de atividades acadêmicas (SIGAA). Também foi dito que que no caso de cursos presenciais da UFPR, a tutoria é uma responsabilidade acumulada pelos próprios docentes das respectivas disciplinas com CH Ea D. Dito isto, é importante destacar que efetivamente as aulas Ea D no âmbito do CST em Agroecologia não estão sendo realizadas neste formato. Conforme a coordenadora do curso, na prática, a CH definida como Ea D, está sendo executada de forma presencial, atendendo solicitação dos próprios alunos. Ademais, em reunião que a comissão de avaliadores realizou com o NDE, pretende-se alterar o PPC, excluindo totalmente a modalidade Ea D. Nesse sentido, como o atual PPC contém essa estratégia, a eventual mediação pedagógica professor-tutor-discente não tem sido efetivada.
+      #metodologia #prática #ppc
 
 ================================================================================
 
@@ -456,12 +507,14 @@ Termos Frequentes: disciplinas(9), híbrida(8), tutoria(7), docentes(7), tutores
   ------------------------------
     [Nota: 3,00] Ciências Exatas Quimica (Licenciatura) - ID: 2275330
       O curso de Licenciatura em Ciências Exatas — Química possui 3.250 horas totais, sendo 266 horas (8,34%) ofertadas na modalidade Ea D, conforme Portaria nº 2.117/2019 do MEC e Resolução nº 72/10-CEPE da UFPR. O Art. 5º da Resolução nº 72/10-CEPE estabelece que o professor-tutor deve realizar capacitação em Ea D ou comprovar experiência na área. Foram apresentadas evidências de capacitações realizadas por docentes entre 2018 e 2020, incluindo a participação no curso “Educação Híbrida”, com carga horária de 45 horas, ofertado pela UFPR/Cipead. Entre os registros localizados (drive), constam certificados de docentes do campus, como: Janete De Paula Ferrareze Silva — Curso Educação Híbrida, 45h, realizado entre 18/06/2018 e 12/08/2018; William Junior do Nascimento — Curso Educação Híbrida — Turma 3, 45h, realizado entre 04/11/2019 e 02/03/2020. Esses cursos abordaram conteúdos como ambientação no Moodle, definição e modelos de educação híbrida, planejamento de disciplinas, resoluções vigentes na UFPR, estratégias e recursos digitais para a docência on-line. Segundo os documentos disponibilizados, entre 2018 e 2020, dez docentes do curso realizaram essa capacitação, promovida pela Cipead e pela Unidade de Capacitação e Qualificação da UFPR. Além disso, foi apresentado um relatório de fechamento de disciplinas ofertada com carga Ea D, que comprovam a efetiva utilização de recursos de ensino híbrido. O Relatório de Fechamento do Período Especial 2 (2020) da disciplina Física HI (JCE029), com 72 horas de carga, evidencia a oferta de atividades a distância mediadas por docente do curso. No plano institucional, a UFPR mantém a Cipead, que organiza cursos e materiais de apoio voltados à formação em Ea D e ensino híbrido, além de gerir a plataforma UFPR Virtual (Moodle institucional). O campus de Jandaia do Sul conta ainda com o NTE-Teia, que apoia a inclusão de tecnologias digitais no ensino, extensão e pesquisa, com ações de suporte ao uso de ferramentas digitais e organização de oficinas. No curso, os próprios docentes das disciplinas atuam também como tutores nas unidades com carga Ea D, assegurando acompanhamento pedagógico alinhado à área de conhecimento. Essa prática é apoiada pelo Programa Institucional de Monitoria (PIM), que auxilia na mediação pedagógica em disciplinas com Ea D parcial, contribuindo tanto para a formação do discente-monitor quanto para a integração das TIC nas práticas de ensino. Apesar dessas evidências, não foram apresentados documentos que comprovem a existência de planejamento formalizado para a interação entre docentes-tutores, coordenação e estudantes, tampouco registros de avaliações periódicas específicas das atividades de tutoria, voltadas à identificação de fragilidades ou ao aprimoramento da comunicação no curso. Assim, constata-se que alguns docentes possuem capacitação de 45 horas, contam com apoio institucional (Cipead, NTE-Teia, UFPR Virtual, PIM) e atuam diretamente como tutores das disciplinas híbridas.
+      #prática #acompanhamento #pedagógico #tecnologia
 
 
   LOCALIZAÇÃO/SETOR: Campus Litoral (Qtd: 1)
   ------------------------------
     [Nota: 1,00] AGROECOLOGIA (Tecnólogo) - ID: 2369362
       Contudo, as aulas Ea D no âmbito do CST em Agroecologia não estão sendo realizadas neste formato. Conforme a coordenadora do curso, na prática, a CH definida como Ea D, está sendo executada de forma presencial, atendendo solicitação dos próprios alunos. Ademais, em reunião que a comissão de avaliadores realizou com o NDE, pretende-se alterar o PPC, excluindo totalmente a modalidade Ea D. Nesse sentido, como o atual PPC contém essa estratégia, as habilidades e atitudes da equipe de tutoria não pode ser mensurada quanto ao alinhamento das prerrogativas do próprio PPC. Com efeito, na reunião com a equipe multidisciplinar, ficou demonstrada a existência das TICs no âmbito da UFPR. l
+      #prática #ppc
 
 ================================================================================
 
@@ -475,18 +528,22 @@ Termos Frequentes: utilizadas(9), docentes(8), virtual(8), conta(7), plataformas
   ------------------------------
     [Nota: 4,00] MATEMÁTICA (Licenciatura) - ID: 2289301
       Conforme o PPC (p.23) Sistema E-MEC - ... quanto às plataformas digitais utilizadas no ensino, são amplamente utilizadas pelas/os docentes do curso, cada uma desempenhando um papel fundamental no apoio às atividades acadêmicas: Microsoft Teams: Esta plataforma é utilizada para a realização de aulas síncronas, permitindo a interação em tempo real entre docentes e discentes. Além disso, a ferramenta facilita o trabalho colaborativo por meio de grupos de estudo e a comunicação direta com professores/as, promovendo maior dinamismo nas aulas; e Moodle/UFPR Virtual: Ambas as plataformas funcionam como ambientes virtuais de aprendizagem, onde são disponibilizados materiais didáticos, atividades avaliativas, fóruns de discussão e quizzes. O Moodle/UFPR Virtual serve como base para o acompanhamento contínuo das disciplinas, oferecendo um espaço integrado para a interação com conteúdos e docentes. Na reunião realizada no dia 02/04/2025 com os doze (12) discentes presentes, os mesmos não conseguiram destacar ações docentes que pudessem propiciar experiências diferenciadas de aprendizagem. O software “Geogebra” foi o único citado com destaque, tanto pelos docentes como pelos discentes.
+      #acompanhamento #ppc
 
     [Nota: 4,00] GEOGRAFIA (Licenciatura) - ID: 2299015
       Como trata-se de curso na modalidade Presencial o uso das TICs adotadas no processo de ensino-aprendizagem é moderada, pois a execução do projeto pedagógico do curso independe do uso do AVA. Desse modo, as TICs utilizadas no curso estão contidas no SIGAA (acadêmico), o Sistema Pergamum (biblioteca) e, também, as plataformas (Teams e UFPR Virtual) usadas por alguns docentes que permitem postagens de vídeo aulas como reforço aos temas abordados em sala de aula, auxiliando no processo ensino-aprendizagem. Conjugado a esses sistemas, é utilizado, também, grupos de Whats App durante o desenvolvimento das disciplinas, os quais contribuem para agilizar a comunicação. Os alunos contam também com Wi Fi institucional. Durante a visita aos laboratórios mais vinculados ao curso de bacharelado, observou-se o uso de diversas tecnologias vinculadas as diversas áreas propiciando a interdisciplinaridade no processo ensino-aprendizagem, além de garantir a acessibilidade digital, também aos alunos da licenciatura, quando houver interesse. Destaca-se no Curso de Licenciatura os 03 (três) Laboratórios de Informática que oferecem computadores para uso acadêmico e que conta com todo  suporte técnico necessário. Não foram observadas evidências que comprovem experiências diferenciadas e inovadoras no processo de aprendizagem.
+      #biblioteca #laboratório #acessibilidade #dados #pedagógico #tecnologia
 
     [Nota: 4,00] CIÊNCIAS BIOLÓGICAS (Licenciatura) - ID: 2323769
       A universidade conta com a plataforma UFPR Virtual, ambiente interativo que utiliza o Moodle como base, no qual são disy demais recursos pedagógicos. Em reunião com o corpo docente, foram relatados o uso e a apropriação da plataforma pelos professores. Da mesma forma, « utilização regular do ambiente virtual. Além disso, a universidade emprega o Microsoft Teams como uma das principais vias de comunicação entre estudar complementar de e-mail e, eventualmente, de aplicativos de mensagens como o Whats App. Os materiais e recursos didáticos podem ser acessados a qualq conexão à internet. Os estudantes têm acesso irrestrito à rede wi-fi tanto no campus sede quanto nas demais unidades. Destaca-se, ainda, a infraestrutura te que conta com ambientes como a Sala de Tecnologias Educacionais — equipada com TV de retorno, lousa digital, microfones, câmeras gravação, mobiliá Gravações, dotada de equipamentos para a produção de aulas assíncronas, estúdio com chroma key, espaço cenográfico e estrutura voltada à gravação de p uma vez que não foi evidenciada a garantia de acessibilidade digital plena para estudantes com deficiência (visual, auditiva, motora, entre outras) nos amb observadas ferramentas compatíveis com leitores de tela, legendas, tradução em Libras, navegação acessível ou outros recursos que promovam experiêncis
+      #equipamentos #acessibilidade #pedagógico #infraestrutura #tecnologia
 
 
   LOCALIZAÇÃO/SETOR: Campus Litoral (Qtd: 2)
   ------------------------------
     [Nota: 4,00] EDUCAÇÃO DO CAMPO / CIÊNCIAS DA NATUREZA (Licenciatura) - ID: 2275324
       Por meio da análise das documentações (PDI 2022-2026, PPC 2014, PPC 2023, atas de CPA, atas de reunião de colegiado, atas de reunião de NDE, demais documentos apensado no drive), das reuniões com corpo dirigente, NDE, docentes e discentes, e das conversas realizadas durante a visita as instalações em especial Biblioteca, As  tecnologias de informação e comunicação adotadas no processo de ensino aprendizagem permitem a execução do projeto pedagógico do curso, garantem a acessibilidade digital e comunicacional, promovem a interatividade entre docentes, discentes e asseguram o acesso a materiais ou recursos didáticos a qualquer hora e lugar, como apresentado no setor de biblioteca que demonstrou que o estudante pode baixar o livro que precisa e ler de forma offline. Também foi apresentado durante a visita virtual aos espaços da TES, a existência de um laboratório de informática, que pode ser utilizado tanto pelos professores e estudantes durante execução de atividades do curso, como pelos estudantes para pesquisas. Também foi apresentado o sistema que o estudante utiliza para verificar notas e outras informações sobre sua vida acadêmica, e a disponibilidade de computador a disposição dos estudantes para essa pesquisa.
+      #biblioteca #laboratório #ppc #acessibilidade #pedagógico #tecnologia
 
     [Nota: 4,00] AGROECOLOGIA (Tecnólogo) - ID: 2369362
       No entanto não há evidências de experiências diferenciadas de aprendizagem baseadas em seu uso.
@@ -503,18 +560,21 @@ Termos Frequentes: avaliações(8), recursos(7), realização(7), virtual(6), v�
   ------------------------------
     [Nota: 3,00] GEOLOGIA (Bacharelado) - ID: 2251355
       No entanto, não há evidências de que o AVA, no âmbito do curso, seja objeto de avaliações periódicas específicas e documentadas que gerem ações de melhoria continua com base em indicadores de desempenho, participação discente ou usabilidade.
+      #indicadores
 
 
   LOCALIZAÇÃO/SETOR: Campus Jandaia Do Sul (Qtd: 1)
   ------------------------------
     [Nota: 3,00] Ciências Exatas Quimica (Licenciatura) - ID: 2275330
       Entretanto, não foram localizadas evidências documentais que comprovem a realização de avaliações periódicas específicas do AVA no curso de Licenciatura em Ciências Exatas — Química, tampouco registros de ações de melhoria contínua decorrentes desse processo. Dessa forma, há comprovação de que o AVA apresenta materiais, recursos e tecnologias adequados, possibilitando cooperação entre docentes, discentes e tutores, bem como reflexão sobre conteúdos e acessibilidade metodológica, instrumental e comunicacional.
+      #acessibilidade #tecnologia
 
 
   LOCALIZAÇÃO/SETOR: Campus Litoral (Qtd: 1)
   ------------------------------
     [Nota: 3,00] AGROECOLOGIA (Tecnólogo) - ID: 2369362
       Contudo, conforme apontado, a CH Ea D prevista em PPC está sendo realizada presencialmente, de modo que não foi verificado documentação referente às avaliações periódicas. 3
+      #ppc #documentação
 
 ================================================================================
 
@@ -528,12 +588,14 @@ Termos Frequentes: didático(7), material(6), virtuais(6), disciplinas(5), apres
   ------------------------------
     [Nota: 2,00] GEOLOGIA (Bacharelado) - ID: 2251355
       No entanto, não foram identificadas evidências de que o material didático desenvolvido para essas disciplinas tenha sido submetido a validação por equipe multidisciplinar, nem que exista um processo sistemático de avaliação quanto à abrangência, aprofundamento conceitual, coerência teórica, linguagem inclusiva ou acessibilidade metodológica, conforme exigido para os conceitos mais altos deste indicador. Além disso, não há descrição no PPC sobre uma política clara e permanente de desenvolvimento, avaliação e repositório de materiais didáticos do curso, o que compromete a padronização e a consistência da oferta.
+      #acessibilidade #ppc
 
 
   LOCALIZAÇÃO/SETOR: Campus Litoral (Qtd: 1)
   ------------------------------
     [Nota: 3,00] AGROECOLOGIA (Tecnólogo) - ID: 2369362
       Contudo, as disciplinas nessa condição estão sendo realizadas totalmente de forma presencial. O material didático apresentado na visita virtual in loco refere-se à biblioteca física, acesso às plataformas virtuais, periódicos da própria UFPR, repositório digital institucional (teses, dissertações, TCCs etc). Contudo, não se verificam evidências de linguagem inclusiva e acessível.
+      #biblioteca
 
 ================================================================================
 
@@ -550,12 +612,15 @@ Termos Frequentes: avaliação(44), processo(19), disciplinas(17), formativa(17)
 
     [Nota: 4,00] MATEMÁTICA INDUSTRIAL (Bacharelado) - ID: 2251358
       A análise dos documentos disponibilizados e relatos dos docentes e discentes em reuniões realizadas, evidenciou que os procedimentos, técnicas e estratégias utilizadas para o acompanhamento do processo de ensino-aprendizagem e de avaliação dos estudantes, atendem à concepção do curso definida no PPC, possibilitando ao professor a utilização de uma diversidade de ações educativas e de verificação do aprendizado e favorecendo o atendimento aos diferentes modos de aprender e a autonomia discente de forma contínua e efetiva. Os processos avaliativos são sistematizados e disponibilizados aos estudantes. A comissão constatou que há a utilização de uma diversidade de instrumentos, não se limitando apenas a testes, exames e provas. Os procedimentos de acompanhamento e de avaliação são ações inclusivas, predominantemente formativas, propiciando ao discente, reflexões sobre o conhecimento adquirido e sua evolução no aprendizado dos conteúdos estudados nas disciplinas do curso.
+      #acompanhamento #dados #ppc
 
     [Nota: 4,00] MATEMÁTICA (Licenciatura) - ID: 2289301
       Conforme o PPC (p.19) Sistema E-MEC - A avaliação do projeto vigente foi feita por meio de questionários para alunos, ex-alunos e professores. Nestes questionários foram feitas questões sobre a carga horária dedicada às disciplinas específicas de Matemática, áreas afins e processo seletivo. Sobre a dedicação dos alunos ao curso, por exemplo, o tempo de estudo que os estudantes dedicam aos estudos fora da sala de aula e sobre a relação professor-aluno e aluno-conhecimento. Não foram apresentados nos documentos compartilhados no drive pela IES, no PPC e no PDI indícios que comprovem a existência de mecanismos que garantam ações concretas com melhorias efetivas da aprendizagem em função das avaliações que foram realizadas.
+      #ppc
 
     [Nota: 4,00] GEOGRAFIA (Licenciatura) - ID: 2299015
       A UFPR estabelece normas para a avaliação das atividades didáticas e o Curso de Geografia segue as referidas normas vigentes. Ao longo do período letivo, segundo o plano de ensino, os estudantes realizam em cada disciplina no mínimo, duas avaliações formais, sendo pelo menos uma escrita. A aprovação na disciplina dependerá do resultado das avaliações realizadas, sendo o resultado global expresso de zero a cem. Nas disciplinas relacionadas ao Estágio e Trabalho de Conclusão de Curso - TCC, o estudante será aprovado por média quando alcançar, no total do período letivo, frequência mínima de 75% da carga horária inerente à disciplina e obtiver, no mínimo, grau numérico 70 de média aritmética no conjunto de provas e outras tarefas realizadas pela disciplina. O estudante que não obtiver a média prevista deverá prestar exame final, desde que alcance a frequência mínima exigida e média não inferior a 40. No exame final será aprovado na disciplina aquele que obtiver grau numérico igual ou superior a 50 na média aritmética, entre o grau do exame final e a média do conjunto das avaliações realizadas. Os docentes têm a liberdades de introduzir outras estratégias de avaliações (seminários, projetos, relatórios, artigos, entre outros) desde que devidamente registradas no Plano de Ensino. Podem ocorrer ainda que nas disciplinas cujo Plano de Ensino preveja que a sua avaliação resulte exclusivamente da produção de projeto(s) pelo(s) estudante(s), serão condições de avaliação. Avaliando os Planos de Ensino e o PPC, fica evidenciado que os procedimentos de acompanhamento e avaliação atendem à concepção do curso e permitem o desenvolvimento e autonomia discente de forma contínua e resultam em informações que estão disponíveis aos estudantes. mantendo mecanismos que garantam sua natureza formativa. Não foram observadas evidências que descrevam ações concretas para a melhoria da aprendizagem em função das avaliações realizadas.
+      #acompanhamento #ppc
 
 
   LOCALIZAÇÃO/SETOR: Campus  Reitoria (Qtd: 1)
@@ -568,12 +633,14 @@ Termos Frequentes: avaliação(44), processo(19), disciplinas(17), formativa(17)
   ------------------------------
     [Nota: 4,00] Ciências Exatas Quimica (Licenciatura) - ID: 2275330
       Mas incorpora devolutivas pedagógicas consistentes, alinhadas ao caráter formativo e regulador do processo de ensino. Portanto, há consistência normativa (Resolução CEPE), sistemas institucionais de registro e transparência (SIGA e UFPR Aberta) e práticas pedagógicas inovadoras (feedbacks digitais no UFPR Virtual). Entretanto, não foram apresentadas evidências robustas de acompanhamento sistemático de impacto pedagógico dessas práticas (ex.: relatórios analíticos de desempenho por turma, ações corretivas institucionais a partir de indicadores de avaliação). Isso limita a atribuição de conceito máximo. Nas atas do NDE, reunião com o corpo docente e coordenação de curso foi possível observar discussões a respieto das disciplinas que tinham uma maior retenção no curso de licenciatura em ciencias exatas, e na reestruturação do curso de LCE- química eles alteraram a seriação de algumas destas disciplinas, colocando estas disciplinas mais para frente. Em relação as políticas institucionais de intervenção baseadas nos dados de avaliação o curso oferece monitorias (como programas de reforço).
+      #prática #acompanhamento #feedback #dados #pedagógico #indicadores
 
 
   LOCALIZAÇÃO/SETOR: Campus Reitoria (Qtd: 1)
   ------------------------------
     [Nota: 4,00] LETRAS PORTUGUÊS (Bacharelado) - ID: 2324555
       0s procedimentos de acompanhamento e de avaliação permitem o desenvolvimento e a autonomia do aluno de forma contir IES entende ser um mecanismo de desenvolvimento do pensamento crítico, pois permite ao aluno vivenciar experiências curriculares e extracurriculares cc
+      #acompanhamento
 
 
   LOCALIZAÇÃO/SETOR: Juvevê (Qtd: 1)
@@ -593,42 +660,50 @@ Termos Frequentes: vagas(25), número(20), ofertadas(10), apresentados(10), dado
   ------------------------------
     [Nota: 4,00] MATEMÁTICA INDUSTRIAL (Bacharelado) - ID: 2251358
       Documentos inseridos pela IES no drive e informações obtidas em reuniões indicam que o número de vagas ofertadas se justifica pelo desempenho econômico do estado do Paraná que tem demandado a formação de profissionais para atuação, principalmente, na indústria. Dados dos documentos analisados asseveram que os egressos “formados no curso de Matemática Industrial podem contribuir diretamente para a inovação em importantes da economia paranaense, aplicando modelos matemáticos na previsão de comportamentos de culturas agrícolas, otimização de processos produtivos e melhoria do controle de qualidade industrial”. Também está descrito que o curso de Matemática Industrial se destaca pelo seu potencial de empregabilidade e versatilidade dos egressos, que atuam tanto no setor produtivo quanto no financeiro e acadêmico. Outra justificativa apresentada afirma que a IES possui a infraestrutura física e tecnológica necessária para o pleno desenvolvimento do ensino e da pesquisa, e um corpo docente qualificado em número apropriado para atender ao ingresso de 40 alunos por ano no curso. Atualmente o corpo docente do Curso é composto de 31 docentes doutores, com dedicação exclusiva, informação confirmada pelo Coordenador Curso em reunião online e evidenciada na pasta do Drive virtual.
+      #inovação #egresso #vagas #dados #infraestrutura
 
     [Nota: 1,00] QUÍMICA (Bacharelado) - ID: 2289302
       Porém esses dados não puderam ser confirmados por documentação oficial. Não foi demonstrada a existência de periodicidade nem de que tenham sido usadas para dimensionamento do corpo docente, da infraestrutura ou sua relação com o número de vagas ofertadas.
+      #infraestrutura #dados #documentação #vagas
 
     [Nota: 4,00] GEOGRAFIA (Licenciatura) - ID: 2299015
       Mas sem a devida comprovação documental para adequação do número de vagas.
+      #vagas
 
 
   LOCALIZAÇÃO/SETOR: Campus  Reitoria (Qtd: 1)
   ------------------------------
     [Nota: 4,00] LETRAS INGLÊS (Licenciatura) - ID: 2322586
       Conforme o PPC, “A decisão por uma entrada de 20 alunos/as enfatiza a importância da qualidade na formação inicial de professores/as. Desse modo, para o trabalho pedagógico já realizado em cursos de Licenciatura em Letras - línguas estrangeiras, grande parte das disciplinas, obrigatórias e optativas, são de caráter teórico prático com turmas de no máximo 20 estudantes, garantindo que a relação entre professores/as e alunos/as seja de fato aproximada; a participação dos/as alunos/as em seu aprendizado e processo formativo como um todo seja otimizada; o espaço para diálogo e partilha entre docentes e discentes seja intensificado; a avaliação seja contínua e processual; e o desenvolvimento linguístico dos/as estudantes tenha condições de ser realizado ao longo do curso com a assistência necessária.” Em suma: “Há dois aspectos principais que justificam o número de 20 para as vagas, um deles é de ordem logística e o outro é de ordem qualitativa. Considerando que a formação dada pelo Curso de Letras - Inglês licenciatura é uma formação na língua inglesa e na prática docente dos licenciandos, ou seja, uma formação dupla de certo modo, as turmas precisam ser em número reduzido para que haja a prática de aprendizado da e na língua estrangeira - o inglês porque não há exigência de conhecimento prévio para cursar o referido curso. Da ordem logística, as salas de aula, com perfil laboratório porque dispõe de computador, televisão e aparelho de som, que são utilizadas pelo Curso de Letras - Inglês licenciatura no Ed. D. Pedro II são pequenas e comportam no máximo 20 alunos.” Não se identificaram estudos periódicos, quantitativos e qualitativos, ou pesquisas com a comunidade acadêmica, que comprovam a adequação do número de vagas ofertadas.
+      #prática #laboratório #ppc #vagas #pedagógico
 
 
   LOCALIZAÇÃO/SETOR: Campus Jandaia Do Sul (Qtd: 1)
   ------------------------------
     [Nota: 4,00] Ciências Exatas Quimica (Licenciatura) - ID: 2275330
       Entretanto, não foram identificadas evidências de pesquisas formais com a comunidade acadêmica ou externa, como consultas estruturadas a egressos, professores da Educação Básica ou gestores de redes escolares, que subsidiem a definição ou readequação do número de vagas.
+      #egresso #vagas
 
 
   LOCALIZAÇÃO/SETOR: Campus Reitoria (Qtd: 1)
   ------------------------------
     [Nota: 4,00] LETRAS PORTUGUÊS (Bacharelado) - ID: 2324555
       4 RESOLUÇÃO nº 37/97-CEPE, aprovou as normas básicas de controle e registro da atividade acadêmica dos cursos de gr noturnas, abertas anualmente por meio do Vestibular e das vagas disponibilizadas pelo SISU. Conforme ofício apresentado pela IES as vagas disponibiliza pela IES, pela visita virtual às instalações, pelo robusto "pacote" de programas de apoio ao discente, pelas ferramentas TIC's, pelo acesso ao vasto acervo «
+      #vagas
 
 
   LOCALIZAÇÃO/SETOR: Complexo Hospital de Clínicas (Qtd: 1)
   ------------------------------
     [Nota: 2,00] MEDICINA (Bacharelado) - ID: 2132838
       O número de vagas, 200 vagas anuais, foi estabelecido pela Reitoria da UFPR em 2023 (Oficio nº 675/2023/UFPR/R/GAB), a partir da solicitação da Secretária de Educação Superior (SESu) a partir dos dados relativos aos cursos médicos das Instituições Federais de Educação Superior (IFES), especialmente a relação entre vagas/docentes; matrículas/docentes; vagas ofertadas nos cursos médicos vinculados aos hospitais geridos pela EBSERH e alunos por leito nestes hospitais (Ofício Circular Nº 4/2023/GAB/SESU/SESu-MEC). Não foram realizados estudos periódicos, qualitativos e quantitativos, tampouco pesquisas com a comunidade acadêmica que com provam sua adequação à dimensão do corpo docente, infraestrutura física e tecnológica para o ensino e pesquisa.
+      #dados #infraestrutura #vagas
 
 
   LOCALIZAÇÃO/SETOR: Juvevê (Qtd: 1)
   ------------------------------
     [Nota: 2,00] Produção Cultural (Tecnologia) - ID: 2412913
       Mas tais dados não fundamentam estudos qualitativos e quantitativos que comprovem a adequação à dimensão do corpo docente. A única justificativa apresentada pela coordenação do curso para a quantidade de vagas refere-se ao número reduzido de docentes disponíveis. Ou seja, não foram apresentados estudosdetalhados que demonstrem a necessidade de demanda profissional na região, a oferta de cursos similares na localidade ou relatórios de adequação às dimensões do corpo docente e dainfraestrutura.
+      #dados #infraestrutura #vagas
 
 ================================================================================
 
@@ -642,6 +717,7 @@ Termos Frequentes: escolas(8), convênios(7), pedagógicas(7), documentadas(7), 
   ------------------------------
     [Nota: 2,00] QUÍMICA (Bacharelado) - ID: 2289302
       Os convênios e ações promovem integração com a rede pública de ensino conforme termos de estágio e convênios com a rede pública que foram disponibilizados. A análise dos planos de atividades demonstraram que os estágios permitem o desenvolvimento, a testagem, a execução e a avaliação de estratégias didático-pedagógicas, inclusive com o uso de tecnologias educacionais, como nas atividades inovadoras e exitosas: uso de escape room, oficina pedagógica e elaboração de planos de ação docente. Não foram encontradas evidências das experiências referentes às ações serem documentadas, abrangentes e consolidadas e de resultados relevantes para os discentes e para as escolas de educação básica a partir da análise da documentação apresentada. O Relatório de Estágio é um documento com informações limitadas.
+      #documentação #tecnologia
 
 
   LOCALIZAÇÃO/SETOR: Campus Jandaia Do Sul (Qtd: 1)
@@ -667,6 +743,7 @@ Termos Frequentes: prática(12), formação(5), pedagógica(4), atividades(3), t
   ------------------------------
     [Nota: 4,00] Ciências Exatas Quimica (Licenciatura) - ID: 2275330
       Contudo, não foram apresentadas evidências que comprovem, de forma consolidada, a efetiva articulação reflexiva entre teoria e prática com resultados documentados. Dimensão 2: CORPO DOCENTE E TUTORIAL 3,93
+      #prática #teoria
 
 ================================================================================
 
@@ -683,18 +760,22 @@ Termos Frequentes: membros(18), integral(15), documentos(13), atualização(13),
 
     [Nota: 3,00] MATEMÁTICA INDUSTRIAL (Bacharelado) - ID: 2251358
       Contudo, não foram encontradas outras atas das reuniões do NDE nos documentos disponibilizados no Drive. Na Ata da 2º reunião do NDE do Curso de Bacharelado em Matemática de onze dias do mês de agosto do ano de dois mil e vinte cinco consta que “Foi comentado também a respeito da inexistência de atas de reuniões do NDE. Anteriormente o NDE não produzia atas, por não constar em resolução, mas sim efetuava suas reuniões e fazia seus próprios relatórios”. Também, esta Comissão não evidenciou os referidos relatórios. Ainda que ausentes tais registros formais, durante reuniões virtuais e por meio das informações presentes no PPC (2020) e tempo de IES/Curso de seus membros com mais de 10 anos, foi possível evidenciar que os membros do NDE atuam no acompanhamento, consolidação e atualização do Projeto Pedagógico do Curso, apesar de ser verificado e informado nas reuniões virtuais a falta de atualização de dados e informações em partes do PPC (2020). Não foi apresentada documentação comprobatória que evidenciasse a permanência que os atuais membros permanecem desde o último Ato Regulatório (Renovação de Reconhecimento Portaria SERES/ME nº 922, de 27/12/2018). Além disso, não ficou claro para esta Comissão as ações, como estudos e atualização periódica do NDE, têm gerado impactos efetivos nos processos de avaliação da aprendizagem, na formação dos estudantes e na análise da adequação ao perfil do egresso. Reitero, por fim, que nem o PPC (2020) e nem os documentos inseridos no Drive, apresentam a composição do NDE no último Ato Regulatório.
+      #egresso #acompanhamento #documentação #ppc #dados #pedagógico
 
     [Nota: 3,00] NEGÓCIOS IMOBILIÁRIOS (Tecnólogo) - ID: 2372114
       O NDE do curso está institucionalizado por meio da PORTARIA Nº 69/2025, DE 10 DE JULHO DE 2025, tendo os seguintes docentes: Prof. Paulo Eduardo Sobreira de Mores (SIAPE 1708743) (COORDENADOR) - DE (desde ato anterior), Prof. Evandro Luiz Brandão (SIAPE 1303797) - DE (desde ato anterior), Prof. Marcelo Ribeiro Losso(SIAPE 1048986) - 20 horas (desde ato anterior), Profa. Maura Regina Franco (SIAPE 1221305) - DE, Profa. Silvana Maria Carbonera (SIAPE 1718393) - DE e Profa. Vanessa Gonçalves Curty (SIAPE 1447191) - DE. Nota-se que 80% são docentes do NDE de dedicação exclusivas. O NDE têm feito o acompanhamento e a avaliação dos formulários de Avaliação Institucional,evasão, planos de ensino, distribuição de encargos docentes. Conforme descrito no PPC a "Resolução CEPE 86/2020, as modalidades de inserção da extensão na matriz curricular do Curso de Tecnologia em Negócios Imobiliários dar-se-ão por Atividade Curricular de Extensão (ACE)". O NDE tem feito o acompanhamento e os decentes fizeram a descrição das atividades que vemsendo realizadas no âmbito do curso e a grande preocupação com as novas demandas do mundo do trabalho, com destaque para as inovações de Inteligência Artificial.
+      #acompanhamento #ppc #tecnologia
 
 
   LOCALIZAÇÃO/SETOR: Campus  Reitoria (Qtd: 2)
   ------------------------------
     [Nota: 4,00] LETRAS PORTUGUÊS E JAPONÊS (Licenciatura/Bacharelado) - ID: 2269039
       Mas não substitui a atuação regular e documentada como preconizada para a pontuação máxima no instrumento avaliativo. A composição do NDE está em conformidade com os critérios normativos: os docentes são efetivos, apresentam liderança acadêmica e experiência institucional, e cumprem os requisitos de titulação e regime de trabalho. No entanto, para alcançar o conceito 5, seria necessário comprovar, com maior densidade documental e recorrência temporal, a atuação do NDE em processos deliberativos e propositivos contínuos, como a revisão curricular, a articulação entre teoria e prática, o acompanhamento de egressos e a consolidação de ações integradas de ensino, pesquisa e extensão. Esses elementos, embora mencionados, não foram plenamente evidenciados de modo sistemático durante a avaliação.
+      #acompanhamento #prática #teoria #egresso
 
     [Nota: 4,00] LETRAS INGLÊS (Licenciatura) - ID: 2322586
       Entretanto, observa-se que, desde o último ato regulatório (2018/2019), houve alteração integral da composição. Sendo certo que nenhum dsos docentes, da composição de 2018, permanece na atual composição definida em 2025. Assim, não se atende ao critério de manutenção de membros desde o último ato regulatório. Desse modo, verifica-se que o NDE do Curso de Licenciatura em Letras - Inglês atende plenamente aos requisitos de composição e atuação, estando devidamente constituído, com todos os membros doutores em dedicação exclusiva e o coordenador como integrante, além de desempenhar atividades de acompanhamento, consolidação e atualização do PPC, com base em atas disponíveis na pasta virtual da TES. Todavia, pela ausência de continuidade de membros desde o último ato regulatório, atribui-se ao indicador conceito 4.
+      #acompanhamento #ppc
 
 
   LOCALIZAÇÃO/SETOR: Campus Jandaia Do Sul (Qtd: 1)
@@ -707,6 +788,7 @@ Termos Frequentes: membros(18), integral(15), documentos(13), atualização(13),
   ------------------------------
     [Nota: 3,00] MEDICINA (Bacharelado) - ID: 2132838
       No entanto, não ficou suficientemente evidenciada a realização de estudos e atualização periódica ou a verificação do impacto do sistema de avaliação e análises da adequação do perfil do egresso.
+      #egresso
 
 ================================================================================
 
@@ -720,6 +802,7 @@ Termos Frequentes: oferta(7), distância(7), equipe(6), multidisciplinar(6), dis
   ------------------------------
     [Nota: 2,00] GEOLOGIA (Bacharelado) - ID: 2251355
       4 RESOLUÇÃO Nº 72/10-CEPE, Regulamenta a oferta de disciplinas na modalidade a distância nos cursos de graduação e educação profissional e tecnológica presenciais da Universidade Federal do Paraná. Art. 2º Poderão ser ofertadas disciplinas integral ou parcialmente a distância desde que esta oferta não ultrapasse 20% (vinte por cento) da carga horária total do curso. Art. 3º A oferta de disciplinas integral ou parcialmente a distância deverá garantir a equivalência quanto ao desenvolvimento do conteúdo, das competências e das habilidades existentes na modalidade presencial, observado o disposto no projeto pedagógico do respectivo curso presencial. Além disso consta: $ 1º Para fins desta Resolução, a tutoria será exercida pelo professor que ministra a disciplina. 4 2º O professor-tutor deverá realizar capacitação em EAD ou ter experiência comprovada para atuar em programas de EAD e destinar carga horária específica para os momentos presenciais e para os momentos a distância. No instrumento de avaliação foi feita uma correlação com UAB- Universidade Aberta do Brasil propicia a articulação, a interação e a efetivação de iniciativas que estimulam a parceria dos três níveis governamentais (federal, estadual e municipal) com as instituições públicas de ensino superior. Ao plantar a semente da universidade pública de qualidade em locais distantes e isolados, incentiva o desenvolvimento de municípios com baixo Índice de Desenvolvimento Humano (IDH) e Índice de Desenvolvimento da Educação Básica (IDEB). Desse modo, funciona como um eficaz instrumento para a universalização do acesso ao ensino superior, minimizando a concentração de oferta de cursos de graduação nos grandes centros urbanos e evitando o fluxo migratório para as grandes cidades. A meta prioritária do Sistema UAB é contribuir para a Política Nacional de Formação de Professores do Ministério da Educação, por isso, as ofertas de vagas são prioritariamente voltadas para a formação inicial de professores da educação básica. Não pode ser configurada como a equipe multidisciplinar do curso, devendo o próprio curso criar sua equipe multidisciplinar e consequentemente ter tutores para apoiar os discentes na atuação do sistema EAD, também não estão descritas no Plano Pedagógico do Curso, ou seja, a equipe multidisciplinar não está em consonância com o PPC, na verdade é prestada um suporte pela UAB, já que destina-se a oferta de cursos a distância, não foram evidenciadas informações que comprovem a existência de uma equipe multidisciplinar. 2
+      #pedagógico #ppc #vagas
 
 
   LOCALIZAÇÃO/SETOR: Campus Jandaia Do Sul (Qtd: 1)
@@ -739,21 +822,25 @@ Termos Frequentes: coordenador(12), atuação(12), virtual(9), documentos(9), re
   ------------------------------
     [Nota: 4,00] MATEMÁTICA INDUSTRIAL (Bacharelado) - ID: 2251358
       Contudo, não ficou demonstrado indicadores de desempenho da coordenação disponíveis e públicos e, ainda, não ficou claro, apesar da existência do Plano de Ação, documentação apresentada e das reuniões com os docentes e discentes (apesar dos elogios obtidos), como a atuação da Coordenação contribui efetivamente para a potencialização do corpo docente, a integração entre os professores e a promoção da melhoria contínua do curso.
+      #indicadores #documentação
 
     [Nota: 3,00] QUÍMICA (Bacharelado) - ID: 2289302
       Baseado na Cópia do Projeto Pedagógico de Curso (PPC) extraído do sistema-emec (o PPC não foi apensado ao sistema e-mec no link "Visualizar PPC"), a atuação do coordenador está de acordo com o apresentado no PPC. Segundo relato dos docentes obtido durante a reunião virtual in loco, o coordenador atende à demanda existente, considerando a gestão do curso, a relação com os docentes. O coordenador é membro do colegiado do curso, do NDE, do conselho setorial de exatas, da comissão de atividades formativas e da comissão de estágio da licenciatura. Segundo constatado pela comissão avaliadora, o plano de ação apresentado não é de conhecimento de docentes e discentes. Informações confirmadas durante as reuniões virtuais in loco. Não foram apresentados indicadores de desempenho da coordenação. NSA
+      #ppc #pedagógico #indicadores
 
 
   LOCALIZAÇÃO/SETOR: Campus Litoral (Qtd: 1)
   ------------------------------
     [Nota: 4,00] GESTÃO DE TURISMO (Tecnólogo) - ID: 2372111
       O coordenador do curso de Tecnologia em Gestão de Turismo, prof. Dr JOSÉ PEDRO DA ROS, queatua na instituição desde 2016, possui formação/titulação em consonância com os objetivos do curso e pode-se comprovar na fala de docentes e discentes durante as entrevistas, que sua atuação atende a demanda existente tanto para a gestão do curso quanto parao atendimento de docentes e discentes e representatividade em instâncias superiores. O regime de trabalho é de tempo integral comdedicação exclusiva. A coordenação possui um plano de ação documentado, com metas expressas em prazo e indicadores dedesempenho da coordenação para que haja o acompanhamento e avaliação do plano quanto a sua eficiência, eficácia e efetividadedas ações. O coordenador foi nomeado em 06/03/2025 (documento de nomeação apensado no drive), portanto ainda não hárelatórios de acompanhamento do trabalho realizado, e provavelmente é esse o motivo do desconhecimento dos docentes ediscentes do Plano de Ação.
+      #acompanhamento #indicadores #tecnologia
 
 
   LOCALIZAÇÃO/SETOR: Juvevê (Qtd: 1)
   ------------------------------
     [Nota: 4,00] Produção Cultural (Tecnologia) - ID: 2412913
       Mas não traz de forma clara indicadores de desempenho da coordenação. A partir do diálogocom docentes e discentes é possível verificar que o coordenador e administra a potencialidade do corpo docente do seu curso, favorecendo a integração e a melhoria contínua, no entanto, sem osindicadores estabelecidos essa conclusão é apenas empírica, sem dados que a validem por completo.
+      #dados #indicadores
 
 ================================================================================
 
@@ -767,15 +854,18 @@ Termos Frequentes: coordenador(11), docentes(9), apresentado(7), virtual(6), dis
   ------------------------------
     [Nota: 4,00] MATEMÁTICA INDUSTRIAL (Bacharelado) - ID: 2251358
       No entanto, a análise dos documentos disponíveis no Drive virtual da TES/Curso, bem como do seu currículo Lattes, evidenciou que o coordenador atua em regime de tempo integral, o que possibilita o atendimento às demandas relacionadas à gestão do curso e à interlocução com todos os elementos sob sua coordenação direta ou indireta. Conforme a Portaria, o coordenador também exerce a função de presidente do Núcleo Docente Estruturante (NDE) e colegiado e, também, representatividade no Conselho Setorial do Setor de Ciências Exatas. Além disso, entrevistas virtuais com docentes e discentes revelaram uma relação positiva e colaborativa entre o coordenador, docentes, técnicos administrativos e dirigentes institucionais. Sua atuação está orientada pelo Plano de Ação 2025-2028, disponibilizado no Drive virtual acessado pela Comissão. Em reunião online com a Comissão Própria de Avaliação (CPA) da IES, não ficou claro para a Comissão a existência de indicadores de desempenho para a coordenação do Curso de Matemática Industrial de formas disponíveis e públicos. Além disso, também, não ficou claro, apesar da existência do Plano de Ação, documentação apresentada e das reuniões com os docentes e discentes (apesar dos elogios obtidos), como a atuação da Coordenação contribui efetivamente para a potencialização do corpo docente, a integração entre os professores e a promoção da melhoria contínua do curso. Outro fator, é a existência de um vice coordenador do Curso apresentado em reunião virtual inloco, entretanto, sem nenhuma informação no PPC (2020) e nos documentos apresentados.
+      #indicadores #ppc #documentação
 
     [Nota: 3,00] QUÍMICA (Bacharelado) - ID: 2289302
       Bascado no currículo Lattes e no DOU No 8 de 13 de janeiro de 2025, o regime do coordenador é de tempo integral. Segundo relato dos docentes obtido durante a reunião virtual in loco, o coordenador atende à demanda existente, considerando a gestão do curso, a relação com os docentes. O coordenador é membro do colegiado do curso, do NDE, do conselho setorial de exatas, da comissão de atividades formativas e da comissão de estágio da licenciatura. Segundo constatado pela comissão avaliadora, o plano de ação apresentado não é de conhecimento de docentes e discentes. Informações confirmadas durante as reuniões virtuais in loco. Não foram apresentados indicadores de desempenho da coordenação.
+      #indicadores
 
 
   LOCALIZAÇÃO/SETOR: Juvevê (Qtd: 1)
   ------------------------------
     [Nota: 4,00] Produção Cultural (Tecnologia) - ID: 2412913
       Mas não traz de forma clara indicadores dedesempenho da coordenação. A partir do diálogo com docentes e discentes é possível verificar que o coordenador e administra a potencialidade do corpo docente do seu curso, favorecendo aintegração e a melhoria contínua, no entanto, sem os indicadores estabelecidos essa conclusão é apenas empírica, sem dados que a validem por completo.
+      #dados #indicadores
 
 ================================================================================
 
@@ -820,6 +910,7 @@ Termos Frequentes: aplica(1), verificou(1), corpo(1), possui(1), experiência(1)
   ------------------------------
     [Nota: 4,00] AGROECOLOGIA (Tecnólogo) - ID: 2369362
       Verificou-se que 75% do corpo docente possui experiência profissional fora do magistério, caracterizada por atualização constante de conhecimentos demandados pelo mercado de trabalho. Esse item pôde também ser avaliado na reunião com os alunos, quando os mesmos demonstraram grande satisfação com os professores e com o curso de modo geral.
+      #dados
 
 ================================================================================
 
@@ -839,12 +930,14 @@ Termos Frequentes: docentes(11), experiência(8), educação(7), básica(7), pr�
   ------------------------------
     [Nota: 3,00] Ciências Exatas Quimica (Licenciatura) - ID: 2275330
       No entanto, durante reunião realizada com os docentes, não foi evidenciado de forma clara se há uma prática sistematizada de elaboração e uso de avaliações diagnósticas, formativas e somativas como ferramenta para redirecionamento da prática docente. Também não se verificou, nesse momento, a atuação com liderança pedagógica nem a valorização expressiva da produção acadêmica dos docentes neste âmbito.
+      #prática
 
 
   LOCALIZAÇÃO/SETOR: Centro Politécnico (Qtd: 1)
   ------------------------------
     [Nota: 4,00] Pedagogia (Licenciatura) - ID: 2324552
       Analisou-se os dados postados em drive e em reunião que dos 97 docentes 34 docentes não temexperiência em Ensino Básico e três docentes tem apenas poucos meses, menos de um ano. Desta forma o corpo docente do cursode Licenciatura em Pedagogia da UFPR conta com 35% dos docentes sem experiência nenhuma em Educação Básica, além de 3%ter apenas alguns poucos meses de experiência ( menos de um ano). Mesmo assim, mediante reunião realizada com os docentes ecoordenação estes demonstram competência para realizar as suas tarefas como educadores. Nesse sentido, o corpo docente possuiexperiência na docência da educação básica para promover ações que permitem identificar as dificuldades dos alunos, expor oconteúdo em linguagem aderente às características da turma, apresentar exemplos contextualizados com os conteúdos doscomponentes curriculares, e elaborar atividades específicas para a promoção da aprendizagem de alunos com dificuldades eavaliações diagnósticas, formativas e somativas, utilizando os resultados para redefinição de sua prática docente no período.
+      #prática #dados
 
 ================================================================================
 
@@ -864,6 +957,7 @@ Termos Frequentes: possuem(3), experiência(3), exercício(2), promoção(2), di
   ------------------------------
     [Nota: 4,00] GESTÃO DE TURISMO (Tecnólogo) - ID: 2372111
       Pode-se obervar pela documentação apensada no E-Mec e no drive, bem como pela fala dosdocentes, que todos os professores possuem experiência de docência no Ensino Superior, com tempo de exercício, em média de 261meses (21 anos), o que demonstra que o corpo docente possui experiência que permite contribuir para a promoção de ações paraidentificar as dificuldades dos discentes, expor o conteúdo em linguagem aderente às características da turma, apresentar exemploscontextualizados com os conteúdos dos componentes curriculares, e, elaborar atividades específicas para a promoção daaprendizagem de alunos com dificuldades. Ademais, os docentes possuem experiências de ensino, pesquisa e extensãouniversitários favorecendo a constatação de elementos que caracterizem o exercício da liderança e o reconhecimento de suaprodução.
+      #documentação
 
 ================================================================================
 
@@ -877,24 +971,28 @@ Termos Frequentes: distância(9), educação(8), professor(7), experiência(7), 
   ------------------------------
     [Nota: 4,00] GEOLOGIA (Bacharelado) - ID: 2251355
       Entretanto não foram identificadas uma avaliações diagnósticas, formativas e somativas, utilizando os resultados para redefinição de sua prática docente no período, exerce liderança e é reconhecido pela sua produção, impossibilitando o conceito 5 (cinco).
+      #prática
 
 
   LOCALIZAÇÃO/SETOR: Campus Jandaia Do Sul (Qtd: 1)
   ------------------------------
     [Nota: 3,00] Ciências Exatas Quimica (Licenciatura) - ID: 2275330
       Entretanto, não foi possível evidenciar, de forma consistente, o uso sistemático de avaliações diagnósticas, formativas e somativas ao longo do período letivo. Também não foram identificados registros que demonstrem a utilização dos resultados dessas avaliações como subsídio para a reorientação das práticas pedagógicas. Além disso, não foram encontrados indícios claros de atuação docente com perfil de liderança ou de reconhecimento por produção acadêmica relevante durante o período analisado.
+      #prática
 
 
   LOCALIZAÇÃO/SETOR: Campus Litoral (Qtd: 1)
   ------------------------------
     [Nota: 1,00] AGROECOLOGIA (Tecnólogo) - ID: 2369362
       Apenas um professor possui experiência no exercício da educação a distância, conforme documentação apresentada e relato da coordenadora do curso. É importante ressaltar que, de acordo com a coordenadora do curso, a educação a distância não está acontecendo conforme previsto no projeto pedagógico do curso, tendo sido em determinadas ocasiões, a pedido dos estudantes, realizada de forma presencial.
+      #pedagógico #documentação
 
 
   LOCALIZAÇÃO/SETOR: Centro Politécnico (Qtd: 1)
   ------------------------------
     [Nota: 3,00] Tecnologia em Secretariado (Tecnologia) - ID: 2372115
       Mas também um papel de liderança e disseminação de conhecimento na área. Por outro lado, napasta e nas reuniões não foi possível evidenciar avaliações diagnósticas diretamente focadas nas práticas de educação à distância.
+      #prática
 
 ================================================================================
 
@@ -914,12 +1012,14 @@ Termos Frequentes: forma(4), docentes(3), atuam(3), professor(3), distância(3),
   ------------------------------
     [Nota: 3,00] Ciências Exatas Quimica (Licenciatura) - ID: 2275330
       Mas também como tutor das disciplinas que contam com carga horária na modalidade a distância (EAD). Essa dupla atuação proporciona aos docentes uma experiência relevante no exercício da tutoria na educação básica, especialmente no que se refere ao suporte às atividades pedagógicas, à mediação entre conteúdo e aprendizagem e ao acompanhamento dos discentes em seus processos formativos. Entretanto, as análises documentais realizadas e também reunião com os docentes e multidisciplinar, não evidenciaram, de forma inequívoca, a qualidade do relacionamento pedagógico estabelecido com os estudantes, tampouco o impacto direto das ações de tutoria na ampliação dos processos de ensino e aprendizagem. Além disso, não foi possível comprovar sistematicamente a orientação efetiva dos alunos por meio da sugestão de atividades e leituras complementares que contribuam diretamente para sua formação acadêmica.
+      #acompanhamento #pedagógico
 
 
   LOCALIZAÇÃO/SETOR: Campus Litoral (Qtd: 1)
   ------------------------------
     [Nota: 1,00] AGROECOLOGIA (Tecnólogo) - ID: 2369362
       Apenas um professor possui experiência no exercício da educação a distância, conforme documentação apresentada e relato da coordenadora do curso. É importante ressaltar que, de acordo com a coordenadora do curso, a educação a distância não está acontecendo conforme previsto no projeto pedagógico do curso, tendo sido em determinadas ocasiões, a pedido dos estudantes, realizada de forma presencial. Foi verificado ainda, que o próprio professor da disciplina atua como tutor.
+      #pedagógico #documentação
 
 ================================================================================
 
@@ -933,27 +1033,33 @@ Termos Frequentes: reuniões(12), titular(12), atas(12), geologia(11), suplente(
   ------------------------------
     [Nota: 4,00] GEOLOGIA (Bacharelado) - ID: 2251355
       O REGIMENTO GERAL DA UNIVERSIDADE FEDERAL DO PARANÁ - UFPR, informa sobre normativas que devem consideradas para o Colegiado de Curso: -Art. 124. O colegiado de curso é órgão de coordenação didática, destinado a elaborar e implantar a política de ensino nos respectivos cursos e acompanhar a sua execução, ressalvada a competência do Conselho de Ensino, Pesquisa e Extensão. -Art. 125. O colegiado de curso será constituído por um coordenador, seu presidente, por um vice coordenador, por um docente de cada departamento que participe do respectivo ensino, e por um quinto da representação discente. O Colegiado reúne-se com periodicidade, sendo suas reuniões e as decisões associadas devidamente registradas através do Sistema Eletrônico de Informação (SEN), possibilita o acompanhamento e execução de seus processos e decisões. Em Registro de Ata nº 139º (REUNIÃO ORDINÁRIA DO DEPARTAMENTO DE GEOLOGIA DA UFPR — 12/12/2023), é possível verificar a indicação dos atuais membros do colegiado do curso de Geologia: 1. Indicação de nomes para o Colegiado do Curso de Graduação em Geologia . Processo 23075.071944/2023-98 Áreas: 1) Métodos Gráficos, Fotointerpretação, Geoprocessamento, Cartografia Digital, Sensoriamento Remoto, Geologia Estrutural, Geotectônica, Técnicas de Cartografia, Mapa de Graduação, Geocronologia: Carlos Eduardo Mesquita Barros (titular) e Luis Gustavo de Castro (suplente); Gustavo Athayde (titular) e Ossama Harara (suplente). 2) Petrologia Sedimentar, Estratigrafia, Mapa Sedimentar, Paleontologias, Geologia Histórica, Geologia do Brasil, Sistemas Deposicionais, Análise de Bacias, Estratigrafia de Seguências, Recursos Energéticos, Geologia do Petróleo: Carolina Aquino (titular) e Maria Cristina de Souza (suplente); Carlos Guedes (titular) e Fernando Mancini (suplente). 3) Mineralogias, Petrologia Ígnea, Vulcanismo, Petrologia Metamórfica, Geoquímica, Litogeoquímica: Fábio Braz Machado (titular) e Anelize Bahniuk (suplente); Cristina Pinto-Coelho (titular) e Leonardo Lagoeiro (suplente). 4) Geotecnia, Geologia de Engenharia, Estabilidade de Taludes, Hidrogeoquímica, Hidrogeologia, Geologia Ambiental, Riscos Geo-ambientais, Geologia Urbana: Eduardo Hindi (titular) e Camila Athayde (suplente); Renato Lima (titular) e Adriana Talamini (suplente). 5) Geologia Econômica, Prospecção, Prospecção Geoquímica,  Rochas e Minerais Industriais, Lavra a Céu Aberto, Desmonte de Rochas, Geofísica, Rochas Ornamentais: Guilherme Hoerlle (titular) e Ariadne Borgo (suplente); Alessandra Bongiolo (titular) e Elvo Fassbinder (suplente).
+      #acompanhamento
 
     [Nota: 3,00] MATEMÁTICA INDUSTRIAL (Bacharelado) - ID: 2251358
       Apesar de menções variadas de sua função em situações diversas do Curso. Entretanto, conforme documentos comprobatórios apresentado no Drive virtual da IES o colegiado do Curso está previsto e possuem regimentos institucionalizados de funcionamento (acordo Capítulo XI Colegiado de Curso. Resolução nº 31/19-COPLAD - Regimento do Setor de Ciências Exatas) que menciona a política de funcionamento do colegiado dos Cursos da IES. No Drive virtual da IES foi disponibilizado apenas 1 (uma) de 2018, 1 (uma) 2019, 5 (cinco) 2022 e 1 (uma) 2023 e Portaria nº 2/2025, de 04 de agosto de 2025 - Designação os docentes Colegiado do Curso de Matemática Industrial, período dezembro/ 2024 a dezembro/2026 (Na portaria não menciona a participação do segmento aluno no Colegiado do Curso). Informações coletadas no Drive virtual da IES, nas entrevistas com o NDE e Coordenador do Curso mostraram evidências com relação sua representatividade em seus segmentos, apesar da Portaria não conter o segmento discente. Ainda, foi apresentado no Drive virtual um “Plano de acompanhamento e execução dos trabalhos realizados pelo colegiado nos anos de 2021-2022-2023 e 2024”. Contudo, não ficou evidenciado para a Comissão, entre documentos apensados pela IES, informações contidas no PPC ou informações colhidas, de que formas ou maneiras são promovidas a realização de avaliação periódica sobre o desempenho das suas atuações, através de algum sistema de suporte para o registro, acompanhamento e execução de seus processos de decisões para realiza avaliação periódica sobre seu desempenho ou ajuste de práticas de gestão.
+      #prática #acompanhamento #ppc
 
     [Nota: 4,00] CIÊNCIA DA COMPUTAÇÃO (Bacharelado) - ID: 2287830
       Entretanto, não evidenciou-se, de maneira clara, as avaliações periódicas já realizadas sobre seu desempenho, para implementação ou ajuste de práticas de gestão.
+      #prática
 
     [Nota: 4,00] MATEMÁTICA (Licenciatura) - ID: 2289301
       Porém não foram apresentados resultados relacionados à autoavaliação do colegiado.
+      #autoavaliação
 
 
   LOCALIZAÇÃO/SETOR: Campus Jandaia Do Sul (Qtd: 1)
   ------------------------------
     [Nota: 4,00] Ciências Exatas Quimica (Licenciatura) - ID: 2275330
       Entretanto, embora tais funções estejam previstas e venham sendo executadas, não foram identificadas evidências documentais que comprovem a realização de avaliações periódicas formais sobre o desempenho do próprio colegiado, com vistas à implementação ou ajuste de práticas de gestão acadêmica.
+      #prática
 
 
   LOCALIZAÇÃO/SETOR: Campus Litoral (Qtd: 1)
   ------------------------------
     [Nota: 4,00] GESTÃO DE TURISMO (Tecnólogo) - ID: 2372111
       De acordo com a documentação apensada no drive e pela fala durante as entrevistas com docentes efuncionários técnicos administrativos, mais especificamente os participantes da CPA, o Colegiado do curso é atuante, estáinstitucionalizado pela PORTARIA Nº 1193/2019 SETOR LITORAL, DE 01 DE AGOSTO DE 2019, possui representatividade dossegmentos, as atas apensadas comprovam reuniões periódicas e o registro das decisões. Não foi possível comprovar,documentalmente e nem nas entrevistas a existência de um fluxo para o encaminhamento, acompanhamento e execução dasdecisões tomadas pelo Colegiado, bem como a existência de avaliação periódica de seu desempenho.
+      #acompanhamento #documentação
 
 ================================================================================
 
@@ -967,6 +1073,7 @@ Termos Frequentes: distância(7), disciplinas(5), possuem(5), educação(5), ofe
   ------------------------------
     [Nota: 4,00] GEOLOGIA (Bacharelado) - ID: 2251355
       Entretanto não foram evidenciadas na documentação disponível em drive se são adota práticas comprovadamente exitosas ou inovadoras no contexto da modalidade a distância, no PPC do curso não fica clara a forma de integralização da carga horária das disciplinas ofertadas parcial ou integralmente a distância, e o plano de ensino da disciplina deverá descrever as atividades realizadas como descreve a PORTARIA Nº 2.117, DE 6 DE DEZEMBRO DE 2019, que Dispõe sobre a oferta de carga horária na modalidade de Ensino a Distância - Ea D em cursos de graduação presenciais ofertados por Instituições de Educação Superior - IES pertencentes ao Sistema Federal de Ensino.
+      #prática #ppc #documentação
 
 
   LOCALIZAÇÃO/SETOR: Campus Jandaia Do Sul (Qtd: 1)
@@ -992,6 +1099,7 @@ Termos Frequentes: pedagógico(6), tutores(5), realizou(5), docentes(4), discipl
   ------------------------------
     [Nota: 1,00] GEOLOGIA (Bacharelado) - ID: 2251355
       Informação não detalhada no plano pedagógico do curso que detalhe a mediação ou articulação entre tutores, docentes e coordenador do curso, embora tenham relatado durante a reunião com corpo docente e o professor da disciplina exercer a função de tutor o plano pedagógico ou mesmo a documentação apensada no drive não trás qualquer evidência integralização.
+      #pedagógico #documentação
 
 
   LOCALIZAÇÃO/SETOR: Campus Jandaia Do Sul (Qtd: 1)
@@ -1004,6 +1112,7 @@ Termos Frequentes: pedagógico(6), tutores(5), realizou(5), docentes(4), discipl
   ------------------------------
     [Nota: 2,00] AGROECOLOGIA (Tecnólogo) - ID: 2369362
       Conforme PPC, existem 3 unidades curriculares com parte da CH na modalidade Ea D: - Ruralidades: Vivências I: CH total 90h — CH Ea D 30h - Instrumentos de interação com comunidades: Vivências II - CH total 90h — CH Ea D 60h - Desenvolvimento Local: Vivências II CH total 90h — CH Ea D 30h Soma da CH Ea D: 120h A comissão de avaliadores realizou reunião com a equipe multidisciplinar que explicou toda a metodologia institucional para realização de CH Ea D, na qual foram mencionados os aspectos metodológicos, técnicos e operacionais relacionados ao AVA (moodle), software de aulas síncronas (google meet) e a plataforma de gerenciamento de atividades acadêmicas (SIGAA). Também foi dito que que no caso de cursos presenciais da UFPR, a tutoria é uma responsabilidade acumulada pelos próprios docentes das respectivas disciplinas com CH Ea D. Dito isto, é importante destacar que efetivamente as aulas Ea D no âmbito do CST em Agroecologia não estão sendo realizadas neste formato. Conforme a coordenadora do curso, na prática, a CH definida como Ea D, está sendo executada de forma presencial, atendendo solicitação dos próprios alunos. Ademais, em reunião que a comissão de avaliadores realizou com o NDE, pretende-se alterar o PPC, excluindo totalmente a modalidade Ea D. Nesse sentido, como o atual PPC contém essa estratégia, a eventual mediação pedagógica professor-tutor-discente não tem sido efetivada.
+      #metodologia #prática #ppc
 
 ================================================================================
 
@@ -1017,15 +1126,18 @@ Termos Frequentes: docentes(12), produções(7), possuem(6), documentação(5), 
   ------------------------------
     [Nota: 4,00] MATEMÁTICA INDUSTRIAL (Bacharelado) - ID: 2251358
       Contudo, após análise documental postado no e-MEC e documentação inserida no DRIVE pela IES de forma virtual e confirmado pelo coordenador do Curso que o Curso possui 31 docentes com suas devidas documentações no Drive. Após análises junto aos seus currículos lattes (indicadores de produção bibliográfica) na ocasião da visita in loco online do corpo docente (num total de 31 docentes do Curso acordo planilha/documentos DRIVE), onde verificou-se que (16 docentes) possuem pelo menos 50% dos docentes, ou seja, aproximadamente 52% possuem, no mínimo, 7 produções nos últimos 3 anos. Contudo, aproximadamente 32% dos docentes possuem, no mínimo, 9 produções (10 docentes). Portanto: - 10 docentes possuem, mínimo, 9 produções nos últimos anos 3 anos (aproximadamente 32%). - 16 docentes possuem, mínimo, 7 produções nos últimos anos 3 anos (aproximadamente 52%). Dimensão 3: INFRAESTRUTURA 3,57
+      #indicadores #documentação #infraestrutura
 
     [Nota: 4,00] CIÊNCIAS BIOLÓGICAS (Licenciatura) - ID: 2323769
       Durante a visita in loco, a Coordenação do Curso apresentou uma lista atualizada do quadro docente. Após conferência e va docentes sem vínculo comprovado com o curso e a inclusão de novos professores, chegou-se a um total de 99 docentes. Destes, foi possível evidenciar que acadêmico-científicas no triênio. Dimensão 3: INFRAESTRUTURA
+      #infraestrutura
 
 
   LOCALIZAÇÃO/SETOR: Complexo Hospital de Clínicas (Qtd: 1)
   ------------------------------
     [Nota: 3,00] MEDICINA (Bacharelado) - ID: 2132838
       De acordo com planilha docente fornecida pela TES no drive e documentação de produção científica, cultural artística ou tecnológica dos docentes do curso de Medicina, 50% dos 338 docentes possuí ao menos 5 produções no último triênio. Dimensão 3: INFRAESTRUTURA 4,92
+      #infraestrutura #documentação
 
 ================================================================================
 
@@ -1039,6 +1151,7 @@ Termos Frequentes: docentes(23), espaço(14), professores(13), trabalho(12), gab
   ------------------------------
     [Nota: 3,00] MATEMÁTICA INDUSTRIAL (Bacharelado) - ID: 2251358
       Contudo, a instituição permite que os docentes utilizem equipamentos próprios ou emprestados pela IES para a realização de suas atividades individuais. O ambiente apresenta boa iluminação, boa limpeza, climatizado e dispõe de conexão Wi-Fi. Contudo, não foi observado pela Comissão se o local oferece condições adequadas de privacidade para o uso de recursos tecnológicos ou para atendimentos individuais a discentes e orientandos, uma vez que se trata de um espaço compartilhado entre docentes. Além disso, não ficou evidente para a Comissão a existência de mecanismos que garantam a segurança diferenciada para guarda de pertences e equipamentos pessoais, apesar dos armários disponíveis.
+      #equipamentos
 
     [Nota: 3,00] GEOGRAFIA (Licenciatura) - ID: 2299015
       No entanto, os espaços de trabalho para os docentes de tempo integral, por serem compartilhados entre os professores, não garantem privacidade para uso dos recursos e para o atendimento a discentes e orientandos.
@@ -1060,18 +1173,21 @@ Termos Frequentes: docentes(23), espaço(14), professores(13), trabalho(12), gab
   ------------------------------
     [Nota: 3,00] CIÊNCIAS EXATAS QUÍMICA (Licenciatura) - ID: 2297803
       Os Gabinetes dos professores, constituem-se de salas destinadas ao atendimento de dois professores, podendo ocorrer ao mesmo tempo. Todos tem mesas individuais com equipamentos de informática e armários.
+      #equipamentos
 
 
   LOCALIZAÇÃO/SETOR: Centro Politécnico (Qtd: 1)
   ------------------------------
     [Nota: 4,00] Pedagogia (Licenciatura) - ID: 2324552
       Contudo existe também uma gabinete excepcional que comporta onzedocentes formado por três salas conjugadas, onde a coordenadora do curso tem sua mesa com computador ou Leptop para trabalho. Esses gabinetes dos docentes são equipados com mesas, computadores, cadeiras, armários, ambiente bem iluminado e com rede dewifi que facilita o trabalho e a comunicação. Esses gabinetes servem muito bem para o trabalho desenvolvido pelos docentes,contudo não contribuem para o atendimento exclusivo e privado do docente com seus alunos. Embora para o atendimentoindividual de discentes, as bibliotecas dos campi da Reitoria e Rebouças dispõem de salas de trabalho, devidamente vedadas ao somque permitem o trabalho em pequenos grupos. Então os espaços de trabalho para docentes em Tempo Integral viabilizam açõesacadêmicas, como planejamento didático-pedagógico, atendem às necessidades institucionais e possuem recursos de tecnologias dainformação e comunicação apropriados, mas não garantem privacidade para uso dos recursos e para o atendimento a discentes eorientandos.
+      #biblioteca #pedagógico #tecnologia
 
 
   LOCALIZAÇÃO/SETOR: Juvevê (Qtd: 1)
   ------------------------------
     [Nota: 2,00] Produção Cultural (Tecnologia) - ID: 2412913
       No entanto a instituiçãoconta com uma sala de uso coletiva, equipada com mesas para uso dos professores, com gaveteiro chaveado e uma mesa para reuniões, de forma que esse espaço viabilizam ações acadêmicas,como planejamento didático-pedagógico. Conforme relato dos grupos entrevistados, a demanda por espaço dedicado aos professores (gabinetes) indicam que o espaço atual não atende àsnecessidades institucionais, já que não possui recursos de tecnologias da informação e comunicação apropriados. Soma-se a isso que, em uma sala coletiva, o espaço não garante privacidadepara uso dos recursos, para o atendimento a discentes e orientandos, sendo usados os diversos laboratórios do curso para essa tarefa. Quanto à guarda de material e equipamentos pessoais, comsegurança, a comissão foi informada que as gavetas chaveadas se prestam a esse papel, mas pelo quantitativo, verifica-se que não é o suficiente.
+      #laboratório #equipamentos #pedagógico #tecnologia
 
 ================================================================================
 
@@ -1085,9 +1201,11 @@ Termos Frequentes: atendimento(22), sala(17), espaço(16), coordenador(15), trab
   ------------------------------
     [Nota: 4,00] GEOLOGIA (Bacharelado) - ID: 2251355
       Apesar de não dispor de uma sala exclusiva, o espaço compartilhado não compromete o desempenho das atribuições do cargo, sendo mitigado por alternativas funcionais e infraestrutura de apoio próxima. Dessa forma, considerando que o ambiente atende adequadamente às atividades da coordenação, mas não oferece exclusividade nem privacidade permanente, justifica-se a atribuição do conceito 4 para este indicador.
+      #infraestrutura
 
     [Nota: 3,00] MATEMÁTICA INDUSTRIAL (Bacharelado) - ID: 2251358
       Durante a visita virtual in loco, realizada por videoconferência, a Comissão constatou que o espaço de trabalho destinado ao coordenador do Curso consiste em uma única sala compartilhada com a secretaria, embora em áreas distintas. O ambiente apresenta boas condições de limpeza, iluminação, ventilação, acesso à internet e organização patrimonial. No momento da visita, não foram identificados recursos tecnológicos na sala, à exceção de uma impressora. Foi informado que o notebook utilizado é de uso pessoal do coordenador ou pertence ao patrimônio da IES. Observou-se também que as divisórias de fórmica não asseguram adequada acústica nem segurança. Embora o espaço possibilite a realização das atividades acadêmico-administrativas e atenda às necessidades institucionais, não ficou claro para a Comissão que ele ofereça condições adequadas para atendimentos individuais ou em grupo com os discentes, de modo a garantir a privacidade. Adicionalmente, não foi evidenciado qualquer outra condição que exista infraestrutura tecnológica diferenciada que permita ao coordenador desempenhar suas funções com maior autonomia e acesso a recursos que atendam às suas demandas específicas, possibilitando diferentes formas de trabalho.
+      #infraestrutura
 
     [Nota: 4,00] MATEMÁTICA (Licenciatura) - ID: 2289301
       No entanto, o espaço não possibilita formato distinto de trabalho.
@@ -1112,6 +1230,7 @@ Termos Frequentes: atendimento(22), sala(17), espaço(16), coordenador(15), trab
   ------------------------------
     [Nota: 4,00] EDUCAÇÃO DO CAMPO / CIÊNCIAS DA NATUREZA (Licenciatura) - ID: 2275324
       A sala de trabalho da coordenadora do curso permite o desenvolvimento de suas atividades acadêmicas e administrativas. E equipada com mesa, cadeiras, computador com acesso a rede de internet, atendendo às necessidades institucionais. Há um espaço reservado que permite o atendimento individual ou grupos de estudantes e docentes, dispondo de infraestrutura.
+      #infraestrutura
 
     [Nota: 4,00] AGROECOLOGIA (Tecnólogo) - ID: 2369362
       A coordenadora do curso compartilha o gabinete de trabalho, com mobília adequada (mesa, cadeira, armários) além de computador conectado à internet, com outros coordenadores. A instituição disponibiliza outra sala, para , havendo necessidade, ocorrer o atendimento aos docentes e discentes com privacidade, de forma individualizada ou de pequenos grupos.
@@ -1127,6 +1246,7 @@ Termos Frequentes: atendimento(22), sala(17), espaço(16), coordenador(15), trab
   ------------------------------
     [Nota: 4,00] MEDICINA (Bacharelado) - ID: 2132838
       No entanto, não foi identificada infraestrutura tecnológica diferenciada ou com caráter inovador, que permita desenvolver formas distintas de trabalho.
+      #infraestrutura
 
 
   LOCALIZAÇÃO/SETOR: Juvevê (Qtd: 1)
@@ -1183,39 +1303,48 @@ Termos Frequentes: salas(52), aula(25), possuem(17), atividades(11), apresentam(
   ------------------------------
     [Nota: 3,00] MATEMÁTICA INDUSTRIAL (Bacharelado) - ID: 2251358
       Entretanto, sem acesso a acessibilidade interna através de piso tátil. As salas de aula apresentam conforto, gerenciamento da manutenção patrimonial, recursos tecnológicos (computador e Datashow não fixo, mas de forma agendado) e garante às atividades a serem desenvolvidas para o Curso. Espaço é amplo, com uma boa estrutura de carteiras e cadeiras, com ventiladores, acesso internet e com boa limpeza. Contudo, não foi observado a flexibilidade relacionada às configurações espaciais que oportunizam distintas situações de ensino e aprendizagem. Outro fator que não foi evidenciado é não possui outros recursos cuja utilização é comprovadamente exitosa.
+      #acessibilidade
 
     [Nota: 4,00] CIÊNCIA DA COMPUTAÇÃO (Bacharelado) - ID: 2287830
       Durante a visita virtual in loco à infraestrutura a comissão visitou as salas de aula da UFPR que são usadas pelo curso de Ciência da Computação. As salas são espaços amplos, bem equipados e de diferentes capacidades, contando com mobiliário em bom estado de conservação, lousa ou quadro branco, projetor multimídia, tela de projeção retrátil, acesso às redes sem fio. As salas possuem boa ventilação e iluminação natural e artificial. As janelas têm persianas e vidros com filtro UVA/UVB, e a maioria das salas de aula da UFPR não dispõe de ar condicionado, pois o clima de Curitiba não costuma exigir tal instalação. Neste sentido, a IES afirmou que a ventilação natural resolve 90% do problema e reduz o consumo de energia, contribuindo para uma universidade sustentável. As salas estão em bom estado de conservação, e demonstram receber manutenções periódicas. Não foram evidenciados à comissão recursos ou elementos adicionais além dos padrões de configuração de uma sala de aula típica.
+      #infraestrutura
 
     [Nota: 2,00] MATEMÁTICA (Licenciatura) - ID: 2289301
       Durante a visita in loco, foram apresentadas várias salas de aulas (PA-01 a PA-06 e outras) com capacidade para 25, 50, 80 e 90 alunos. As salas possuem projetor multimídia com cabeamento VGA/HDMI. Não são climatizadas com ar condicionado, apenas com ventiladores e cortinas do tipo persiana ou vidros insufilmados. A TES conta ainda com uma sala de estudos com 16 mesas com 26 cadeiras para os alunos. Não possui normas devidamente declaradas e/ou afixadas no recinto e relatório de programação de revisão periódica de equipamentos. Segundo o responsável pelo setor, a manutenção é realizada por demanda.
+      #equipamentos
 
     [Nota: 3,00] QUÍMICA (Bacharelado) - ID: 2289302
       Conforme observado pela comissão de avaliação na visita virtual in loco, o curso dispõe de 7 salas de aula com capacidade para cerca de 50 pessoas. As cadeiras são de madeira no estilo universitária. As salas possuem quadros- verde, projetores, persianas, mesa para o professores, ventiladores, e luz de emergência. Existe acesso à rede sem fio O prédio não possui piso-tátil. As salas estão em bom estado de conservação e manutenção. Com relação ao conforto, segundo relato dos discentes, as cadeiras são antigas e desconfortáveis e a acessibilidade não é boa (rampas íngremes, portas estreitas, por exemplo). Ainda segundo os discentes, a conexão com a internet é de baixa qualidade e instável. O mobiliário antigo e de madeira dificulta a flexibilidade relacionada às configurações espaciais e inviabiliza distintas situações de ensino-aprendizagem.
+      #acessibilidade
 
     [Nota: 4,00] GEOGRAFIA (Licenciatura) - ID: 2299015
       Entretanto, não foram observadas placas de acessibilidade para alunos e professores com limitações visuais, tanto no piso ou quanto nas entradas das salas de aula do curso de Geografia, comprometendo situações de ensino- aprendizagem comprovadamente exitosas para todos os dicentes.
+      #acessibilidade
 
     [Nota: 3,00] CIÊNCIAS BIOLÓGICAS (Licenciatura) - ID: 2323769
       Durante a visita virtual in loco, constatou-se que as salas de aula atendem às demandas do curso. Os espaços apresentam coi condicionado) e iluminação, tanto natural quanto artificial, evidenciando cuidados contínuos com a conservação e funcionalidade. Estão equipadas com qu computadores e telas de projeção, atendendo de forma aos requisitos necessários para a realização das atividades didáticas. As salas de aula são atendidas | utilizada pelos estudantes. O Setor de Ciências Biológicas (SCB) conta com 22 salas destinadas a atividades teóricas, incluindo anfiteatros com capacidade m? a 106 m2. A diversidade de dimensões permite diferentes configurações dos ambientes, favorecendo distintas estratégias de ensino-aprendizagem. Emb satisfatória para o item avaliado, ressaltamos que não foi evidenciado suporte de acessibilidade, o que configura o não atendimento amplo ao requisito.
+      #acessibilidade #dados
 
 
   LOCALIZAÇÃO/SETOR: Campus Jandaia Do Sul (Qtd: 1)
   ------------------------------
     [Nota: 4,00] Ciências Exatas Quimica (Licenciatura) - ID: 2275330
       Entretanto, não foi possível observar recursos de acessibilidade para pessoas com deficiência visual. As salas possuem quadros de giz e são climatizadas com ar-condicionado. De modo geral, oferecem condições satisfatórias para o uso de tecnologias da informação e comunicação (TICs), sendo a flexibilidade na organização do espaço um fator que favorece a adaptação dos recursos audiovisuais conforme as demandas específicas das aulas. Diante desse cenário, constata-se que as salas de aula atendem às necessidades institucionais e que a infraestrutura disponível contribui de forma efetiva para o desenvolvimento das atividades pedagógicas, oferecendo um ambiente apropriado ao ensino e à aprendizagem. No entanto, não foi possível verificar o uso de recursos cuja eficácia didático-pedagógica seja comprovadamente exitosa.
+      #acessibilidade #infraestrutura #tecnologia
 
 
   LOCALIZAÇÃO/SETOR: Campus Litoral (Qtd: 1)
   ------------------------------
     [Nota: 3,00] AGROECOLOGIA (Tecnólogo) - ID: 2369362
       As salas de aula tem dimensões adequadas para o número de alunos, com quadro, mesas e cadeiras conservadas e datashow. Possuem boa iluminação, janelas e são climatizadas com aparelho de ar condicionado e limpas. Apresentam-se como um modelo convencional básico, sendo possível destacar a conexão com a internet ruim, conforme apontado pelos estudantes, o que torna um fator relevante, já que, para os dias atuais, as metodologias exigem, normalmente, uso deste recurso. Na reunião com os discentes, também foi colocado por eles, que as cadeiras das salas de aula são desconfortáveis, sempre existem situações de infiltração nas salas durante o período chuvoso e o ar condicionado, frequentemente, apresenta problemas no funcionamento.
+      #metodologia
 
 
   LOCALIZAÇÃO/SETOR: Campus Pontal Do Sul (Qtd: 1)
   ------------------------------
     [Nota: 3,00] CIÊNCIAS EXATAS QUÍMICA (Licenciatura) - ID: 2297803
       Mas não apresentam cadeiras especiais para os obesos. Também, apresentam uma sala multiuso que serve para as aulas e para as demais atividades, inclusive a parte de laboratórios de informática. Apesar da configuração espacial ser confortável, fato é que as salas não permitem o exercício de atividades múltiplas no decurso do fazer pedagógico.
+      #laboratório #pedagógico
 
 
   LOCALIZAÇÃO/SETOR: Centro Politécnico (Qtd: 1)
@@ -1228,6 +1357,7 @@ Termos Frequentes: salas(52), aula(25), possuem(17), atividades(11), apresentam(
   ------------------------------
     [Nota: 3,00] Produção Cultural (Tecnologia) - ID: 2412913
       Contudo, não possuem recursos de acessibilidade. Logo, as salas de aula não oportunizam distintas situações de ensino-aprendizagem, limitando-se a apenas umformato. Também não foram identificados equipamentos ou estratégias pedagógicas inovadoras que ampliem de forma significativa as práticas de ensino no ambiente presencial.
+      #equipamentos #prática #acessibilidade
 
 ================================================================================
 
@@ -1244,12 +1374,15 @@ Termos Frequentes: acesso(15), equipamentos(13), internet(10), informática(9), 
 
     [Nota: 4,00] MATEMÁTICA INDUSTRIAL (Bacharelado) - ID: 2251358
       Entretanto, os laboratórios de informática não possuem equipamentos e softwares de acessibilidades em suas máquinas (depoimento inloco que somente no setor da biblioteca possui condições). Também, foi observado espaços para acesso no setor da biblioteca com terminais com uso de tecnologias com acessibilidades (apresentado in loco pela responsável da IES) para acesso as atividades do Curso e, assim, atendem as necessidades institucionais e de acessibilidade. A IES oferece acesso aos alunos a equipamentos de informática, onde possui uma ótima estrutura física com política de avaliação periódica do espaço e de gerenciamento digital e com manutenção e atualização de equipamentos e softwares de forma realizada pela própria IES (monitores/técnicos da IES). Para dar suporte as evidências no Drive virtual foram disponibilizados alguns documentos, como: Serviço TI/UFPR; Execução (PDTIC 2022-2026); Plano Diretor de Tecnologia da Informação e Comunicação 2022-2026; Resolução nº 45/19 — COPLAD - Aprova o Regimento da Agência de Tecnologia da Informação e Comunicação da Universidade Federal do Paraná; e Institui o Plano de Resposta a Incidentes da Universidade Federal do Paraná (Plano de Contingência inserido no PDTIC 2022-2026). Os espaços são adequados para pesquisa e estudos, com estabilidade e velocidade de acesso à internet, uma boa estrutura de mesas, cadeiras, climatizado, acesso internet e com boa limpeza. Os espaços observados pela Comissão apresentaram equipamentos modernos. Contudo, apesar das documentações inseridas no Drives virtual e depoimentos inloco na visita a infraestrutura, não fico claro para Comissão e nem foi evidenciado forma de avaliação periódica de sua adequação, qualidade e pertinência.
+      #biblioteca #laboratório #equipamentos #acessibilidade #infraestrutura #tecnologia
 
     [Nota: 3,00] QUÍMICA (Bacharelado) - ID: 2289302
       Contudo, existem editais desde 2021 para empréstimo de computadores aos discentes (PRAF/UFPR Programa de Apoio Pedagógico: modalidade de empréstimo de computadores). Atualmente estão contemplados 11 discentes do curso de licenciatura em química, segundo documentação disponibilizada em nuvem. Existem ainda dois espaços com cerca de 12 computadores para pesquisa, trabalhos e outras finalidades acadêmicas, mas estão situados dentro da biblioteca setorial de ciências e tecnologia, cujo acesso é previsto também para alunos dos outros cursos. Nesse sentido, durante a reunião virtual in loco com os discentes foi relatado que os poucos computadores disponíveis são ultrapassados, o acesso aos terminais torna-se limitado e o acesso à rede internet apresenta qualidade de razoável para ruim. Não foram apresentadas evidencias da existência de hardware e software atualizados, tampouco foram apresentadas evidências de avaliação periódica e de sua adequação, qualidade e pertinência.
+      #biblioteca #pedagógico #documentação #tecnologia
 
     [Nota: 4,00] CIÊNCIAS BIOLÓGICAS (Licenciatura) - ID: 2323769
       Porém, não dispõe de mecanismos de acessibilidade, como leitores de tela, softwares ampliadores ou teclados adaptados. Tal ausência repr inclusão previstos na Lei nº 13.146/2015 (Lei Brasileira de Inclusão), sendo considerada uma limitação no atendimento às necessidades de todos os estuda disso, não foram apresentados registros ou evidências de avaliação periódica da adequação e pertinência do espaço e dos equipamentos. Apesar do docente cada semestre, um levantamento das necessidades do laboratório, com base em avaliações sistemáticas, tal prática não pôde ser confirmada documentalme fichas, planilhas ou quaisquer registros que comprovassem formalmente a execução desse processo e de forma periódica.
+      #laboratório #prática #equipamentos #acessibilidade
 
 
   LOCALIZAÇÃO/SETOR: Campus Litoral (Qtd: 1)
@@ -1269,15 +1402,18 @@ Termos Frequentes: biblioteca(38), acervo(27), acesso(23), físico(11), bibliogr
   ------------------------------
     [Nota: 4,00] MATEMÁTICA INDUSTRIAL (Bacharelado) - ID: 2251358
       Mas em estado de renovação, contudo, seus acessos continuam funcionando. Foram disponibilizados no Drive IES/Curso documentos, como: Política de Desenvolvimento de Coleções (PDC) do Sistema de Bibliotecas da Universidade Federal do Paraná (Si Bi/UFPR); Aprovado pelo Comitê Gestor em 2023; Portaria nº 20/2024, de 18 de dezembro de 2024 - Estabelece o Regimento Interno do Sistema de Bibliotecas da Universidade Federal do Paraná; Plano Diretor do Si Bi/UFPR 2020-2026; Plano de contingência do Setor; e Parecer nº 1/2025/UFPR/R/ET/CMIND - Processo nº 23075.048240/2025-83 — Relatório de adequação das bibliografias básicas e complementares do Curso de Matemática Industrial. Além disso, foi observado garantia de acessibilidade para acesso ao acervo (equipamentos) e ao espaço. Em entrevista com a bibliotecária in loco que gerencia a biblioteca da IES, constatou-se que existem garantias ao acesso físico de forma ininterrupta via internet e pessoalmente. Foi verificado que a Biblioteca oferece acesso ao portal de periódicos da CAPES e, ainda, dispõe de periódicos impressos e online de apoio as UC's, sendo 87 títulos de Matemática, além dos vários bancos de dados que podem ser consultados (informação do PPC). Contudo, não ficou evidenciado ou claro para esta Comissão, através de documentos, que o acervo é gerenciado de modo a atualizar a quantidade de exemplares e/ou assinaturas de acesso mais demandadas.
+      #biblioteca #ppc #equipamentos #acessibilidade #dados
 
     [Nota: 3,00] CIÊNCIAS BIOLÓGICAS (Licenciatura) - ID: 2323769
       Contudo, não foi possível verificar, por meio da documentação apresentada ou durante a visita gravada Biblioteca de Ciências Biológicas. O tema foi abordado em diversas ocasiões com a bibliotecária responsável, que confirmou a inexistência desses recurso apenas na Biblioteca de Ciência e Tecnologia (conforme registrado em fala gravada). Ademais, também foi apontado pela bibliotecária, em registro audiov dependências da biblioteca é insatisfatória, o que pode impactar negativamente o uso de recursos digitais por parte dos usuários. Em outro momento da vis Educação, localizada no Campus Rebouças. Inaugurada em 2016, trata-se de uma unidade de menor porte, com sete computadores com acesso à internet, cursos de licenciatura. Nessa unidade, foram identificadas algumas ferramentas de acessibilidade, como teclado adaptado e o software Dos Vox. Considera fato, a unidade referencial para o curso de Licenciatura em Ciências Biológicas — por concentrar os títulos específicos do curso e ser o espaço mais utilize setor ao qual o curso está vinculado —, a ausência de recursos de acessibilidade representa uma não conformidade relevante, que merece atenção por parte luz do conjunto de elementos apresentados — como a estrutura física adequada, o acesso contínuo ao acervo digital, a atualização e compatibilidade da bit proporcionado pela rede de bibliotecas da instituição —, conclui-se que a ausência de recursos de acessibilidade nesta unidade, embora relevante, não com analisado. Tal aspecto foi devidamente ponderado na atribuição da conceituação final.
+      #biblioteca #acessibilidade #documentação #tecnologia
 
 
   LOCALIZAÇÃO/SETOR: Centro Politécnico (Qtd: 1)
   ------------------------------
     [Nota: 4,00] Pedagogia (Licenciatura) - ID: 2324552
       Mas os alunos só tem acesso. Tem ainda um espaço de convivência dos alunos com mesas e estante de jogos. Há também exposição de obras raras temáticas acada mês. Este espaço tem ótima acessibilidade com rampas e elevador. No segundo piso essa biblioteca atende aos cursos de Ciências Humanas com acervo circulante e nesse piso tem banheiros acessíveis. A biblioteca além do acervo físico tem contratocom a Minha Biblioteca Virtual o que favorece ainda mais a consulta bibliográfica dos alunos. Estão montando uma Sala Multimídia com equipamentos como teclado em braile para aumentar a imagem, um Big Ball imagem. Equipamentos para surdosainda não há nessa biblioteca. Nesse espaço tem uma grande quantidade de baias para os alunos estudarem com laptop, além desalas de estudo em grupos, cadeira para obeso, computador com scanner para aluno, sala de preparo técnico para livros. No terceiropiso da biblioteca tem mais três salas de estudo e cabine para cadeirante. As teses estão em formato digital desde 2017 e tem aindaperiódicos físicos com coleções antigas. A biblioteca conta com Plano de Contingência e de atualização do acervo e com o Plano da POLÍTICA DE DESENVOLVIMENTO DE COLEÇÕES (PDC) DO SISTEMA DE BIBLIOTECAS DA UNIVERSIDADEFEDERAL DO PARANÁ (Si Bi/UFPR). Todo o ambiente é bem iluminado e os alunos tem acesso à internet cabeada ou wifi, bemcomo a computador para pesquisa on line. O software utilizado pela Biblioteca Central do Campus da Reitoria da UFPR é o Sofia ABiblioteca. Constatou-se que o NDE do curso de Licenciatura em Pedagogia é atuante sugerindo referências bibliográficas novascom inúmeras atualizações conforme foi utilizado para a elaboração do novo PPC. O acervo da Bibliografia Básica e Complementar do curso está referendado por relatório de adequação, assinado pelo NDE, comprovando a compatibilidade, em cadatítulo e a quantidade de assinatura de acesso disponível no acervo. Os livros da bibliografia básica e bibliografia complementarpodem ser encontradas em acervo misto, ou seja, tanto físico no sistema de bibliotecas da UFPR, como o acervo digital pois abiblioteca campus disponibiliza link de acesso ao Portal de Periódicos Capes. Contudo embora o NDE do curso de Licenciatura em Pedagogia realize reuniões com a Biblioteca ( como em 24/04/25) para a Análise e construção de Relatório de Adequação das Bibliografias do Curso de Pedagogia, no PPC analisado pela Comissão as bibliografias Básica e Complementar necessitam de atualização. A Biblioteca conta com um PLANO DIRETOR DO Si Bi/UFPR 2020-202 e com Informações sobre a Biblioteca de Ciências Humanas: dados para Renovação de Reconhecimento do Curso Pedagogia. A Biblioteca CH dispõe para o curso de Pedagogia 15.068 itens no acervo (8.651títulos) entre livros, folhetos, obras de referência, CD-Rom, CD áudio, DVD's,monografias de graduação e especialização, teses e dissertações. O acervo de periódicos impresso contempla 440 títulos e 17.027fascículos. À comunidade acadêmica do Curso de Pedagogia está disponível o acervo da área de educação na Biblioteca do Campus Rebouças, sendo 3.450 títulos de livros (5.719 exemplares), 3.066 títulos de teses e dissertações (3.095 exemplares), 250 títulos defascículos de periódicos específicos da área de educação (9.275 exemplares). Além disso, os usuários podem emprestar materiaisdas demais unidades do Sistema de Biblioteca da UFPR. Além disso, a Instituição oferece à comunidade interna do Setor de Ciências Humanas a base de dados Humanities Source Ultimate (EBSCO) que contêm publicações de Letras Japonês, bem comooutras bases de dados multidisciplinares que contemplam diversas fontes com texto completo (jornais acadêmicos, revistas,periódicos, legislação, relatórios, livros, imagens e vídeos, entre outros conteúdos), com acesso livre em todo o ambiente da UFPRe via acesso remoto (proxy e rede CAFe). O acervo físico está tombado e informatizado, o virtual possui contrato que garante oacesso ininterrupto pelos usuários e ambos estão registrados em nome da IES. O acervo da bibliografia básica é adequado emrelação às unidades curriculares e aos conteúdos descritos no PPC, mas necessita de atualização considerando a natureza das UC.Inclusive o NDE Da mesma forma, está referendado por relatório de adequação, assinado pelo NDE, comprovando acompatibilidade, em cada bibliografia básica da UC, entre o número de vagas autorizadas (do próprio curso e de outros que utilizemos títulos) e a quantidade de exemplares por título (ou assinatura de acesso) disponível no acervo. Nos casos dos títulos virtuais, hágarantia de acesso físico na IES, com instalações e recursos tecnológicos que atendem à demanda e à oferta ininterrupta via internet,bem como de ferramentas de acessibilidade e de soluções de apoio à leitura, estudo e aprendizagem. O acervo possui exemplares,ou assinaturas de acesso virtual, de periódicos especializados que suplementam o conteúdo administrado nas UC.
+      #biblioteca #ppc #equipamentos #vagas #acessibilidade #dados
 
 ================================================================================
 
@@ -1291,18 +1427,21 @@ Termos Frequentes: biblioteca(29), acervo(21), acesso(19), bibliografia(13), tí
   ------------------------------
     [Nota: 4,00] MATEMÁTICA INDUSTRIAL (Bacharelado) - ID: 2251358
       Mas confirmada pela responsável pela biblioteca). No Drive virtual disponibilizado pela IES encontramos os seguintes documentos: Política de Desenvolvimento de Coleções (PDC) do Sistema de Bibliotecas da Universidade Federal do Paraná (Si Bi/UFPR) - Aprovado pelo Comitê Gestor em 2023; Portaria nº 20/2024, de 18 de dezembro de 2024 - Estabelece o Regimento Interno do Sistema de Bibliotecas da Universidade Federal do Paraná; Plano Diretor do Si Bi/UFPR 2020-2026; Plano de contingência do Setor; e Parecer nº 1/2025/UFPR/R/ET/CMIND - Processo nº 23075.048240/2025-83 — Relatório de adequação das bibliografias básicas e complementares do Curso de Matemática Industrial. Na visita via videoconferência a biblioteca verificou-se que a IES disponibiliza uma estrutura de biblioteca de dimensões boa em sua estrutura para atendimento de títulos de livros para os Cursos da TES e estão tombados e informatizados. Estão, são indicados 5 títulos para cada componente curricular, sendo o acervo com acesso pelo aluno pelo sistema Sofia (Gestão da biblioteca) é está adequado em relação às unidades curriculares e aos conteúdos descritos no PPC e está atualizado, considerando a natureza das UC, através Relatório de Adequação das Bibliografias Básicas e Complementares (disponibilizado via Drive virtual IES/Curso). Em entrevista com a bibliotecária da IES que gerencia a biblioteca da IES, constatou-se que existem garantias ao acesso físico de forma ininterrupta via internet e auxilio de forma pessoal com ferramentas de acessibilidade (observados conjuntos de computadores com teclado, lupa e dentre outros) para apoio à leitura, estudo e aprendizagem. Há uma política institucional de empréstimo de seus livros ao corpo discente com regras e normais institucionalizadas. Foi verificado que a biblioteca oferece acesso ao portal de periódicos da CAPES, com acervo que possui exemplares e assinaturas de acesso virtual que apoiam as UC's. Apesar de ser apresentado um plano de contingência institucional (Plano de Contingência do Setor de Bibliotecas (UFPR)), não ficou claro no PPC e nem foi apresentado um documento ou relatório mostrando que o acervo é gerenciado de modo a atualizar a quantidade de exemplares e/ou assinaturas de acesso mais demandadas.
+      #biblioteca #acessibilidade #ppc
 
 
   LOCALIZAÇÃO/SETOR: Campus Jandaia Do Sul (Qtd: 1)
   ------------------------------
     [Nota: 4,00] Ciências Exatas Quimica (Licenciatura) - ID: 2275330
       Entretanto, a análise do PPC revelou a ausência de referências a artigos científicos e periódicos atualizados, com predominância de literatura clássica e sem evidências de inovação, o que limita o acesso dos estudantes a conteúdos contemporâneos e à produção científica recente. Adicionalmente, não foi possível obter evidências de atualizações periódicas no número de exemplares físicos ou nas assinaturas de conteúdos digitais conforme a evolução da demanda dos cursos.
+      #inovação #ppc
 
 
   LOCALIZAÇÃO/SETOR: Centro Politécnico (Qtd: 1)
   ------------------------------
     [Nota: 4,00] Pedagogia (Licenciatura) - ID: 2324552
       Mas os alunos só tem acesso. Tem ainda um espaço de convivência dos alunos com mesas e estante de jogos. Há também exposição de obras raras temáticas acada mês. Este espaço tem ótima acessibilidade com rampas e elevador. No segundo piso essa biblioteca atende aos cursos de Ciências Humanas com acervo circulante e nesse piso tem banheiros acessíveis. A biblioteca além do acervo físico tem contratocom a Minha Biblioteca Virtual o que favorece ainda mais a consulta bibliográfica dos alunos. Estão montando uma Sala Multimídia com equipamentos como teclado em braile para aumentar a imagem, um Big Ball imagem. Equipamentos para surdosainda não há nessa biblioteca. Nesse espaço tem uma grande quantidade de baias para os alunos estudarem com laptop, além desalas de estudo em grupos, cadeira para obeso, computador com scanner para aluno, sala de preparo técnico para livros. No terceiropiso da biblioteca tem mais três salas de estudo e cabine para cadeirante. As teses estão em formato digital desde 2017 e tem aindaperiódicos físicos com coleções antigas. A biblioteca conta com Plano de Contingência e de atualização do acervo e com o Plano da POLÍTICA DE DESENVOLVIMENTO DE COLEÇÕES (PDC) DO SISTEMA DE BIBLIOTECAS DA UNIVERSIDADEFEDERAL DO PARANÁ (Si Bi/UFPR). Todo o ambiente é bem iluminado e os alunos tem acesso à internet cabeada ou wifi, bemcomo a computador para pesquisa on line. O software utilizado pela Biblioteca Central do Campus da Reitoria da UFPR é o Sofia ABiblioteca. Constatou-se que o NDE do curso de Licenciatura em Pedagogia é atuante sugerindo referências bibliográficas novascom inúmeras atualizações conforme foi utilizado para a elaboração do novo PPC. O acervo da Bibliografia Básica e Complementar do curso está referendado por relatório de adequação, assinado pelo NDE, comprovando a compatibilidade, em cadatítulo e a quantidade de assinatura de acesso disponível no acervo. Os livros da bibliografia básica e bibliografia complementarpodem ser encontradas em acervo misto, ou seja, tanto físico no sistema de bibliotecas da UFPR, como o acervo digital pois abiblioteca campus disponibiliza link de acesso ao Portal de Periódicos Capes. Contudo embora o NDE do curso de Licenciatura em Pedagogia realize reuniões com a Biblioteca ( como em 24/04/25) para a Análise e construção de Relatório de Adequação das Bibliografias do Curso de Pedagogia, no PPC analisado pela Comissão as bibliografias Básica e Complementar necessitam deatualização. A Biblioteca conta com um PLANO DIRETOR DO Si Bi/UFPR 2020-202 e com Informações sobre a Biblioteca de Ciências Humanas: dados para Renovação de Reconhecimento do Curso Pedagogia. A Biblioteca CH dispõe para o curso de Pedagogia 15.068 itens no acervo (8.651títulos) entre livros, folhetos, obras de referência, CD-Rom, CD áudio, DVD's,monografias de graduação e especialização, teses e dissertações. O acervo de periódicos impresso contempla 440 títulos e 17.027fascículos. À comunidade acadêmica do Curso de Pedagogia está disponível o acervo da área de educação na Biblioteca do Campus Rebouças, sendo 3.450 títulos de livros (5.719 exemplares), 3.066 títulos de teses e dissertações (3.095 exemplares), 250 títulos defascículos de periódicos específicos da área de educação (9.275 exemplares). Além disso, os usuários podem emprestar materiaisdas demais unidades do Sistema de Biblioteca da UFPR. Além disso, a Instituição oferece à comunidade interna do Setor de Ciências Humanas a base de dados Humanities Source Ultimate (EBSCO) que contêm publicações de Letras Japonês, bem comooutras bases de dados multidisciplinares que contemplam diversas fontes com texto completo (jornais acadêmicos, revistas,periódicos, legislação, relatórios, livros, imagens e vídeos, entre outros conteúdos), com acesso livre em todo o ambiente da UFPRe via acesso remoto (proxy e rede CAFe). O acervo físico está tombado e informatizado, o virtual possui contrato que garante oacesso ininterrupto pelos usuários e ambos estão registrados em nome da IES. O acervo da bibliografia básica é adequado emrelação às unidades curriculares e aos conteúdos descritos no PPC, mas necessita de atualização considerando a natureza das UC.Inclusive o NDE Da mesma forma, está referendado por relatório de adequação, assinado pelo NDE, comprovando acompatibilidade, em cada bibliografia básica da UC, entre o número de vagas autorizadas (do próprio curso e de outros que utilizemos títulos) e a quantidade de exemplares por título (ou assinatura de acesso) disponível no acervo. Nos casos dos títulos virtuais, hágarantia de acesso físico na IES, com instalações e recursos tecnológicos que atendem à demanda e à oferta ininterrupta via internet,bem como de ferramentas de acessibilidade e de soluções de apoio à leitura, estudo e aprendizagem. O acervo possui exemplares,ou assinaturas de acesso virtual, de periódicos especializados que suplementam o conteúdo administrado nas UC.
+      #biblioteca #ppc #equipamentos #vagas #acessibilidade #dados
 
 ================================================================================
 
@@ -1319,18 +1458,22 @@ Termos Frequentes: laboratório(30), aulas(15), equipamentos(15), práticas(13),
 
     [Nota: 4,00] MATEMÁTICA INDUSTRIAL (Bacharelado) - ID: 2251358
       Entretanto, não foram apresentados documentos no DRIVE ou não ficou claro para Comissão um documento ou relatório que mostra uma avaliação periódica quanto às demandas, aos serviços prestados e à qualidade do laboratório, que forneça ou gere resultados utilizados para gestão acadêmica planejar o incremento da qualidade do atendimento, da demanda existente e futura e das aulas ministradas e projetos realizados a serem realizados de forma constante e continua. 4
+      #laboratório
 
     [Nota: 3,00] MATEMÁTICA (Licenciatura) - ID: 2289301
       Conforme o PPC (p.14) Sistema E-MEC - O PPC do curso informa a existência de Laboratórios de Ensino de Matemática - LEM (PC14 e 19) e confirmada em visita técnica in loco no dia 03/04/2025. A sala PC 14 possui 7 mesas grandes com 12 cadeiras. Não possui identificação na entrada do ambiente e não possui climatização (ar condicionado e ventilador). Não possui normas de funcionamento devidamente declaradas e/ou afixadas no recinto. A sala PC19 ocupa um espaço físico de 65m2, com 4 computadores desktop, 3 notebook, 6 armários, TV LED e roteador de internet. Não possui placas de identificação na entrada do ambiente e nem possui normas de funcionamento devidamente declaradas e/ou afixadas no recinto. Não foram apresentados documentos comprobatórios de avaliação periódica dos laboratórios (pasta vazia).
+      #laboratório #ppc
 
     [Nota: 4,00] CIÊNCIAS BIOLÓGICAS (Licenciatura) - ID: 2323769
       O Setor de Ciências Biológicas (SCB) da Universidade Federal do Paraná (UFPR) abriga um número expressivo de laboratc 12 programas de pós-graduação stricto sensu. O Setor é estruturado em oito Departamentos: Patologia Básica, Fisiologia, Genética, Botânica, Zoologia, Bi Departamento mantém laboratórios didáticos sob gestão direta de suas respectivas chefias, com relativa autonomia na administração dos espaços. A análise ambiente virtual, aliada à conferência in loco dos insumos, mobiliários e equipamentos, bem como às entrevistas realizadas com estudantes, permitiu verif atendem de forma adequada às necessidades do curso de Ciências Biológicas — Licenciatura, conforme previsto no Projeto Pedagógico do Curso (PPC). O: oferecem condições satisfatórias de conforto aos usuários, incluindo salas climatizadas, ventilação e iluminação adequadas, além de número compatível de registrados por professores e técnicos durante a visita guiada. Observou-se, ainda, a presença de câmeras de segurança e portas com fechadas digitais nas c proteção dos usuários e dos materiais. Embora existam variações nos procedimentos de manutenção preventiva e corretiva, em razão da autonomia admini visitados contam com o suporte de técnicos e docentes responsáveis, garantindo o funcionamento contínuo das atividades práticas. Os docentes dispõem d: das aulas, tais como projetores multimídia, rede Wi-Fi, computadores e equipamentos para projeção de imagens microscópicas. Também foi confirmada, d materiais e equipamentos necessários à realização das atividades práticas, com suporte técnico permanente. Por outro lado, não foi identificada, na docume existência de um processo específico e periódico de avaliação das demandas, dos serviços prestados e da qualidade dos laboratórios didáticos. Técnicos e | contínuo das condições dos espaços e a manutenção rotineira dos equipamentos, além de uma comunicação direta dos estudantes sobre eventuais necessid: processo sistemático, periódico e formal de avaliação. Quando questionados sobre a documentação correspondente, os docentes indicaram que esse proces instância realiza avaliações generalistas sobre as disciplinas, não contemplando as especificidades observadas nos laboratórios visitados. Dessa forma, a at pode limitar o planejamento e a gestão das demandas dos laboratórios no âmbito dos Departamentos, impactando negativamente a qualidade das aulas.
+      #prática #laboratório #ppc #documentação #equipamentos #pedagógico
 
 
   LOCALIZAÇÃO/SETOR: Campus Jandaia Do Sul (Qtd: 1)
   ------------------------------
     [Nota: 4,00] Ciências Exatas Quimica (Licenciatura) - ID: 2275330
       0s laboratórios didáticos vinculados ao curso atendem plenamente às exigências estabelecidas no Projeto Pedagógico de Curso (PPC), bem como às normas institucionais de funcionamento, utilização e segurança. A infraestrutura disponível assegura as condições necessárias para o desenvolvimento das atividades práticas previstas na matriz curricular, com conforto, manutenção periódica, suporte técnico qualificado e disponibilidade de recursos de tecnologias da informação e comunicação (TIC) compatíveis com as demandas acadêmicas. O Laboratório Didático de Química encontra-se devidamente equipado para a realização de experimentos relacionados às disciplinas de Química Geral, Química Orgânica, Físico-Química, Química Analítica e Química Inorgânica. O espaço conta com vidrarias, materiais e reagentes em quantidade suficiente para atender à demanda de estudantes e professores. Além destes insumos, ol laboratório possui capelas, espectrofotômetro, p H'metro e balanças analíticas. Atualmente, quatro servidores técnicos em laboratório da área de Química atuam diretamente no suporte e na elaboração das práticas experimentais, garantindo a qualidade e a segurança das atividades. Destes 4 técnicos 2 são doutores. O Laboratório de Física possui espaço adequado para atender às turmas da Licenciatura em Ciências Exatas — Habilitação em Química. Está equipado com computadores que utilizam o software PASCO Capstone, voltado à realização de experimentos com kits experimentais da PASCO, permitindo a modelagem e análise de fenômenos físicos. O suporte técnico é realizado por dois profissionais com titulação de doutorado, os quais atuam no preparo dos aparatos experimentais, na manutenção dos equipamentos, na gestão do espaço e na proposição de novas práticas investigativas, inclusive no âmbito de projetos de extensão desenvolvidos no campus. Além das atividades didáticas, ambos os profissionais também realizam pesquisas em suas respectivas áreas de formação na Física, fortalecendo a integração entre ensino, pesquisa e extensão. A gestão e a operacionalização de todos os laboratórios do campus são coordenadas pela Seção de Laboratório Acadêmico dos Cursos (SLAC), que garante o controle e a manutenção dos espaços, o cumprimento das normas de segurança e a disponibilidade de insumos e equipamentos. Os ambientes laboratoriais apresentam estrutura compatível com a capacidade física dos espaços e com o número de vagas ofertadas pelo curso, garantindo condições adequadas para a execução das atividades práticas. Essa infraestrutura laboratorial qualificada contribui significativamente para a formação técnica e científica dos estudantes, promovendo a articulação entre teoria e prática e assegurando a qualidade do processo de ensino-aprendizagem. Por fim, não ficou evidente, a partir das informações apresentadas, quais resultados são utilizados pela gestão acadêmica para subsidiar o planejamento de ações voltadas ao incremento da qualidade do atendimento aos discentes, à previsão da demanda existente e futura, bem como à melhoria contínua das aulas ministradas.
+      #prática #laboratório #ppc #equipamentos #teoria #vagas #pedagógico #infraestrutura #tecnologia
 
 
   LOCALIZAÇÃO/SETOR: Campus Reitoria (Qtd: 1)
@@ -1353,21 +1496,25 @@ Termos Frequentes: laboratórios(23), práticas(12), didáticos(11), pedagógica
 
     [Nota: 3,00] MATEMÁTICA (Licenciatura) - ID: 2289301
       Conforme o PPC (p.31) Sistema E-MEC - A formação específica nas áreas de conhecimento para a educação básica deve propiciar que o aluno desenvolva argumentos para questionar a cultura, a sociedade e o meio em que vive. A aprendizagem de conceitos deverá ser orientada pelo princípio da ação-reflexão- ação que aponta a solução de problemas como uma das estratégias didáticas privilegiadas. O domínio de conteúdos específicos do campo pedagógico e dos processos de investigação sobre o ensino e a aprendizagem deve possibilitar o contínuo aperfeiçoamento da prática pedagógica. No Laboratório de Didático de formação específica de Matemática, localizado no Campus Rebouças, Ed. Teixeira Soares, foi possível encontrar diversos materiais didáticos pedagógicos que são utilizados nas atividades práticas do discente, como por exemplo: escala cuisinaire, blocos lógicos, tangram, ábaco (soroban), material dourado (pequeno e grande), caleidoscópio, torre de hanoy entre outros. Não foram apresentados documentos comprobatórios de avaliação periódica nestes laboratórios (pasta vazia).
+      #laboratório #prática #pedagógico #ppc
 
     [Nota: 4,00] QUÍMICA (Bacharelado) - ID: 2289302
       Com base na visita virtual in loco, a comissão de avaliação observou que os laboratórios didáticos atendem às necessidades do curso de acordo com as respectivas normas de funcionamento, utilização e segurança, apresentam conforto, manutenção periódica. Observou-se a presença de piso tátil no corredor central que dá acesso aos laboratórios, banheiros com acessibilidade e sala de descano para os técnicos, em cada um dos andares. Os laboratórios didáticos possuem quantidade de insumos, materiais e equipamentos condizentes com os espaços físicos e o número de vagas a saber: p Hmetros, balanças analíticas, cadinhos, buretas, espectrofotômetros, muflas, estufas, phmetros, fotômetros de chama, centrífugas, polarímetro, micropipetas, eletrodos, destililadores, vórtex, chapas de aquecimento, condutivimetro, banhos térmicos, pias, linhas de gás, capelas individuais e coletivas, geladeira, rotoevaporador, bombas de vácuo, microscópio, geladeiras, dessecadores, destilador de osmose, vidrarias e reagentes em grandes quantidades. Estão disponíveis um total de 15 laboratórios didáticos, todos com saída de emergência, chuveiro e lava olhos, ar-condicionado, lousa e bancadas para trabalho coletivo. A avaliação periódica quanto às demandas, aos serviços prestados e à qualidade dos laboratórios existe e foi apresentada à comissão avaliadora pelos representantes da CPA via reunião virtual e são corroboradas pelos relatórios de autoavaliação disponibilizados em nuvem e disponíveis para consulta em cpa.ufpr.br. A comissão de avaliação não observou evidências atualizadas de que os resultados sendo utilizados pela gestão acadêmica para planejar o incremento da qualidade do atendimento, da demanda existente e futura e das aulas ministradas.
+      #laboratório #autoavaliação #equipamentos #vagas #acessibilidade
 
 
   LOCALIZAÇÃO/SETOR: Campus Jandaia Do Sul (Qtd: 1)
   ------------------------------
     [Nota: 4,00] Ciências Exatas Quimica (Licenciatura) - ID: 2275330
       0s laboratórios didáticos voltados às Práticas Pedagógicas do curso de Licenciatura em Ciências Exatas — Química atendem plenamente às diretrizes do Projeto Pedagógico de Curso (PPC) e às normas institucionais de funcionamento, segurança e uso. Esses espaços foram concebidos para proporcionar ambientes de aprendizagem adequados ao desenvolvimento das competências pedagógicas necessárias à formação docente, articulando teoria e prática de forma integrada e significativa. O Laboratório de Práticas Pedagógicas possui mesas amplas que permitem a realização de atividades tanto individuais quanto em grupo, cadeiras estofadas que garantem conforto aos usuários, ventiladores, quadro branco, projetor multimídia e armários (altos e baixos) para o armazenamento e a exposição de materiais didáticos, muitos deles produzidos pelos próprios estudantes durante as disciplinas específicas da área de Ensino de Química. O ambiente promove a valorização da produção acadêmica discente e incentiva práticas pedagógicas inovadoras. Além disso, estão disponíveis no local documentos essenciais como o Regimento do Laboratório e o Guia Prático de Primeiros Socorros, assegurando o acesso às normas de segurança e ao bom uso do espaço, reforçando o compromisso institucional com a segurança e a organização das atividades desenvolvidas. O curso conta ainda com dois laboratórios de Práticas Pedagógicas equipados com projetor, tela de projeção e computadores. Um desses laboratórios, denominado “Paulo Freire”, possui área de 80 m? e mobiliário versátil, permitindo a organização do espaço físico de forma flexível, de acordo com as metodologias didáticas empregadas. Esses ambientes são dotados de acesso à rede de internet sem fio (Wi-Fi), o que amplia as possibilidades de integração com recursos digitais e atividades interativas. O suporte técnico e operacional é garantido por três servidores da área de Tecnologia da Informação (TT), que prestam assistência contínua quanto ao uso dos equipamentos e à infraestrutura digital dos laboratórios, contribuindo para a fluidez das aulas e projetos pedagógicos. Os Laboratórios de Práticas Pedagógicas cumprem papel fundamental na formação inicial dos licenciandos, servindo de espaço privilegiado para a vivência de metodologias ativas, elaboração de recursos didáticos, simulações de práticas de ensino e desenvolvimento de projetos integradores. A estrutura física e tecnológica disponível é compatível com as atividades previstas no PPC, com o número de vagas ofertadas e com os objetivos formativos do curso. Além dos laboratório descritos acima, vale mencionar o laboratório de espectrometria de massas que possui um Laboratório Fenn de Espectrometria de Massas (Lab Fenn), coordenado pelo Prof. Eduardo C. Meurer. Lá eles trabalham com um espectrômetro de massas triplo quadrupolo acoplado ao UPLC. Neste laboratório acontecem algumas aulas práticas da disciplina de analises instrumental e atualmente está sendo realziado um projeto de extensão/ensino denominado Café com Massas, onde diariamente os alunos, que possuem interesse, do referido curso, assistem algumas aulas e treinamentos por 1 hora pela manhã. Este é um projeto recente, de apenas duas semanas. Por fim, não foram identificadas evidências claras de que a gestão acadêmica utilize de forma sistemática os resultados obtidos para embasar o planejamento de ações que visem à melhoria da qualidade do atendimento aos estudantes, à projeção da demanda atual e futura, e ao aperfeiçoamento das aulas oferecidas.
+      #metodologia #prática #laboratório #ppc #equipamentos #teoria #vagas #pedagógico #infraestrutura #tecnologia
 
 
   LOCALIZAÇÃO/SETOR: Campus Reitoria (Qtd: 1)
   ------------------------------
     [Nota: 4,00] LETRAS PORTUGUÊS (Bacharelado) - ID: 2324555
       Durante a visita virtual in loco pode-se constatar que o IES possui laboratórios de Informática nos Ed. Dom Pedro Ie Dom! fazer a manutenção e atualização das máquinas periodicamente. Não observamos nos laboratórios equipamentos específicos para pessoas com deficiência.
+      #laboratório #equipamentos
 
 ================================================================================
 

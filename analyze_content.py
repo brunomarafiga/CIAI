@@ -1,6 +1,6 @@
 import pandas as pd
 import re
-from collections import Counter
+from collections import Counter, defaultdict
 import sys
 
 # Define stopwords for Portuguese content analysis
@@ -33,8 +33,24 @@ try:
         'ser', 'são', 'está', 'foi', 'pelo', 'pela', 'sobre', 'pois', 'cada', 'têm', 'tem'
     })
 except ImportError:
-    print("NLTK not found or data missing.")
+    print("NLTK not found or data missing. Install nltk and run nltk.download('rslp') and nltk.download('stopwords')")
     stemmer = None
+
+# --- Bardin Categories Configuration ---
+BARDIN_CATEGORIES = {
+    "1. Formalização da Inovação e Diferenciação": [
+        "inovação", "inovaçao", "inovacao", "metodologia", "teoriaprática", "teoriapratica",
+        "pedagógico", "pedagogico", "tecnologia", "teoria", "prática", "pratica"
+    ],
+    "2. Gestão, Ciclos de Feedback e Dados": [
+        "feedback", "autoavaliação", "autoavaliacao", "dados", "documentação", "documentacao",
+        "indicadores", "acompanhamento", "egresso", "ppc", "planejamentoausente", "nadanegativoinformado"
+    ],
+    "3. Adequação e Qualidade da Infraestrutura/Recursos": [
+        "infraestrutura", "acessibilidade", "biblioteca", "laboratório", "laboratorio",
+        "vagas", "equipamentos"
+    ]
+}
 
 # --- Helper Functions ---
 
@@ -111,6 +127,24 @@ def get_top_keywords(text_series, n=15):
         
     return sorted(final_list, key=lambda x: x[1], reverse=True)[:n]
 
+def identify_bardin_categories(text):
+    """
+    Identifies Bardin categories based on keyword matching in the text.
+    Returns: Set of category names AND a list of 'hashtags' (keywords formatted as tags).
+    """
+    text_lower = text.lower()
+    found_categories = set()
+    found_tags = set()
+
+    for category, keywords in BARDIN_CATEGORIES.items():
+        for keyword in keywords:
+            # Check for keyword presence (whole word match preferred but substring usually safer for variations if not exact)
+            # Using simple inclusion for robustness
+            if keyword in text_lower:
+                found_categories.add(category)
+                found_tags.add(f"#{keyword}")
+    
+    return found_categories, list(found_tags)
 
 # --- Main Analysis Logic ---
 
@@ -179,6 +213,10 @@ def analyze_content():
         print("No low grades found. Check parsing logic or data.")
         return
 
+    # Prepare Bardin Data Structure
+    bardin_categorized = defaultdict(list)
+    bardin_uncategorized = []
+
     # 5. Group and Analyze
     output_lines = []
     output_lines.append(f"ANÁLISE DE INDICADORES COM NOTA < 5\n")
@@ -218,7 +256,8 @@ def analyze_content():
                 grade = str(row['Grade']).strip()
                 mec_id = str(row['Id_MEC']).strip()
                 
-                output_lines.append(f"    [Nota: {grade}] {course_name} ({modality}) - ID: {mec_id}")
+                header_line = f"    [Nota: {grade}] {course_name} ({modality}) - ID: {mec_id}"
+                output_lines.append(header_line)
                 
                 justification = str(row['Justification']).strip()
                 
@@ -254,17 +293,73 @@ def analyze_content():
                         filtered_text = filtered_text[0].upper() + filtered_text[1:]
                     justification = filtered_text
                 
+                # --- BARDIN CATEGORIZATION (Auto-Tagging) ---
+                cats, tags = identify_bardin_categories(justification)
+                
+                # Store for Bardin Report
+                bardin_entry = f"{header_line}\n      {justification}\n{' '.join(tags)}"
+                
+                if cats:
+                    for cat in cats:
+                        bardin_categorized[cat].append(bardin_entry)
+                else:
+                    bardin_uncategorized.append(bardin_entry)
+
+                # Append to Main Report
                 for line in justification.split('\n'):
                      output_lines.append(f"      {line.strip()}")
+                
+                if tags:
+                    output_lines.append(f"      {' '.join(tags)}") # Show tags in main report too
+                
                 output_lines.append("") 
             
         output_lines.append("=" * 80 + "\n")
 
-    # Save Report
+    # Save Main Report
     with open('low_grades_justifications.txt', 'w', encoding='utf-8') as f:
         f.writelines([l + '\n' for l in output_lines])
     
-    print("Analysis complete. Saved to 'low_grades_justifications.txt'.")
+    print("Main analysis complete. Saved to 'low_grades_justifications.txt'.")
+    
+    # Save Bardin Report
+    with open('bardin_analysis_report.txt', 'w', encoding='utf-8') as f:
+        f.write("RELATÓRIO DE ANÁLISE DE CONTEÚDO (BARDIN)\n")
+        f.write("="*80 + "\n\n")
+        
+        f.write("RESUMO QUANTITATIVO\n")
+        total_justifications = sum(len(v) for v in bardin_categorized.values()) + len(bardin_uncategorized)
+        f.write(f"Total de Justificativas Analisadas: {len(low_grades)}\n")
+        f.write("-" * 40 + "\n")
+        
+        sorted_cats = sorted(BARDIN_CATEGORIES.keys())
+        
+        for cat in sorted_cats:
+            count = len(bardin_categorized[cat])
+            f.write(f"{cat}: {count} ocorrências\n")
+            
+        f.write(f"Outros / Não Categorizados: {len(bardin_uncategorized)} ocorrências\n")
+        f.write("="*80 + "\n\n")
+        
+        f.write("DETALHAMENTO POR CATEGORIA\n\n")
+        
+        for cat in sorted_cats:
+            items = bardin_categorized[cat]
+            if not items: continue
+            
+            f.write(f"{'='*20} {cat} ({len(items)}) {'='*20}\n\n")
+            for item in items:
+                f.write(item + "\n")
+                f.write("-" * 80 + "\n")
+            f.write("\n")
+            
+        if bardin_uncategorized:
+            f.write(f"{'='*20} Outros / Não Categorizados ({len(bardin_uncategorized)}) {'='*20}\n\n")
+            for item in bardin_uncategorized:
+                f.write(item + "\n")
+                f.write("-" * 80 + "\n")
+
+    print("Bardin analysis complete. Saved to 'bardin_analysis_report.txt'.")
 
 if __name__ == "__main__":
     analyze_content()
