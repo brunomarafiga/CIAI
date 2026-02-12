@@ -1,26 +1,35 @@
-import re
-import pandas as pd
-import google.generativeai as genai
-from tqdm import tqdm
-import time
-import json
 import os
+import json
+import time
+from tqdm import tqdm
+import google.generativeai as genai
+import pandas as pd
+import re
+from dotenv import load_dotenv
+
+# Caminhos dos arquivos (Ajustados para a nova estrutura de pastas)
+BASE_DIR = os.path.dirname(os.path.abspath(__file__)) # src/
+PROJECT_ROOT = os.path.dirname(BASE_DIR)              # root/
+
+# Carregar variáveis de ambiente
+load_dotenv(os.path.join(PROJECT_ROOT, '.env'))
 
 # ==========================================
 # CONFIGURAÇÃO
 # ==========================================
 
-# 1. COLOQUE SUA API KEY DO GEMINI AQUI
-GOOGLE_API_KEY = "AIzaSyBdxeibulQKkm5XxdTLqb-uwXp7CwSPjT8" 
+# 1. COLOQUE SUA API KEY DO GEMINI AQUI (Vindo do .env agora)
+GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
+
+# Verifica se a chave foi carregada corretamente
+if not GOOGLE_API_KEY:
+    raise ValueError("A chave da API (GOOGLE_API_KEY) não foi encontrada no arquivo .env!")
 
 # Configuração da IA
 genai.configure(api_key=GOOGLE_API_KEY)
 model = genai.GenerativeModel('models/gemini-3-flash-preview')
 
-# Caminhos dos arquivos (Ajustados para a nova estrutura de pastas)
-import os
-BASE_DIR = os.path.dirname(os.path.abspath(__file__)) # src/
-PROJECT_ROOT = os.path.dirname(BASE_DIR)              # root/
+
 
 ARQUIVO_ENTRADA = os.path.join(PROJECT_ROOT, 'data', 'justificativas_notas_baixas.txt')
 ARQUIVO_SAIDA_CSV = os.path.join(PROJECT_ROOT, 'data', 'tabela_dados_processados.csv')
