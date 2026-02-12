@@ -1,58 +1,88 @@
-# CIAI - Análise de Avaliações Externas (MEC/INEP)
+# CIAI - Análise de Avaliações Externas (MEC/INEP) - UFPR
 
-Projeto de análise automatizada de relatórios de avaliação do MEC, utilizando Inteligência Artificial (Gemini) para identificar gargalos e sugerir melhorias.
+Este repositório é dedicado à análise de dados da **CIAI (Coordenadoria de Indicadores e Avaliação Institucional)** da **UFPR (Universidade Federal do Paraná)**.
+
+Projeto de análise automatizada de relatórios de avaliação de cursos do MEC, utilizando Inteligência Artificial (Gemini) e técnicas de NLP (Bardin) para identificar gargalos, extrair justificativas de notas baixas e sugerir melhorias.
 
 ## 📂 Estrutura de Pastas
 
-### `src/` (Código Fonte)
+### `src/` (Código Fonte Principal)
 
-Scripts principais do projeto.
+Scripts principais e ferramentas de processamento de dados.
 
-- **`processar_avaliacoes.py`**: Script principal. Lê os dados, processa com Gemini e gera relatórios.
-- **`humanizar_texto.py`**: Ferramenta para reescrever textos técnicos com linguagem natural e fluida.
-- **`legacy/`**: Scripts antigos arquivados, mantidos para referência:
-  - **`ferramentas_legado.py`**: **SCRIPT UNIFICADO**. Menu interativo para executar qualquer uma das ferramentas legadas abaixo.
-  - **`analise_conteudo_nlp.py`**: Análise de conteúdo das justificativas usando técnicas de NLP (Bardin, RSLP Stemmer).
-  - **`aplicar_renomeacao_arquivos.py`**: Aplica renomeação em massa de arquivos baseada em um CSV de mapeamento.
-  - **`extracao_dados_pdf_ocr.py`**: Extração consolidada de dados de relatórios PDF, incluindo suporte a OCR.
-  - **`extracao_justificativas_pdf.py`**: Extração focada apenas nas justificativas de conceitos nos PDFs.
-  - **`gerar_mapa_renomeacao.py`**: Gera o mapeamento CSV para padronização de nomes de arquivos (Ano - Curso - Cidade).
+- **`legacy/`**: Scripts consolidados de pré-processamento (Renomeação, Extração, OCR e NLTK).
+  - **`extração.py`**: **FERRAMENTA UNIFICADA (NOVO)**. Consolida todas as etapas em um único fluxo:
+      1.  **Renomeação**: Padroniza nomes de arquivos (Ano - Curso - Cidade).
+      2.  **Extração**: Extrai metadados, notas e justificativas de PDFs (com OCR automático).
+      3.  **Análise**: Categoriza justificativas usando metodologia Bardin (Inovação, Gestão, Infraestrutura).
+      - *Uso Interativo*: `python src/legacy/extração.py` (Menu)
+      - *Uso Automatizado*: `python src/legacy/extração.py --pipeline`
+  - *Outros scripts*: Mantidos como histórico (`ferramentas_legado.py`, `analise_conteudo_nlp.py`, etc.).
+
+- **`processar_avaliacoes.py`**: **ANÁLISE COM IA (GEMINI)**. Script principal que consome os dados extraídos (`.json`/`.csv`) e gera relatórios estratégicos usando LLMs para análise profunda de sentimento e categorização semântica.
+- **`humanizar_texto.py`**: Utilitário para reescrever textos técnicos em linguagem natural.
 
 ### `data/` (Dados)
 
-Arquivos de entrada e saída de dados brutos.
+Arquivos de entrada e saída.
 
 - **`inputs/`**:
-  - `Relatórios.CSV`: Base original (se aplicável).
-  - `justificativas_notas_baixas.txt`: Texto extraído das justificativas com nota < 5.
+  - `rename_mapping.csv`: Mapeamento gerado para renomeação de arquivos.
+  - Relatórios em PDF (na raiz ou subpastas configuradas).
 - **`outputs/`**:
-  - `tabela_dados_processados.csv`: Dados estruturados gerados pela IA (Categorias, Tags, Pontos Negativos).
+  - `relatorio_consolidado_extraido.json`: Dados estruturados (Notas, Metadados).
+  - `relatorio_justificativas.json`: Justificativas extraídas por indicador.
+  - `bardin_analysis_report.txt`: Relatório de análise categórica (Bardin).
+  - `low_grades_justifications.txt`: Relatório focado em notas < 5.
 
-### `reports/` (Relatórios)
+### `reports/` (Relatórios Finais)
 
-Documentos finais para consumo humano.
-
-- **`relatorio_executivo.txt`**: **RELATÓRIO FINAL CONSOLIDADO**. Documento estratégico estilizado.
-- **`log_analise_ia.txt`**: Logs detalhados da análise da IA.
+- **`relatorio_executivo.txt`**: Documento estratégico consolidado.
+- **`log_analise_ia.txt`**: Logs técnicos da análise da IA.
 
 ## 🚀 Como Usar
 
-1. **Análise de Dados:**
-   Execute o script principal para processar novos dados:
+### 1. Pré-Processamento (Renomeação e Extração)
 
-   ```bash
-   python src/processar_avaliacoes.py
-   ```
+Antes da análise com IA, execute a ferramenta unificada para preparar os dados:
 
-2. **Humanização de Texto:**
-   Para melhorar a redacção de um texto:
+```bash
+# Modo Interativo (Menu)
+python src/legacy/extração.py
 
-   ```bash
-   python src/humanizar_texto.py
-   ```
+# Modo Automático (Pipeline Completo)
+python src/legacy/extração.py --pipeline
+```
+
+Isso irá:
+1.  Renomear PDFs para o padrão `Ano - Curso - Cidade.pdf`.
+2.  Extrair textos (usando OCR se necessário).
+3.  Gerar JSONs de dados estruturados.
+4.  Criar relatórios preliminares de análise de conteúdo (Bardin).
+
+### 2. Análise Estratégica (IA)
+
+Com os dados extraídos, execute a análise profunda com Gemini:
+
+```bash
+python src/processar_avaliacoes.py
+```
+
+### 3. Humanização (Opcional)
+
+Para refinar textos gerados:
+
+```bash
+python src/humanizar_texto.py
+```
 
 ## 📋 Pré-requisitos
 
-- Python 3.x
-- Bibliotecas: `google-generativeai`, `pandas`, `tqdm`.
-- Chave de API do Google Gemini configurada.
+- Python 3.8+
+- Bibliotecas Python:
+  ```bash
+  pip install pandas pypdf tqdm google-generativeai nltk
+  ```
+- **Opcional (para OCR)**: `PyMuPDF`, `pytesseract`, `Pillow`.
+  - Requer [Tesseract-OCR](https://github.com/UB-Mannheim/tesseract/wiki) instalado no sistema.
+- **Chave de API**: Variável de ambiente `GOOGLE_API_KEY` configurada para uso do Gemini.
