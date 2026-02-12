@@ -17,10 +17,14 @@ GOOGLE_API_KEY = "AIzaSyBdxeibulQKkm5XxdTLqb-uwXp7CwSPjT8"
 genai.configure(api_key=GOOGLE_API_KEY)
 model = genai.GenerativeModel('models/gemini-3-flash-preview')
 
-# Caminhos dos arquivos
-ARQUIVO_ENTRADA = 'low_grades_justifications.txt'
-ARQUIVO_SAIDA_CSV = 'Base_Dados_PowerBI.csv'
-ARQUIVO_SAIDA_TXT = 'Relatorio_Processado_Gemini.txt'
+# Caminhos dos arquivos (Ajustados para a nova estrutura de pastas)
+import os
+BASE_DIR = os.path.dirname(os.path.abspath(__file__)) # src/
+PROJECT_ROOT = os.path.dirname(BASE_DIR)              # root/
+
+ARQUIVO_ENTRADA = os.path.join(PROJECT_ROOT, 'data', 'justificativas_notas_baixas.txt')
+ARQUIVO_SAIDA_CSV = os.path.join(PROJECT_ROOT, 'data', 'tabela_dados_processados.csv')
+ARQUIVO_SAIDA_TXT = os.path.join(PROJECT_ROOT, 'reports', 'log_analise_ia.txt')
 
 # Definição das Categorias SUGERIDAS (mas não limitantes)
 CATEGORIAS_SUGERIDAS = [
