@@ -1,0 +1,36 @@
+# ── Saídas geradas ──────────────────────────────────────────────────────────
+relatorio.json
+rename_mapping.json
+bardin_analysis.json
+
+# ── Arquivos PDF (dados brutos – não versionar) ──────────────────────────────
+*.pdf
+
+# ── Arquivos CSV (referência local) ─────────────────────────────────────────
+*.csv
+
+# ── Cache e artefatos de OCR ─────────────────────────────────────────────────
+ocr_cache/
+
+# ── Ambiente virtual Python ──────────────────────────────────────────────────
+venv/
+.venv/
+env/
+
+# ── Cache Python ─────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# ── Arquivos de debug e teste temporários ────────────────────────────────────
+test_page.png
+test_page_annots.png
+test_page_ocr.txt
+test_text.txt
+debug_mec.py
+test_ocr.py
+
+# ── Windows ──────────────────────────────────────────────────────────────────
+desktop.ini
+Thumbs.db
