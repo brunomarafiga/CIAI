@@ -77,3 +77,12 @@ python test_relatorio.py
 - O script usa **processamento sequencial** para evitar explosão de memória com o modelo PaddleOCR (~500 MB por instância).
 - O PyMuPDF (`fitz`) é usado para extração nativa de texto; o OCR só é acionado como fallback.
 - Os PDFs **não são versionados** (`.gitignore`) pois são dados sigilosos do MEC.
+
+## Contexto do projeto
+
+- **Categoria:** Engenharia de dados
+- **Temas e tecnologias:** Python, PyMuPDF, OCR, extração de relatórios e dados institucionais
+- **Visibilidade:** Público
+- **Repositório:** <https://github.com/brunomarafiga/CIAI>
+
+Este README apresenta o objetivo, a organização e as instruções de uso do projeto. Consulte os arquivos e diretórios do repositório para detalhes de implementação e materiais complementares.
