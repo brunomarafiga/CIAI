@@ -1,79 +1,79 @@
-# CIAI – Scripts de Extração de Relatórios MEC
+<div align="center">
 
-Pipeline de extração automática de dados dos **Relatórios de Avaliação In Loco** emitidos pelo e-MEC, desenvolvido pela Coordenadoria de Indicadores e Avaliação Institucional (CIAI) da UFPR.
+# 🏛️ CIAI — Pipeline de Extração & Análise de Conteúdo e-MEC
+### Coordenadoria de Indicadores e Avaliação Institucional • UFPR
 
----
+**Mineração Automatizada de Relatórios In Loco do MEC e Análise Textual Baseada na Metodologia Bardin**
 
-## Visão Geral
+[![Python Version](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)](https://python.org)
+[![UFPR](https://img.shields.io/badge/Unidade-CIAI%20%2F%20PROPLAN%20UFPR-004587)](https://www.ufpr.br)
+[![Metodologia](https://img.shields.io/badge/NLP%20%26%20An%C3%A1lise-Metodologia%20Bardin-purple)](#-análise-de-conteúdo-segundo-bardin)
+[![Status](https://img.shields.io/badge/Status-Em%20Produ%C3%A7%C3%A3o-success)](#)
 
-O pipeline lê PDFs de avaliação in loco e extrai de forma automatizada:
-
-- Metadados do curso (nome, código e-MEC, ano, modalidade, campus, cidade)
-- Notas de cada indicador (1.1 a 3.17)
-- Justificativas textuais por indicador
-- Conceito Final Contínuo e Conceito Final Faixa
-
-A saída é um arquivo `relatorio.json` com um registro por indicador por PDF.
+</div>
 
 ---
 
-## Estrutura dos Scripts
+## 📌 Visão Geral
 
-| Arquivo | Descrição |
-|---|---|
-| `config.py` | Configurações compartilhadas: paths, padrões regex de campus/modalidade/ano |
-| `extração.py` | **Script principal** – extrai todos os PDFs e gera `relatorio.json` |
-| `1_gerar_mapa_renomeacao.py` | Gera mapeamento de renomeação de arquivos PDF |
-| `2_aplicar_renomeacao.py` | Aplica a renomeação padronizada nos PDFs |
-| `4_analise_bardin.py` | Análise de categorias Bardin sobre as justificativas extraídas |
-| `test_relatorio.py` | Testes de qualidade e cobertura sobre o `relatorio.json` gerado |
+Desenvolvido para a **Coordenadoria de Indicadores e Avaliação Institucional (CIAI)** da Universidade Federal do Paraná (UFPR), este repositório contém a suíte completa de scripts para extração, higienização, mapeamento e análise de dados contidos nos **Relatórios de Avaliação In Loco** emitidos pelo Ministério da Educação (**e-MEC**).
+
+O ecossistema transforma dezenas de relatórios em formato PDF não estruturado em bases analíticas estruturadas (`.json` e `.csv`), viabilizando a identificação de pontos de fragilidade e excelência nos cursos de graduação da universidade.
 
 ---
 
-## Dependências
+## 🔄 Fluxo de Processamento de Dados
 
-```bash
-pip install pymupdf pandas tqdm pillow paddlepaddle==2.6.2 paddleocr==2.9.1
+```mermaid
+flowchart LR
+    PDF[Relatórios e-MEC em PDF] --> Parse[extração.py: Parser e Regex]
+    Parse --> Norm[1 & 2: Renomeação e Padronização]
+    Norm --> Export[3: Geração de Planilhas e Indicadores]
+    Export --> Bardin[4: Análise de Conteúdo de Bardin]
+    Bardin --> BI[Painéis e Tomada de Decisão CIAI]
 ```
 
-> **Nota:** O PaddleOCR é utilizado como fallback para PDFs cujas caixas de conceito final estão renderizadas como imagem (problema comum em relatórios e-MEC mais antigos).
+---
+
+## 🔬 Análise de Conteúdo segundo Bardin
+
+O script [`4_analise_bardin.py`](4_analise_bardin.py) aplica a clássica metodologia de **Análise de Conteúdo de Laurence Bardin** sobre as justificativas textuais redigidas pelos avaliadores do MEC:
+- **Pré-análise e Leitura Flutuante:** Segmentação dos blocos textuais associados a cada indicador (Eixos 1, 2 e 3).
+- **Exploração do Material (Codificação):** Mapeamento léxico e categorial a partir do vocabulário controlado definido em [`config.py`](config.py).
+- **Tratamento dos Resultados e Inferência:** Agrupamento por categorias semânticas (Infraestrutura, Corpo Docente, Projeto Pedagógico, Acessibilidade, Gestão Acadêmica).
 
 ---
 
-## Como Usar
+## 📂 Arquitetura dos Scripts
 
-1. Coloque os PDFs dos relatórios na mesma pasta dos scripts.
-2. Execute:
+| Script | Função Principal |
+|---|---|
+| `config.py` | Centralizador de caminhos, dicionários de regex para campus/modalidade e categorias de Bardin. |
+| `extração.py` | Motor de parsing via regex e OCR para extrair metadados, notas contínuas/faixa e pareceres. |
+| `1_gerar_mapa_renomeacao.py` | Varre os PDFs originais e gera tabela de equivalência para padronização de arquivos. |
+| `2_aplicar_renomeacao.py` | Executa a renomeação segura dos PDFs em lote conforme o código e-MEC e ano. |
+| `3_gerar_planilhas_indicadores.py` | Consolida os registros em tabelas relacionais com pivotamento de notas. |
+| `4_analise_bardin.py` | Executa a classificação temática e gera a matriz de coocorrência de termos. |
 
+---
+
+## 🚀 Como Executar
+
+```bash
+git clone https://github.com/brunomarafiga/CIAI.git
+cd CIAI
+pip install pdfplumber pandas openpyxl
+```
+
+Para extrair e analisar:
 ```bash
 python extração.py
-```
-
-3. O arquivo `relatorio.json` será gerado na mesma pasta.
-4. Para validar a qualidade da extração:
-
-```bash
-python test_relatorio.py
+python 4_analise_bardin.py
 ```
 
 ---
 
-## Cobertura Típica (63 PDFs — 2022–2025)
-
-| Campo | Cobertura |
-|---|---|
-| Id_MEC | 100% |
-| Curso | 100% |
-| Ano_avaliacao | 100% |
-| Modalidade | 100% |
-| Cidade | 100% |
-| CONCEITO_FINAL_CONTINUO | ~98% |
-| CONCEITO_FINAL_FAIXA | ~95% |
-
----
-
-## Observações Técnicas
-
-- O script usa **processamento sequencial** para evitar explosão de memória com o modelo PaddleOCR (~500 MB por instância).
-- O PyMuPDF (`fitz`) é usado para extração nativa de texto; o OCR só é acionado como fallback.
-- Os PDFs **não são versionados** (`.gitignore`) pois são dados sigilosos do MEC.
+<div align="center">
+Desenvolvido por <strong>Bruno Marafiga</strong><br>
+Coordenadoria de Indicadores e Avaliação Institucional (CIAI) • UFPR
+</div>
